@@ -1,10 +1,10 @@
 # How to run the project
 
-npm start
-git add .
-git commit -m "Update: "
-git push
-npm run deploy
+## npm start
+## git add .
+## git commit -m "Update: "
+## git push
+## npm run deploy
 
 # Getting Started with Create React App
 
