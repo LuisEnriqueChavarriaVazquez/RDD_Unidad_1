@@ -2,13 +2,13 @@ const contenidosUnidad = [
     `
     <!--Menu para los contenidos en tiempo real-->
     <div class="mainTabsContent" id="tabsContentID">
-        <ul id="tabs-swipe-demo" class="tabs clgreyl1">
-            <li class="tab col s3 clgreyl1" id="a6tutorialButton"><a class="clbktx" href="#test-swipe-1">Bienvenida</a></li>
-            <li class="tab col s3 clgreyl1" id="a7tutorialButton"><a class="clbktx" href="#test-swipe-3">Unidad de competencia</a></li>
-            <li class="tab col s3 clgreyl1" id="a8tutorialButton"><a class="clbktx" href="#test-swipe-2">Metodología</a></li>
-            <li class="tab col s3 clgreyl1" id="a9tutorialButton"><a class="clbktx" href="#test-swipe-4">Evaluación de los aprendizajes</a></li>
-            <li class="tab col s3 clgreyl1" id="a10tutorialButton"><a class="clbktx" href="#test-swipe-5">Contactos</a></li>
-            <li class="tab col s3 clgreyl1" id="a11tutorialButton"><a class="clbktx" href="#test-swipe-6">Requerimientos</a></li>
+        <ul id="tabs-swipe-demo" class="tabs clgreyl2 shadow4">
+            <li class="tab col s3 clgreyl2" id="a6tutorialButton"><a class="clbktx" href="#test-swipe-1">Bienvenida</a></li>
+            <li class="tab col s3 clgreyl2" id="a7tutorialButton"><a class="clbktx" href="#test-swipe-3">Unidad de competencia</a></li>
+            <li class="tab col s3 clgreyl2" id="a8tutorialButton"><a class="clbktx" href="#test-swipe-2">Metodología</a></li>
+            <li class="tab col s3 clgreyl2" id="a9tutorialButton"><a class="clbktx" href="#test-swipe-4">Evaluación de los aprendizajes</a></li>
+            <li class="tab col s3 clgreyl2" id="a10tutorialButton"><a class="clbktx" href="#test-swipe-5">Contactos</a></li>
+            <li class="tab col s3 clgreyl2" id="a11tutorialButton"><a class="clbktx" href="#test-swipe-6">Requerimientos</a></li>
         </ul>
     </div>
 

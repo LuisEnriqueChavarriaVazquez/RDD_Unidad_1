@@ -37,6 +37,10 @@ menuIconUnityContent.addEventListener('click', () => {
         
         buttonComputerHelpMenu.classList.add('scale-out');
         console.log('buttonComputerHelpMenu: ', buttonComputerHelpMenu);
+        //Ajustamos el tab en la pantalla de inicio
+        setTimeout(() => {
+            ajustarTamanoTabs();
+        }, 450)
     }else{
         menuIconUnityContent.textContent = 'close';
         lateralUnityMenuBackOne.classList.remove('menuLateralWidthHide');
@@ -55,5 +59,9 @@ menuIconUnityContent.addEventListener('click', () => {
 
         buttonComputerHelpMenu.classList.remove('scale-out');
         console.log('buttonComputerHelpMenu: ', buttonComputerHelpMenu);
+        //Ajustamos el tab en la pantalla de inicio
+        setTimeout(() => {
+            ajustarTamanoTabs();
+        }, 450)
     }
 })

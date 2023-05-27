@@ -1,21 +1,21 @@
 /*Colores de unidad 1*/
 .navUnit1 {
-    background-color: #557063;
+    background-color: #be8899;
 }
 
 .nav-superiorUnit1 {
-    background-color: #698b7b !important;
+    background-color: #ad7386 !important;
 }
 
 .leftBorderUnit1 {
-    border-left: #7aa38f 10px solid !important;
+    border-left: #b88394 10px solid !important;
     transition: all 0.2s ease;
     font-weight: 600;
     color: #3d3d3d;
 }
 
 .leftBorderSecondaryUnit1 {
-    border-left: #9bcfb6 10px solid !important;
+    border-left: #e9acc1 10px solid !important;
     transition: all 0.2s ease;
     color: #3d3d3d;
 }
@@ -23,18 +23,18 @@
 .leftBorderUnit1:hover,
 .leftBorderSecondaryUnit1:hover {
     background-color: rgb(202, 202, 202);
-    border-left: #5c796b 20px solid !important;
+    border-left: #724f5b 20px solid !important;
 }
 
 .activeLinkOptionsContentUnit1 {
-    background-color: #607c6f;
-    border-left: #4a6156 20px solid !important;
-    color: #fff;
+    background-color: #9c6b7b;
+    border-left: #6e4251 20px solid !important;
+    color: #fff !important;
     font-weight: 600;
 }
 
 .leftBorderOnUnit1 {
-    border-left: #5c796b 10px solid !important;
+    border-left: #ad7386 10px solid !important;
     background-color: rgb(209, 209, 209);
     font-weight: 700;
     transition: all 0.1s ease;
@@ -45,21 +45,21 @@
     --hue: 223;
     --bg: hsl(var(--hue), 10%, 90%);
     --fg: hsl(var(--hue), 10%, 10%);
-    --primary: #5c796b;
-    --primary-l: #607c6f;
-    --primary-d: #7ca08f;
+    --primary: #ad7386;
+    --primary-l: #be8899;
+    --primary-d: #e0a2b5;
     --white: hsl(var(--hue), 10%, 100%);
     --white-d: hsl(var(--hue), 10%, 45%);
 }
 
 /*Menu lateral de textos*/
 .leftBorderUnit1Menu {
-    border-bottom: #5c796b 70px solid !important;
+    border-bottom: #ad7386 70px solid !important;
     overflow-x: hidden;
 }
 
 .activeButtonTextLateral {
-    border-left: 10px #7aa38f solid;
+    border-left: 10px #db9fb3 solid;
     background-color: #e9e9e9;
     border-radius: 5px;
     transition: all 0.1s ease-in-out;
@@ -67,7 +67,7 @@
 }
 
 .lateralMenuAdjustTextTitle {
-    background-color: #5c796b;
+    background-color: #ad7386;
     position: relative;
     top: -10px;
     left: -10px;
@@ -121,7 +121,7 @@
 
 .activeLinkOptionsContentUnit1Mobile {
     background-color: #dfdfdf;
-    border-left: #7aa38f 10px solid !important;
+    border-left: #db9fb3 10px solid !important;
     color: #292929;
     font-weight: 600;
 }
@@ -132,7 +132,7 @@
     background: -moz-linear-gradient(90deg, rgba(124, 177, 152, 1) 17%, rgba(85, 112, 99, 1) 100%);
     background: -webkit-linear-gradient(90deg, rgba(124, 177, 152, 1) 17%, rgba(85, 112, 99, 1) 100%);
     background: linear-gradient(90deg, rgba(124, 177, 152, 1) 17%, rgba(85, 112, 99, 1) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#7cb198",endColorstr="#557063",GradientType=1);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#7cb198",endColorstr="#be8899",GradientType=1);
     height: 20px;
     border-radius: 5px;
     width: 0px;
@@ -145,14 +145,14 @@
 .input-field input[type]:focus:not([readonly]),
 .input-field textarea:not([readonly]),
 .input-field textarea:focus:not([readonly]) {
-    border-bottom: 1px solid #698b7b;
-    box-shadow: 0 1px 0 0 #698b7b;
+    border-bottom: 1px solid #ad7386;
+    box-shadow: 0 1px 0 0 #ad7386;
 }
 
 /* Inactive/Active Default input label color */
 .input-field input[type]:focus:not([readonly]) + label,
 .input-field textarea:focus:not([readonly]) + label {
-    color: #698b7b;
+    color: #ad7386;
 }
 
 /* Active/Inactive Invalid input field colors */
@@ -160,8 +160,8 @@
 .input-field input[type].invalid:focus,
 .input-field textarea.invalid,
 .input-field textarea.invalid:focus {
-    border-bottom: 1px solid #698b7b;
-    box-shadow: 0 1px 0 0 #698b7b;
+    border-bottom: 1px solid #ad7386;
+    box-shadow: 0 1px 0 0 #ad7386;
 }
 
 /* Active/Inactive Invalid input label color */
@@ -171,7 +171,7 @@
 .input-field textarea.invalid:focus + label,
 .input-field textarea.invalid ~ .helper-text::after,
 .input-field textarea.invalid:focus ~ .helper-text::after {
-    color: #698b7b;
+    color: #ad7386;
 }
 
 /* Active/Inactive Valid input field color */
@@ -179,8 +179,8 @@
 .input-field input[type].valid:focus,
 .input-field textarea.valid,
 .input-field textarea.valid:focus {
-    border-bottom: 1px solid #698b7b;
-    box-shadow: 0 1px 0 0 #698b7b;
+    border-bottom: 1px solid #ad7386;
+    box-shadow: 0 1px 0 0 #ad7386;
 }
 
 /* Active/Inactive Valid input label color */
@@ -190,5 +190,5 @@
 .input-field textarea.valid:focus + label,
 .input-field textarea.valid ~ .helper-text::after,
 .input-field textarea.valid:focus ~ .helper-text::after {
-    color: #698b7b;
+    color: #ad7386;
 }
