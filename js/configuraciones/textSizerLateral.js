@@ -36,6 +36,7 @@ if (valueTextAdjust_1 === null ||
 ///////////////////////////////////////////////////////////
 //Identificador de texto dinamico
 let textoDinamicoIdentificador = document.getElementsByClassName('textoDinamicoIdentificador');
+console.log('textoDinamicoIdentificador: ', textoDinamicoIdentificador);
 
 //Clases tamaños
 let textoReadingElementsH1 = document.getElementsByClassName('textoReadingH1');
