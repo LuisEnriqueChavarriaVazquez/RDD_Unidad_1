@@ -1,13 +1,18 @@
 Actividades RDD 1
 
 
-[Listo] Copiar la bienvenida
-[Listo] Copiar la unidad de competencia
-[Listo] Copiar la metodología
-[Listo] Copiar la evaluación de los aprendizajes
-[Listo] Copiar los contactos
-[Listo] Requerimientos
-[Listo] Manual de usuario
+[Listo_luis] Copiar la bienvenida
+[Listo_luis] Copiar la unidad de competencia
+[Listo_luis] Copiar la metodología
+[Listo_luis] Copiar la evaluación de los aprendizajes
+[Listo_luis] Copiar los contactos
+[Listo_luis] Requerimientos
+[Listo_luis] Manual de usuario
+[Listo_luis] Sección de contacto
+[Listo_luis] Ajustar el encabezado de la pagina con el nombre de la asignatura
+[Listo_luis] Ajustar el pie de pagina con los nuevos datos
+
+--------------------
 
 Ajustar el menú para los escritorio
 Ajustar el menú para los dispositivos móviles
@@ -21,7 +26,11 @@ Agregar palabras del glosario
 Sección de contenidos
 Sección de material de apoyo
 Sección de glosario
-Sección de contacto
+
 Sección del manual de usuario
 Referencias
+
+Arreglar las flechas de retorna de las paginas, ya que no todas estan correctas
+
+Cargar los nuevos colores y texto en el PDF de evaluación
 

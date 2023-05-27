@@ -6,10 +6,16 @@ function ajustarTamanoTabs(){
     let parentContainer = document.getElementById('lateralUnityContent');
     //Accedemos a su ancho exacto
     let parentContainerAncho = parentContainer.offsetWidth - .5;
-    console.log('parentContainerAncho: ', parentContainerAncho);
 
     //Importante... damos a el tab el ancho de el contenedor padre
     tabsContentElement.setAttribute('style', 'width: ' + parentContainerAncho + 'px;');
 }
 
+//Ejecutamos el ajuste en los tabs la primera vez que inicie la pagina
 ajustarTamanoTabs();
+
+//Ejecutamos la misma función, pero ahora en cada ocasión que el tamaño de la pantalla cambie
+window.addEventListener('resize', function() {
+    ajustarTamanoTabs();
+});
+  
