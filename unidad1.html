@@ -37,10 +37,11 @@
     <script defer src="js/loading/loadingCuestionario.js"></script>
     <script class="hide-on-med-and-down" defer src="js/progressReading/progressReadingContent.js"></script>
     <script class="hide-on-large-only" defer src="js/progressReading/progressReading.js"></script>
-    <script defer src="js/noCopy.js"></script>
+    <!-- <script defer src="js/noCopy.js"></script> -->
 
     <!--Script para la carga de los contenidos-->
     <script defer src="js/cargaContenidos/unidad1.js"></script>
+    <script defer src="js/cargaContenidos/tabsPositioning.js"></script>
 
     <!--Tutorial interactivo-->
     <script defer src="js/driver.min.js"></script>
@@ -72,9 +73,9 @@
             <div class="nav-wrapper navUnit1" id="menuIconUnity">
                 <a href="polilibro.html" data-target="mobile-demo" class="sidenav-trigger show-on-large"><i
                         class="material-icons">arrow_back</i></a>
-                <a class="brand-logo titleUnity white-text">Unidad 1&nbsp;&nbsp;
+                <a class="brand-logo titleUnity white-text">RDD Unidad 1&nbsp;&nbsp;
                     <span class="border1 textoStandar titleUnityColorUnit1">
-                        Título de la unidad 1
+                        La Empresa y su entorno
                     </span>
                 </a>
                 <!--Barra de progreso de lectura en modo computadora-->
@@ -89,7 +90,7 @@
     <div class="progress hide-on-large-only">
         <div class="determinate" id="progressReading"></div>
     </div>
-    
+
 
     <section class="fullUnity clgreyl1">
         <!--Contenidos principales de la unidad-->
@@ -104,74 +105,89 @@
                         <section id="lateralUnityMenu" class="lateralUnityMenu clw">
                             <div id="lateralUnityMenuSectionContainer" class="lateralUnityMenuSectionContainer">
                                 <a contador="0"
+                                    class="deskOption navOptionsContent cardOpcionesMenuLateral waves-effect waves-light clgreyl2 border1 shadow2"
+                                    id="a1tutorialButton"
+                                    href="unidad1.html">
+                                    <i contador="0" class="deskOption material-icons clbktx">auto_stories</i>
+                                    <p contador="0" class="deskOption clbktx">Inicio</p>
+                                </a>
+
+                                <a contador="1"
                                     class="clbktx deskOption navOptionsContent rememberStateUnit1 mainSectionMenu leftBorderUnit1">1.
                                     Sección
                                     A</a>
-                                <a contador="1"
+                                <a contador="2"
                                     class="clbktx deskOption navOptionsContent rememberStateUnit1 secondarySectionMenu leftBorderSecondaryUnit1">1.1
                                     Sección A.1</a>
-                                <a contador="2"
+                                <a contador="3"
                                     class="clbktx deskOption navOptionsContent rememberStateUnit1 mainSectionMenu leftBorderUnit1">2.
                                     Sección
                                     B</a>
-                                <a contador="3"
+                                <a contador="4"
                                     class="clbktx deskOption navOptionsContent rememberStateUnit1 secondarySectionMenu leftBorderSecondaryUnit1">2.1
                                     Sección B.1</a>
-                                <a contador="4"
+                                <a contador="5"
                                     class="clbktx deskOption navOptionsContent rememberStateUnit1 secondarySectionMenu leftBorderSecondaryUnit1">2.2
                                     Sección B.2</a>
-                                <a contador="5"
+                                <a contador="6"
                                     class="clbktx deskOption navOptionsContent rememberStateUnit1 secondarySectionMenu leftBorderSecondaryUnit1">2.3
                                     Sección B.3</a>
-                                <a contador="6"
+                                <a contador="7"
                                     class="clbktx deskOption navOptionsContent rememberStateUnit1 mainSectionMenu leftBorderUnit1">3.
                                     Sección
                                     C</a>
-                                <a contador="7"
+                                <a contador="8"
                                     class="clbktx deskOption navOptionsContent rememberStateUnit1 secondarySectionMenu leftBorderSecondaryUnit1">3.1
                                     Sección C.1</a>
-                                <a contador="8"
+                                <a contador="9"
                                     class="clbktx deskOption navOptionsContent rememberStateUnit1 secondarySectionMenu leftBorderSecondaryUnit1">3.2
                                     Sección C.2</a>
-                                <a contador="9"
+                                <a contador="10"
                                     class="clbktx deskOption navOptionsContent rememberStateUnit1 secondarySectionMenu leftBorderSecondaryUnit1">3.3
                                     Sección C.3</a>
-                                <a contador="10"
+                                <a contador="11"
                                     class="clbktx deskOption navOptionsContent rememberStateUnit1 secondarySectionMenu leftBorderSecondaryUnit1">3.3
                                     Sección C.4</a>
                                 <hr>
-                                <a contador="11"
-                                    class="deskOption navOptionsContent cardOpcionesMenuLateral waves-effect waves-light clgreyl2 border1 shadow2"
-                                    id="a1tutorialButton">
-                                    <i contador="11" class="deskOption material-icons clbktx">auto_stories</i>
-                                    <p contador="11" class="deskOption clbktx">Material de apoyo</p>
-                                </a>
                                 <a contador="12"
                                     class="deskOption navOptionsContent cardOpcionesMenuLateral waves-effect waves-light clgreyl2 border1 shadow2"
-                                    id="a2tutorialButton">
-                                    <i contador="12" class="deskOption material-icons clbktx">fitness_center</i>
-                                    <p contador="12" class="deskOption clbktx">Actividades de aprendizaje</p>
+                                    id="a1tutorialButton">
+                                    <i contador="12" class="deskOption material-icons clbktx">auto_stories</i>
+                                    <p contador="12" class="deskOption clbktx">Material de apoyo</p>
                                 </a>
                                 <a contador="13"
                                     class="deskOption navOptionsContent cardOpcionesMenuLateral waves-effect waves-light clgreyl2 border1 shadow2"
+                                    id="a2tutorialButton">
+                                    <i contador="13" class="deskOption material-icons clbktx">fitness_center</i>
+                                    <p contador="13" class="deskOption clbktx">Actividades de aprendizaje</p>
+                                </a>
+                                <a contador="14"
+                                    class="deskOption navOptionsContent cardOpcionesMenuLateral waves-effect waves-light clgreyl2 border1 shadow2"
                                     id="a3tutorialButton">
-                                    <i contador="13" class="deskOption material-icons clbktx">diversity_2</i>
-                                    <p contador="13" class="deskOption clbktx">Cierre de unidad temática</p>
+                                    <i contador="14" class="deskOption material-icons clbktx">diversity_2</i>
+                                    <p contador="14" class="deskOption clbktx">Cierre de unidad temática</p>
                                 </a>
                                 <a href="unidad1_evaluacion.html" id="a3tutorialButton">
-                                    <div contador="14"
+                                    <div contador="15"
                                         class="deskOption navOptionsContent cardOpcionesMenuLateral waves-effect waves-light clgreyl2 border1 shadow2"
                                         id="a4tutorialButton">
-                                        <i contador="14" class="deskOption material-icons clbktx">quiz</i>
-                                        <p contador="14" class="deskOption clbktx">Evaluación</p>
+                                        <i contador="15" class="deskOption material-icons clbktx">quiz</i>
+                                        <p contador="15" class="deskOption clbktx">Evaluación</p>
                                     </div>
                                 </a>
-                                <a contador="15"
+                                <a contador="16"
                                     class="deskOption navOptionsContent cardOpcionesMenuLateral waves-effect waves-light clgreyl2 border1 shadow2"
                                     id="a5tutorialButton">
-                                    <i contador="15" class="deskOption material-icons clbktx">format_quote</i>
-                                    <p contador="15" class="deskOption clbktx">Referencias</p>
+                                    <i contador="16" class="deskOption material-icons clbktx">format_quote</i>
+                                    <p contador="16" class="deskOption clbktx">Referencias</p>
                                 </a>
+                                <a contador="17"
+                                    class="deskOption navOptionsContent cardOpcionesMenuLateral waves-effect waves-light clgreyl2 border1 shadow2"
+                                    id="a5tutorialButton">
+                                    <i contador="17" class="deskOption material-icons clbktx">format_quote</i>
+                                    <p contador="17" class="deskOption clbktx">Manual de usuario</p>
+                                </a>
+
                             </div>
                         </section>
                     </section>

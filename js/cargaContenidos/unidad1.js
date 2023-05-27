@@ -1,4 +1,25 @@
 const contenidosUnidad = [
+    `
+    <!--Menu para los contenidos en tiempo real-->
+    <div class="mainTabsContent" id="tabsContentID">
+        <ul id="tabs-swipe-demo" class="tabs clgreyl1">
+            <li class="tab col s3 clgreyl1" id="a6tutorialButton"><a class="clbktx" href="#test-swipe-1">Bienvenida</a></li>
+            <li class="tab col s3 clgreyl1" id="a7tutorialButton"><a class="clbktx" href="#test-swipe-3">Unidad de competencia</a></li>
+            <li class="tab col s3 clgreyl1" id="a8tutorialButton"><a class="clbktx" href="#test-swipe-2">Metodología</a></li>
+            <li class="tab col s3 clgreyl1" id="a9tutorialButton"><a class="clbktx" href="#test-swipe-4">Evaluación de los aprendizajes</a></li>
+            <li class="tab col s3 clgreyl1" id="a10tutorialButton"><a class="clbktx" href="#test-swipe-5">Contactos</a></li>
+            <li class="tab col s3 clgreyl1" id="a11tutorialButton"><a class="clbktx" href="#test-swipe-6">Requerimientos</a></li>
+        </ul>
+    </div>
+
+    <div id="test-swipe-1" class="col s12 blue">Test 1</div>
+    <div id="test-swipe-2" class="col s12 red">Test 2</div>
+    <div id="test-swipe-3" class="col s12 green">Test 3</div>
+    <div id="test-swipe-4" class="col s12 blue">Test 1</div>
+    <div id="test-swipe-5" class="col s12 red">Test 2</div>
+    <div id="test-swipe-6" class="col s12 green">Test 3</div>
+
+    `,
     `<div class="clgreyl2 cardDesignFather shadow2 border1">
         <div class="cardDesign clw shadow2 border1">
             <p class="textoTitulo clbktx">Texto título 1</p>
