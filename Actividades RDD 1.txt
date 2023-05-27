@@ -21,7 +21,7 @@ Agregar las preguntas
 
 Arreglar el bug en la parte de la configuracion de los textos
 
-Agregar palabras del glosario
+[Listo_ulises] Agregar palabras del glosario
 
 Sección de contenidos
 Sección de material de apoyo
