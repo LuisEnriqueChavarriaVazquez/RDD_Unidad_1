@@ -128,11 +128,11 @@
 
 #barraPreguntas,
 #barraPreguntas2 {
-    background: rgb(124, 177, 152);
-    background: -moz-linear-gradient(90deg, rgba(124, 177, 152, 1) 17%, rgba(85, 112, 99, 1) 100%);
-    background: -webkit-linear-gradient(90deg, rgba(124, 177, 152, 1) 17%, rgba(85, 112, 99, 1) 100%);
-    background: linear-gradient(90deg, rgba(124, 177, 152, 1) 17%, rgba(85, 112, 99, 1) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#7cb198",endColorstr="#be8899",GradientType=1);
+    background: rgb(153,109,153);
+    background: -moz-linear-gradient(90deg, rgba(153,109,153,1) 17%, rgba(116,84,116,1) 100%);
+    background: -webkit-linear-gradient(90deg, rgba(153,109,153,1) 17%, rgba(116,84,116,1) 100%);
+    background: linear-gradient(90deg, rgba(153,109,153,1) 17%, rgba(116,84,116,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#996d99",endColorstr="#745474",GradientType=1); 
     height: 20px;
     border-radius: 5px;
     width: 0px;
