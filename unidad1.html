@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en" id="generalDocument">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+    <title>Unidad 1</title>
+    <link rel="shortcut icon" href="img/ipn.ico" type="image/x-icon">
+
+    <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="css/scss/addsOn/materialize.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="css/scss/styles.css">
+    <link rel="stylesheet" href="css/scss/addsOn/driver.min.css">
+    <link rel="stylesheet" href="css/loadingLongTime/loading.css">
+
+    <!--Colors-->
+    <link id="colorAdaptable" rel="stylesheet" href="css/colors/standarColors.css">
+    <link id="unitColorsAdaptable" rel="stylesheet">
+
+    <!-- Compiled and minified JavaScript -->
+    <script defer src="js/jquery.min.js"></script>
+    <script defer src="js/materialize.min.js"></script>
+    <script defer src="js/activateComponentsMaterialize.js"></script>
+
+    <!--Componentes inyectables-->
+    <script defer src="js/components/header.js"></script>
+    <script defer src="js/components/footer.js"></script>
+
+    <!--Scripts propios-->
+    <script defer src="js/toggleMenuLateralUnity.js"></script>
+    <script defer src="js/menuSticky.js"></script>
+    <script defer src="js/activeLinksUnits/activeLinksU1.js"></script>
+    <script defer src="js/configuraciones/modoLuz.js"></script>
+    <script defer src="js/configuraciones/modoLectura.js"></script>
+    <script defer src="js/configuraciones/textSizerLateral.js"></script>
+    <script defer src="js/loading/loadingCuestionario.js"></script>
+    <script class="hide-on-med-and-down" defer src="js/progressReading/progressReadingContent.js"></script>
+    <script class="hide-on-large-only" defer src="js/progressReading/progressReading.js"></script>
+    <script defer src="js/noCopy.js"></script>
+
+    <!--Script para la carga de los contenidos-->
+    <script defer src="js/cargaContenidos/unidad1.js"></script>
+
+    <!--Tutorial interactivo-->
+    <script defer src="js/driver.min.js"></script>
+    <script defer src="js/tutorialInteractiveContenidoUnidad.js"></script>
+
+</head>
+
+<body>
+
+    <!--Pantalla de carga para los cuestionarios en caso de que tarde mucho-->
+    <section id="bookLoading" class="clgreyl1">
+        <div class="book">
+            <div class="book__pg-shadow"></div>
+            <div class="book__pg"></div>
+            <div class="book__pg book__pg--2"></div>
+            <div class="book__pg book__pg--3"></div>
+            <div class="book__pg book__pg--4"></div>
+            <div class="book__pg book__pg--5"></div>
+        </div>
+        <div class="clbktx textoStandar clgreyl2 border1 textoDeCarga">Cargando contenidos</div>
+    </section>
+
+
+    <section>
+        <!--Navbar superior-->
+        <div class="nav-superior nav-superiorUnit1" id="nav-superior"></div>
+        <!--Navbar principal-->
+        <nav id="menuStickyUnity">
+            <div class="nav-wrapper navUnit1" id="menuIconUnity">
+                <a href="polilibro.html" data-target="mobile-demo" class="sidenav-trigger show-on-large"><i
+                        class="material-icons">arrow_back</i></a>
+                <a class="brand-logo titleUnity white-text">Unidad 1&nbsp;&nbsp;
+                    <span class="border1 textoStandar titleUnityColorUnit1">
+                        Título de la unidad 1
+                    </span>
+                </a>
+                <!--Barra de progreso de lectura en modo computadora-->
+                <div class="progressContent hide-on-med-and-down">
+                    <div class="determinate" id="progressReadingContent"></div>
+                </div>
+            </div>
+        </nav>
+    </section>
+
+    <!--Barra de progreso de lectura para modo celular-->
+    <div class="progress hide-on-large-only">
+        <div class="determinate" id="progressReading"></div>
+    </div>
+    
+
+    <section class="fullUnity clgreyl1">
+        <!--Contenidos principales de la unidad-->
+        <section id="lateralUnityMenuBackOne" class="lateralUnityMenuBackOne menuLateralWidthShow"
+            style="background-color: #9BCFB6;">
+            <section id="lateralUnityMenuBackTwo" class="lateralUnityMenuBackTwo menuLateralWidthShow"
+                style="background-color: #7aa18e;">
+                <section id="lateralUnityMenuBackThree" class="lateralUnityMenuBackThree menuLateralWidthShow"
+                    style="background-color: #547264;">
+                    <section id="lateralUnityMenuBackFour" class="lateralUnityMenuBackFour menuLateralWidthShow"
+                        style="background-color: #42584e;">
+                        <section id="lateralUnityMenu" class="lateralUnityMenu clw">
+                            <div id="lateralUnityMenuSectionContainer" class="lateralUnityMenuSectionContainer">
+                                <a contador="0"
+                                    class="clbktx deskOption navOptionsContent rememberStateUnit1 mainSectionMenu leftBorderUnit1">1.
+                                    Sección
+                                    A</a>
+                                <a contador="1"
+                                    class="clbktx deskOption navOptionsContent rememberStateUnit1 secondarySectionMenu leftBorderSecondaryUnit1">1.1
+                                    Sección A.1</a>
+                                <a contador="2"
+                                    class="clbktx deskOption navOptionsContent rememberStateUnit1 mainSectionMenu leftBorderUnit1">2.
+                                    Sección
+                                    B</a>
+                                <a contador="3"
+                                    class="clbktx deskOption navOptionsContent rememberStateUnit1 secondarySectionMenu leftBorderSecondaryUnit1">2.1
+                                    Sección B.1</a>
+                                <a contador="4"
+                                    class="clbktx deskOption navOptionsContent rememberStateUnit1 secondarySectionMenu leftBorderSecondaryUnit1">2.2
+                                    Sección B.2</a>
+                                <a contador="5"
+                                    class="clbktx deskOption navOptionsContent rememberStateUnit1 secondarySectionMenu leftBorderSecondaryUnit1">2.3
+                                    Sección B.3</a>
+                                <a contador="6"
+                                    class="clbktx deskOption navOptionsContent rememberStateUnit1 mainSectionMenu leftBorderUnit1">3.
+                                    Sección
+                                    C</a>
+                                <a contador="7"
+                                    class="clbktx deskOption navOptionsContent rememberStateUnit1 secondarySectionMenu leftBorderSecondaryUnit1">3.1
+                                    Sección C.1</a>
+                                <a contador="8"
+                                    class="clbktx deskOption navOptionsContent rememberStateUnit1 secondarySectionMenu leftBorderSecondaryUnit1">3.2
+                                    Sección C.2</a>
+                                <a contador="9"
+                                    class="clbktx deskOption navOptionsContent rememberStateUnit1 secondarySectionMenu leftBorderSecondaryUnit1">3.3
+                                    Sección C.3</a>
+                                <a contador="10"
+                                    class="clbktx deskOption navOptionsContent rememberStateUnit1 secondarySectionMenu leftBorderSecondaryUnit1">3.3
+                                    Sección C.4</a>
+                                <hr>
+                                <a contador="11"
+                                    class="deskOption navOptionsContent cardOpcionesMenuLateral waves-effect waves-light clgreyl2 border1 shadow2"
+                                    id="a1tutorialButton">
+                                    <i contador="11" class="deskOption material-icons clbktx">auto_stories</i>
+                                    <p contador="11" class="deskOption clbktx">Material de apoyo</p>
+                                </a>
+                                <a contador="12"
+                                    class="deskOption navOptionsContent cardOpcionesMenuLateral waves-effect waves-light clgreyl2 border1 shadow2"
+                                    id="a2tutorialButton">
+                                    <i contador="12" class="deskOption material-icons clbktx">fitness_center</i>
+                                    <p contador="12" class="deskOption clbktx">Actividades de aprendizaje</p>
+                                </a>
+                                <a contador="13"
+                                    class="deskOption navOptionsContent cardOpcionesMenuLateral waves-effect waves-light clgreyl2 border1 shadow2"
+                                    id="a3tutorialButton">
+                                    <i contador="13" class="deskOption material-icons clbktx">diversity_2</i>
+                                    <p contador="13" class="deskOption clbktx">Cierre de unidad temática</p>
+                                </a>
+                                <a href="unidad1_evaluacion.html" id="a3tutorialButton">
+                                    <div contador="14"
+                                        class="deskOption navOptionsContent cardOpcionesMenuLateral waves-effect waves-light clgreyl2 border1 shadow2"
+                                        id="a4tutorialButton">
+                                        <i contador="14" class="deskOption material-icons clbktx">quiz</i>
+                                        <p contador="14" class="deskOption clbktx">Evaluación</p>
+                                    </div>
+                                </a>
+                                <a contador="15"
+                                    class="deskOption navOptionsContent cardOpcionesMenuLateral waves-effect waves-light clgreyl2 border1 shadow2"
+                                    id="a5tutorialButton">
+                                    <i contador="15" class="deskOption material-icons clbktx">format_quote</i>
+                                    <p contador="15" class="deskOption clbktx">Referencias</p>
+                                </a>
+                            </div>
+                        </section>
+                    </section>
+                </section>
+            </section>
+        </section>
+
+        <!--Menu para los dispositivos móviles-->
+        <ul id="slide-out" class="sidenav clw leftBorderUnit1Menu" style="padding: 10px;">
+            <p class="textoTitulo white-text lateralMenuAdjustTextTitle">Secciones</p>
+            <li><a class="clbktx textoStandar clw border0 activeButtonTextLateral" href="unidad1.html"><i
+                        class="material-icons clbktx">looks_one</i>Unidad 1</a></li>
+            <div class="mobileOptionsContainer containerSectionLateralMobileMenu clgreyl1 border0">
+                <div class="truncate waves-effect clbktx clgreyl2 titleSectionMobileMenu" id="primeraSeccion"><i
+                        class="material-icons" id="primeraSeccionIcon">expand_more</i><b>Sección A Introducción</b>
+                </div>
+                <p contador="0"
+                    class="mobileOption navOptionsContentMobileMenu truncate waves-effect clbktx primeraSeccionHide">A.1
+                    Con texto
+                    mucho más amplios para poder verlo en el menu</p>
+                <p contador="1"
+                    class="mobileOption navOptionsContentMobileMenu truncate waves-effect clbktx primeraSeccionHide">A.1
+                    Con texto
+                    mucho más amplios para poder verlo en el menu</p>
+                <p contador="2"
+                    class="mobileOption navOptionsContentMobileMenu truncate waves-effect clbktx primeraSeccionHide">
+                    Sección A.2</p>
+                <p contador="3"
+                    class="mobileOption navOptionsContentMobileMenu truncate waves-effect clbktx primeraSeccionHide">A.3
+                    Con texto un
+                    poco más largo</p>
+                <p contador="4"
+                    class="mobileOption navOptionsContentMobileMenu truncate waves-effect clbktx primeraSeccionHide">
+                    Sección A.4</p>
+                <p contador="5"
+                    class="mobileOption navOptionsContentMobileMenu truncate waves-effect clbktx primeraSeccionHide">
+                    Sección A.1 Con
+                    texto mucho más amplios para poder verlo en el menu</p>
+                <p contador="6"
+                    class="mobileOption navOptionsContentMobileMenu truncate waves-effect clbktx primeraSeccionHide">
+                    4.2.4 Anualidades
+                    y programa de amortización</p>
+                <p contador="7"
+                    class="mobileOption navOptionsContentMobileMenu truncate waves-effect clbktx primeraSeccionHide">
+                    4.1.1.1 Valor
+                    futuro de cantidades únicas</p>
+                <p contador="8"
+                    class="mobileOption navOptionsContentMobileMenu truncate waves-effect clbktx primeraSeccionHide">
+                    Sección A.4</p>
+            </div>
+            <div class="mobileOptionsContainer containerSectionLateralMobileMenu clgreyl1 border0">
+                <div class="truncate waves-effect clbktx clgreyl2 titleSectionMobileMenu" id="segundaSeccion"><i
+                        class="material-icons" id="segundaSeccionIcon">expand_more</i><b>Sección A Introducción</b>
+                </div>
+                <p contador="9"
+                    class="mobileOption navOptionsContentMobileMenu truncate waves-effect clbktx segundaSeccionHide">
+                    Sección A.1 Con
+                    texto mucho más amplios para poder verlo en el menu</p>
+                <p contador="10"
+                    class="mobileOption navOptionsContentMobileMenu truncate waves-effect clbktx segundaSeccionHide">
+                    Sección A.2</p>
+            </div>
+            <div class="mobileOptionsContainer">
+                <li contador="11" class="mobileOption navOptionsContentMobileMenu"><a contador="11"
+                        class="mobileOption clbktx textoStandar truncate clgreyl1 border0"><i
+                            class="material-icons clbktx">auto_stories</i>Material de apoyo</a></li>
+                <li contador="12" class="mobileOption navOptionsContentMobileMenu"><a contador="12"
+                        class="mobileOption clbktx textoStandar truncate clgreyl1 border0"><i
+                            class="material-icons clbktx">fitness_center</i>Actividades de aprendizaje</a></li>
+                <li contador="13" class="mobileOption navOptionsContentMobileMenu"><a contador="13"
+                        class="mobileOption clbktx textoStandar truncate clgreyl1 border0"><i
+                            class="material-icons clbktx">diversity_2</i>Cierre</a></li>
+                <li contador="14" class="mobileOption navOptionsContentMobileMenu"><a contador="14"
+                        class="mobileOption clbktx textoStandar truncate clgreyl1 border0"
+                        href="unidad1_evaluacion.html"><i class="material-icons clbktx">quiz</i>Evaluación</a></li>
+                <li contador="15" class="mobileOption navOptionsContentMobileMenu"><a contador="15"
+                        class="mobileOption clbktx textoStandar truncate clgreyl1 border0"><i
+                            class="material-icons clbktx">format_quote</i>Referencias</a></li>
+            </div>
+        </ul>
+
+        <!--Menu para la configuración de los textos-->
+        <ul id="slide-fontAdjust" class="sidenav clw leftBorderUnit1Menu">
+            <p class="textoTitulo white-text lateralMenuAdjustTextTitle">Textos</p>
+            <li><a class="clbktx textoStandar clw border1" href="#" id="adjustFont_1"><i
+                        class="material-icons clbktx">format_bold</i>Texto en negritas</a></li>
+            <li><a class="clbktx textoStandar clw border1" href="#" id="adjustFont_2"><i
+                        class="material-icons clbktx">format_italic</i>Texto en italica</a></li>
+            <li><a class="clbktx textoStandar clw border1" href="#" id="adjustFont_3"><i
+                        class="material-icons clbktx">format_underlined</i>Texto subrayado</a></li>
+            <li><a class="clbktx textoStandar clw border1" href="#" id="adjustFont_6"><i
+                        class="material-icons clbktx">border_color</i>Palabras clave</a></li>
+            <li><a class="clbktx textoStandar clw border1" href="#" id="adjustFont_7"><i
+                        class="material-icons clbktx">format_align_left</i>Quitar justificado</a></li>
+            <li><a class="clbktx textoStandar clw border1" href="#" id="adjustFont_8"><i
+                        class="material-icons clbktx">format_line_spacing</i>Espaciado de lineas</a></li>
+            <li><a class="clbktx textoStandar clw border1 textSizeOne" href="#"><i class="clbktx">H1</i>Tamaño de fuente
+                    H1</a></li>
+            <li><a class="clbktx textoStandar clw border1 textSizeTwo" href="#"><i class="clbktx">H2</i>Tamaño de fuente
+                    H2</a></li>
+            <li><a class="clbktx textoStandar clw border1 textSizeThree" href="#"><i class="clbktx">H3</i>Tamaño de
+                    fuente H3</a></li>
+        </ul>
+
+        <!--Contenidos principales de texto-->
+        <section id="lateralUnityContent" class="lateralUnityContentList clgreyl1">
+
+        </section>
+    </section>
+
+
+    <!--Inyectamos componente de footer-->
+    <section id="footerListener"></section>
+
+    <a href="#" data-target="slide-out"
+        class="border5 shadow2 white-text waves-effect waves-light buttonMenuMobile sidenav-trigger hide-on-large-only"
+        style="background-color: #4e685b;"><i class="material-icons">menu</i></a>
+    <a href="#" data-target="mobile-demo"
+        class="border5 shadow2 white-text waves-effect waves-light buttonMenuMobile sidenav-trigger hide-on-med-and-down"
+        style="background-color: #4e685b; width: 54px; height: 54px;">
+        <i class="material-icons" id="menuIconUnityContent">close</i>
+    </a>
+
+    <!--Botones para la configuracion de los textos-->
+    <a href="#" data-target="slide-fontAdjust"
+        class="border5 shadow2 white-text waves-effect waves-light buttonFontAdjustMobile sidenav-trigger"
+        style="background-color: #608875; width: 54px; height: 54px;">
+        <i class="material-icons">text_format</i>
+    </a>
+
+    <!--Boton de tutorial-->
+    <a class="waves-effect waves-light btn-large botonPolilibro border1 cl4 hide-on-med-and-down scale-transition"
+        id="buttonComputerHelp"><i class="material-icons left">help</i>Ayuda</a>
+
+</body>
+
+</html>
