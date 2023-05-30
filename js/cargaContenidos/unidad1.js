@@ -137,244 +137,113 @@ const contenidosUnidad = [
         </p>
     </div>
 
-</div>
-
-`,
-`<div class="clgreyl2 cardDesignFather shadow2 border1">
-    <div class="cardDesign clw shadow2 border1">
-        <p class="textoTitulo clbktx">Texto título 1</p>
+</div>`,
+`<div class="cardDesign clw shadow2 border1">
+        <p class="textoTitulo clbktx">Introducción</p>
         <!--Card con un ejemplo-->
         <p class="textoStandar clbktx textoDinamicoIdentificador textoReadingH2">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore, obcaecati recusandae
-            dignissimos
-            consequuntur itaque assumenda voluptas dicta aspernatur iusto suscipit quas! Quidem iusto beatae
-            quaerat
-            cupiditate eum fuga omnis maiores. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Nostrum
-            labore <i class="keyWord"> lorem clave de ejemplo
-                minima excepturi incidunt voluptatibus culpa expedita quod explicabo, cumque voluptatum
-                accusamus,</i>
-            similique
-            laboriosam magnam! Obcaecati harum nemo molestias adipisci quas?
+        Las empresas son la base del sistema económico, debido a que se encargan de la producción, comercialización y distribución de bienes que satisfacen las múltiples necesidades la sociedad. Más allá de su infraestructura, tamaño y giro toda empresa debe constituirse de acuerdo con la legislación vigente que le otorga una personalidad jurídica propia e independiente de sus dueños; para su funcionamiento requiere de recursos financieros, tecnológicos y humanos los cuales deben ser administrados eficientemente para cumplir con sus objetivos.
+        
+        <br><br>Las empresas juegan un papel fundamental en cualquier economía; sin embargo, son afectadas por diferentes factores presentes en el micro y macroentorno que las obligan a tomar decisiones con el propósito de permanecer vigentes en el mercado. Por otro lado, una buena o mala administración de los recursos se verá reflejada en las finanzas, que se encargan de la distribución y el uso que se le da al dinero.
+        
+        <br><br>Este recurso didáctico digital (RDD) se construyó con la intención de apoyarte en tu proceso de aprendizaje, que en esta unidad temática, está dirigido a reconocer el papel de las finanzas a partir del contexto empresarial.
+        </p>
+</div>`,
+`<div class="cardDesign clw shadow2 border1">
+        <p class="textoTitulo clbktx">1.1 La empresa</p>
+        <!--Card con un ejemplo-->
+        <p class="textoStandar clbktx textoDinamicoIdentificador textoReadingH2">
+        Independientemente del lugar en donde te encuentres en este momento, mira a tu alrededor y notarás la existencia de una gran cantidad de satisfactores (bienes). Estos son producidos y/o distribuidos por diferentes empresas.<br><br>
+        Algunas definiciones de empresa son:<br>
+        <ol class="textoStandar clbktx textoDinamicoIdentificador textoReadingH2" style="list-style: square;">
+            <li>Acción de emprender una cosa con un riesgo implícito (Münch, 2017).</li>
+            <li>Unidad económica de producción dedicada a actividades industriales, mercantiles o de prestación de servicios, cuyo objetivo dependerá del sistema de organización económica en que se desarrolle. En una economía de mercado, el fin de la empresa consiste en la obtención del máximo beneficio o lucro (Graue, 2009).</li>
+        </ol>
+        </p>
+</div>`,
+`<div class="cardDesign clw shadow2 border1">
+        <p class="textoTitulo clbktx">1.1.1 Constitución jurídica</p>
+        <p class="textoStandar clbktx textoDinamicoIdentificador textoReadingH2">
+        En México de acuerdo con el Servicio de Administración Tributaria (SAT) para fines fiscales existen las siguientes figuras: personas físicas y personas morales.<br>
         </p>
 
         <div class="cardDesign clgreyl2 border1">
-            <p class="textoTitulo clbktx">Ejemplo</p>
+            <p class="textoTitulo clbktx">Persona física</p>
             <p class="textoStandar clbktx textoDinamicoIdentificador textoReadingH2">
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore, obcaecati recusandae
-                dignissimos
-                consequuntur itaque assumenda voluptas dicta aspernatur iusto suscipit quas! Quidem iusto
-                beatae
-                quaerat
-                cupiditate eum fuga omnis maiores. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Nostrum
-                labore
-                minima excepturi incidunt voluptatibus culpa expedita quod explicabo, cumque voluptatum
-                accusamus,
-                similique
-                laboriosam magnam! Obcaecati harum nemo molestias adipisci quas?
+                "Individuo que realiza cualquier actividad económica (vendedor, comerciante, empleado, profesionista, etc.), el cual tiene derechos y obligaciones (SAT, s.f). En el siguiente link conoce las actividades que como persona física se pueden realizar":
+                <br><br>
+                <a  href="https://www.sat.gob.mx/personas" target="_blank">Regímenes fiscales</a>
             </p>
         </div>
-    </div>
-
-    <div class="cardDesign clw shadow2 border1">
-        <p class="textoTitulo clbktx">Texto título 1</p>
-        <p class="textoStandar clbktx textoDinamicoIdentificador textoReadingH2">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore, obcaecati recusandae
-            dignissimos
-            consequuntur itaque assumenda voluptas dicta aspernatur iusto suscipit quas! Quidem iusto beatae
-            quaerat
-            cupiditate eum fuga omnis maiores. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Nostrum
-            labore <i class="keyWord"> lorem clave de ejemplo
-                minima excepturi incidunt voluptatibus culpa expedita quod explicabo, cumque voluptatum
-                accusamus,</i>
-            similique
-            laboriosam magnam! Obcaecati harum nemo molestias adipisci quas?
-        </p>
-    </div>
-
-    <div class="cardDesign clw shadow2 border1">
-        <p class="textoTitulo clbktx">Texto título 2</p>
-        <p class="textoStandar clbktx textoDinamicoIdentificador textoReadingH2">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore, obcaecati recusandae
-            dignissimos
-            consequuntur itaque assumenda voluptas dicta aspernatur iusto suscipit quas! Quidem iusto beatae
-            quaerat
-            cupiditate eum fuga omnis maiores. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Nostrum
-            labore <i class="keyWord"> lorem clave de ejemplo
-                minima excepturi incidunt voluptatibus culpa expedita quod explicabo, cumque voluptatum
-                accusamus,</i>
-            similique
-            laboriosam magnam! Obcaecati harum nemo molestias adipisci quas?
-        </p>
-
-        <!--Imagen-->
-        <div class="imagenDefaultContainer">
-            <p class="titleImageMine">Figura 4.2 linea de flujo de efectivo</p>
-            <div class="imageZoomedContainer">
-                <img class="materialboxed shadow2 border1 imageZoomed"
-                    data-caption="Esta es la descripción de la imagen" src="vectores/vectorEx.png">
-            </div>
-            <p class="noteImageMine clgreyl1 border1">Hernández, J., Rodríguez, E. & Jiménez, Y. (2023).</p>
-        </div>
-    </div>
-</div>`,
-
-`<div class="clgreyl2 cardDesignFather shadow2 border1">
-    <div class="cardDesign clw shadow2 border1">
-        <p class="textoTitulo clbktx">Texto título A.1</p>
-        <!--Card con un ejemplo-->
-        <p class="textoStandar clbktx textoDinamicoIdentificador textoReadingH2">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore, obcaecati recusandae
-            dignissimos
-            consequuntur itaque assumenda voluptas dicta aspernatur iusto suscipit quas! Quidem iusto beatae
-            quaerat
-            cupiditate eum fuga omnis maiores. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Nostrum
-            labore <i class="keyWord"> lorem clave de ejemplo
-                minima excepturi incidunt voluptatibus culpa expedita quod explicabo, cumque voluptatum
-                accusamus,</i>
-            similique
-            laboriosam magnam! Obcaecati harum nemo molestias adipisci quas?
-        </p>
-    </div>
-</div>`,
-`<div class="clgreyl2 cardDesignFather shadow2 border1">
-    <div class="cardDesign clw shadow2 border1">
-        <p class="textoTitulo clbktx">Texto título 1</p>
-        <!--Card con un ejemplo-->
-        <p class="textoStandar clbktx textoDinamicoIdentificador textoReadingH2">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore, obcaecati recusandae
-            dignissimos
-            consequuntur itaque assumenda voluptas dicta aspernatur iusto suscipit quas! Quidem iusto beatae
-            quaerat
-            cupiditate eum fuga omnis maiores. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Nostrum
-            labore <i class="keyWord"> lorem clave de ejemplo
-                minima excepturi incidunt voluptatibus culpa expedita quod explicabo, cumque voluptatum
-                accusamus,</i>
-            similique
-            laboriosam magnam! Obcaecati harum nemo molestias adipisci quas?
-        </p>
-
+        <br>
         <div class="cardDesign clgreyl2 border1">
-            <p class="textoTitulo clbktx">Ejemplo</p>
+            <p class="textoTitulo clbktx">Persona moral</p>
             <p class="textoStandar clbktx textoDinamicoIdentificador textoReadingH2">
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore, obcaecati recusandae
-                dignissimos
-                consequuntur itaque assumenda voluptas dicta aspernatur iusto suscipit quas! Quidem iusto
-                beatae
-                quaerat
-                cupiditate eum fuga omnis maiores. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Nostrum
-                labore
-                minima excepturi incidunt voluptatibus culpa expedita quod explicabo, cumque voluptatum
-                accusamus,
-                similique
-                laboriosam magnam! Obcaecati harum nemo molestias adipisci quas?
+                "Es el conjunto de personas físicas, que se unen para la realización de un fin colectivo, son entes creados por el derecho, no tienen una realidad material o corporal (no se pueden tocar como tal como en el caso de una persona física), sin embargo, la ley les otorga capacidad jurídica para tener derechos y obligaciones" (SAT, s.f).
+                <br>
+                Cabe señalar que la persona moral es una agrupación de personas que pueden constituirse jurídicamente como sociedades o asociaciones, las más usuales se pueden visualizar en la tabla 1.1
+                <br><br>
+                <table class="table table-dark table-bordered col-7 mx-auto">
+
+                    <caption style="caption-side: top;" class="text-center">Tabla 1.1 Constitución jurídica de las personas morales</caption>
+
+                    <thead>
+                        <tr>
+                            <th class="text-center font-weight-bold">Sociedad/Asociación:</th>
+                            <th class="text-center font-weight-bold">Regulada por:</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        <tr>
+                            <td>Sociedad en nombre colectivo (S.N.C)</td>
+                            <td rowspan="7" class="text-center align-middle">Ley General de Sociedades Mercantiles (L.G.S.M)</td>
+                        </tr>
+                        <tr>
+                            <td>Sociedad en comandita simpe (S.C.S)</td>
+                        </tr>
+                        <tr>
+                            <td>Sociedad de responsabilidad limitada (S.R.L)</td>
+                        </tr>
+                        <tr>
+                            <td>Sociedad anónima (S.A)</td>
+                        </tr>
+                        <tr>
+                            <td>Sociedad en comandita por acciones (S.C.A)</td>
+                        </tr>
+                        <tr>
+                            <td>Sociedad por acciones simplificada (S.A.S)</td>
+                        </tr>
+                        <tr>
+                            <td>Sociedad cooperativa</td>
+                        </tr>
+                        <tr>
+                            <td>Asociación civil (A.C)</td>
+                            <td rowspan="2" class="text-center align-middle">Código Civil</td>
+                        </tr>
+                        <tr>
+                            <td>Sociedad civil (S.C)</td>
+                        </tr>
+                    </tbody>
+
+                    <caption style="caption-side: bottom;" class="text-center">Hernández, J., Rodríguez, E. & Jiménez, Y. (2023). Con base en la Ley General de Sociedades Mercantiles, Ley General de Sociedades Cooperativas y Código Civil.</caption>
+
+                </table>
             </p>
-        </div>
-    </div>
-
-    <div class="cardDesign clw shadow2 border1">
-        <p class="textoTitulo clbktx">Texto título 1</p>
+        </div><br>
         <p class="textoStandar clbktx textoDinamicoIdentificador textoReadingH2">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore, obcaecati recusandae
-            dignissimos
-            consequuntur itaque assumenda voluptas dicta aspernatur iusto suscipit quas! Quidem iusto beatae
-            quaerat
-            cupiditate eum fuga omnis maiores. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Nostrum
-            labore <i class="keyWord"> lorem clave de ejemplo
-                minima excepturi incidunt voluptatibus culpa expedita quod explicabo, cumque voluptatum
-                accusamus,</i>
-            similique
-            laboriosam magnam! Obcaecati harum nemo molestias adipisci quas?
+        Es importante señalar que algunas de las sociedades antes mencionadas han caído en desuso, tal es el caso de la sociedad en nombre colectivo, la sociedad en comandita simple y la sociedad en comandita por acciones.<br><br>
+        En la siguiente lectura encontrarás más información sobre las empresas y su constitución jurídica.
+        <a  href="https://drive.google.com/file/d/17pnzUOvCjTKDdS0gfNrfqng5GYKi01eZ/view?usp=share_link" target="_blank">Lectura</a>
         </p>
-    </div>
-
-    <div class="cardDesign clw shadow2 border1">
-        <p class="textoTitulo clbktx">Texto título 2</p>
-        <p class="textoStandar clbktx textoDinamicoIdentificador textoReadingH2">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore, obcaecati recusandae
-            dignissimos
-            consequuntur itaque assumenda voluptas dicta aspernatur iusto suscipit quas! Quidem iusto beatae
-            quaerat
-            cupiditate eum fuga omnis maiores. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Nostrum
-            labore <i class="keyWord"> lorem clave de ejemplo
-                minima excepturi incidunt voluptatibus culpa expedita quod explicabo, cumque voluptatum
-                accusamus,</i>
-            similique
-            laboriosam magnam! Obcaecati harum nemo molestias adipisci quas?
-        </p>
-
-        <!--Imagen-->
-        <div class="imagenDefaultContainer">
-            <p class="titleImageMine">Figura 4.2 linea de flujo de efectivo</p>
-            <div class="imageZoomedContainer">
-                <img class="materialboxed shadow2 border1 imageZoomed"
-                    data-caption="Esta es la descripción de la imagen" src="vectores/vectorEx.png">
-            </div>
-            <p class="noteImageMine clgreyl1 border1">Hernández, J., Rodríguez, E. & Jiménez, Y. (2023).</p>
-        </div>
-    </div>
-    <div class="cardDesign clw shadow2 border1">
-        <p class="textoTitulo clbktx">Texto título 2</p>
-        <p class="textoStandar clbktx textoDinamicoIdentificador textoReadingH2">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore, obcaecati recusandae
-            dignissimos
-            consequuntur itaque assumenda voluptas dicta aspernatur iusto suscipit quas! Quidem iusto beatae
-            quaerat
-            cupiditate eum fuga omnis maiores. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Nostrum
-            labore <i class="keyWord"> lorem clave de ejemplo
-                minima excepturi incidunt voluptatibus culpa expedita quod explicabo, cumque voluptatum
-                accusamus,</i>
-            similique
-            laboriosam magnam! Obcaecati harum nemo molestias adipisci quas?
-        </p>
-
-        <!--Imagen-->
-        <div class="imagenDefaultContainer">
-            <p class="titleImageMine">Figura 4.2 linea de flujo de efectivo</p>
-            <div class="imageZoomedContainer">
-                <img class="materialboxed shadow2 border1 imageZoomed"
-                    data-caption="Esta es la descripción de la imagen" src="vectores/vectorEx.png">
-            </div>
-            <p class="noteImageMine clgreyl1 border1">Hernández, J., Rodríguez, E. & Jiménez, Y. (2023).</p>
-        </div>
-    </div>
-    <div class="cardDesign clw shadow2 border1">
-        <p class="textoTitulo clbktx">Texto título 2</p>
-        <p class="textoStandar clbktx textoDinamicoIdentificador textoReadingH2">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore, obcaecati recusandae
-            dignissimos
-            consequuntur itaque assumenda voluptas dicta aspernatur iusto suscipit quas! Quidem iusto beatae
-            quaerat
-            cupiditate eum fuga omnis maiores. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Nostrum
-            labore <i class="keyWord"> lorem clave de ejemplo
-                minima excepturi incidunt voluptatibus culpa expedita quod explicabo, cumque voluptatum
-                accusamus,</i>
-            similique
-            laboriosam magnam! Obcaecati harum nemo molestias adipisci quas?
-        </p>
-
-        <!--Imagen-->
-        <div class="imagenDefaultContainer">
-            <p class="titleImageMine">Figura 4.2 linea de flujo de efectivo</p>
-            <div class="imageZoomedContainer">
-                <img class="materialboxed shadow2 border1 imageZoomed"
-                    data-caption="Esta es la descripción de la imagen" src="vectores/vectorEx.png">
-            </div>
-            <p class="noteImageMine clgreyl1 border1">Hernández, J., Rodríguez, E. & Jiménez, Y. (2023).</p>
-        </div>
-    </div>
 </div>`,
-`3`,
+`<div class="cardDesign clw shadow2 border1">
+        <p class="textoTitulo clbktx">1.1.2 El área financiera en la estructura organizacional</p>
+        <!--Card con un ejemplo-->
+        <p class="textoStandar clbktx textoDinamicoIdentificador textoReadingH2">
+        Para explicar en qué consiste la estructura organizacional usaremos la siguiente analogía: el ser humano tiene un sistema óseo que le permite tener movimiento, un sistema respiratorio que le proporciona el oxígeno para vivir; un sistema digestivo que le suministra nutrientes; un sistema circulatorio que transporta la sangre y distribuye nutrientes; un sistema excretor que lo limpia de impurezas; un cerebro que rige el funcionamiento general del organismo; entre otros, del mismo modo las organizaciones requieren de una estructura para su funcionamiento.<br><br>
+        </p>
+</div>`,
 `4`,
 `<div class="clgreyl2 cardDesignFather shadow2 border1">
     <div class="cardDesign clw shadow2 border1">
