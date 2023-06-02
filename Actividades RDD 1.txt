@@ -19,14 +19,16 @@ Actividades RDD 1
 [Listo] Ajustar el menú para los dispositivos móviles
 [Listo] Agregar palabras del glosario
 [Listo] Referencias
+[Listo] Arreglar las flechas de retorno de las paginas, ya que no todas estan correctas
+[] Arreglar el bug en la parte de la configuracion de los textos con H1,H2,H3
+[Listo] Cambiar colores base del sitio al rosa
 
 
 Agregar las preguntas
 Cargar los nuevos colores y texto en el PDF de evaluación
-Arreglar el bug en la parte de la configuracion de los textos
 Sección de material de apoyo
 Sección del manual de usuario
-Arreglar las flechas de retorno de las paginas, ya que no todas estan correctas
+
 
 -------------------
 -------------------
