@@ -1,36 +1,45 @@
 Actividades RDD 1
 
-
-[Listo_luis] Copiar la bienvenida
-[Listo_luis] Copiar la unidad de competencia
-[Listo_luis] Copiar la metodología
-[Listo_luis] Copiar la evaluación de los aprendizajes
-[Listo_luis] Copiar los contactos
-[Listo_luis] Requerimientos
-[Listo_luis] Manual de usuario
-[Listo_luis] Sección de contacto
-[Listo_luis] Ajustar el encabezado de la pagina con el nombre de la asignatura
-[Listo_luis] Ajustar el pie de pagina con los nuevos datos
+[Listo] Copiar la bienvenida
+[Listo] Copiar la unidad de competencia
+[Listo] Copiar la metodología
+[Listo] Copiar la evaluación de los aprendizajes
+[Listo] Copiar los contactos
+[Listo] Requerimientos
+[Listo] Manual de usuario
+[Listo] Sección de contacto
+[Listo] Ajustar el encabezado de la pagina con el nombre de la asignatura
+[Listo] Ajustar el pie de pagina con los nuevos datos
 
 --------------------
 
-Ajustar el menú para los escritorio
-Ajustar el menú para los dispositivos móviles
+[Listo] Ajustar el menú para los escritorio
+[Listo] Sección de glosario
+[Listo] Sección de contenidos
+[Listo] Ajustar el menú para los dispositivos móviles
+[Listo] Agregar palabras del glosario
+[Listo] Referencias
+
 
 Agregar las preguntas
-
-Arreglar el bug en la parte de la configuracion de los textos
-
-[Listo_ulises] Agregar palabras del glosario
-
-Sección de contenidos
-Sección de material de apoyo
-Sección de glosario
-
-Sección del manual de usuario
-Referencias
-
-Arreglar las flechas de retorna de las paginas, ya que no todas estan correctas
-
 Cargar los nuevos colores y texto en el PDF de evaluación
+Arreglar el bug en la parte de la configuracion de los textos
+Sección de material de apoyo
+Sección del manual de usuario
+Arreglar las flechas de retorno de las paginas, ya que no todas estan correctas
+
+-------------------
+-------------------
+
+Unidad 4 
+
+[Listo] Ver porque en la pagina de unidad 4 no descarga las pruebas
+[Listo] Quitar la opción de app en android
+[Listo] Poner un mensaje con el siguiente texto antes de empezar la evaluación...
+
+------------------
+
+Polilibro
+
+[Listo] Quitar las descargas en android
 
