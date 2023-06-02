@@ -24,10 +24,10 @@ Actividades RDD 1
 [Listo] Cambiar colores base del sitio al rosa
 
 
-Agregar las preguntas
+Agregar las preguntas (Solicitar nuevas preguntas)
 Cargar los nuevos colores y texto en el PDF de evaluación
-Sección de material de apoyo
-Sección del manual de usuario
+Sección de material de apoyo (Solicitar los nuevos pdfs)
+Sección del manual de usuario (Actualizar el contenido)
 
 
 -------------------
