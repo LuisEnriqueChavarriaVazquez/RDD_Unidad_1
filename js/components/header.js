@@ -2,7 +2,7 @@ function inyectHeader(){
     let footer = `
     <div id="icoNavIpn"></div>
       <div class="titleNavIpnContainer">
-        <p class="titleNavIpn white-text">Finanzas empresariales Recurso Didáctico Digital (RDD)</p>
+        <p class="titleNavIpn white-text">Recurso Didáctico Digital</p>
       </div>
     <div id="icoNavEscom"></div>
     `;
