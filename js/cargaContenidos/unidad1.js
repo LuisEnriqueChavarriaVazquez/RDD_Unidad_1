@@ -4,8 +4,8 @@ const contenidosUnidad = [
 <div class="mainTabsContent" id="tabsContentID">
     <ul id="tabs-swipe-demo" class="tabs clgreyl2 shadow4">
         <li class="tab clgreyl2" id="a6tutorialButton"><a class="clbktx" href="#test-swipe-1">Bienvenida</a></li>
-        <li class="tab clgreyl2" id="a7tutorialButton"><a class="clbktx" href="#test-swipe-3">Unidad decompetencia</a></li>
-        <li class="tab clgreyl2" id="a8tutorialButton"><a class="clbktx" href="#test-swipe-2">Metodología</a>
+        <li class="tab clgreyl2" id="a8tutorialButton"><a class="clbktx" href="#test-swipe-3">Metodología</a>
+        <li class="tab clgreyl2" id="a7tutorialButton"><a class="clbktx" href="#test-swipe-2">Unidad decompetencia</a></li>
         </li>
         <li class="tab clgreyl2" id="a9tutorialButton"><a class="clbktx" href="#test-swipe-4">Evaluación de los aprendizajes</a></li>
         <li class="tab clgreyl2" id="a11tutorialButton"><a class="clbktx" href="#test-swipe-5">Requerimientos</a>
@@ -42,7 +42,7 @@ const contenidosUnidad = [
 
     <div class="cardDesign clw shadow2 border1">
         <p class="textoTitulo clbktx">Metodología</p>
-        <p class="clbktx textoDinamicoIdentificador">
+        <p class="clbktx textoDinamicoIdentificador textoReadingH2">
             El uso de este RDD de la unidad 1: la empresa y su entorno, te permitirá abordar los contenidos en la
             secuencia en la que aparecen en el programa de estudios y sobre todo a tu propio ritmo de aprendizaje.
             Adicionalmente, están disponibles en el momento en el que los quieras consultar, con lo que se pretende
@@ -55,22 +55,22 @@ const contenidosUnidad = [
             ¿Qué encontrarás al hacer clic en cada uno de los botones antes mencionados?
 
             <div class="cardDesign clgreyl2 border1">
-                <p class="clbktx textoDinamicoIdentificador"><b>⚫ Contenidos.</b> En este apartado encontrarás los fundamentos teóricos y algunas figuras alusivas al tema tratado.</p>
+                <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b>⚫ Contenidos.</b> En este apartado encontrarás los fundamentos teóricos y algunas figuras alusivas al tema tratado.</p>
                     
-                <p class="clbktx textoDinamicoIdentificador"><b>⚫ Lectura.</b> En esta sección podrás leer y descargar una lectura, en la que encontrarás información relevante y
+                <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b>⚫ Lectura.</b> En esta sección podrás leer y descargar una lectura, en la que encontrarás información relevante y
                     de interés sobre las organizaciones y en particular sobre la empresa.</p>
                 
-                <p class="clbktx textoDinamicoIdentificador"><b>⚫ Actividad de aprendizaje.</b> En esta parte podrás visualizar y descargar la actividad de aprendizaje que se
+                <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b>⚫ Actividad de aprendizaje.</b> En esta parte podrás visualizar y descargar la actividad de aprendizaje que se
                     realizará en el aula (en el horario de clases); se desarrollará en forma individual o en equipo, se subirá a
                     la plataforma indicada por el profesor(a) y tendrá valor para la evaluación.</p>
                 
-                <p class="clbktx textoDinamicoIdentificador"><b>⚫ Presentación en Power Point.</b> Al hacer clic en este botón de navegación encontrarás una presentación en Power
+                <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b>⚫ Presentación en Power Point.</b> Al hacer clic en este botón de navegación encontrarás una presentación en Power
                     Point con lo más relevante de los contenidos de esta unidad temática.</p>
                     
-                <p class="clbktx textoDinamicoIdentificador"><b>⚫ Glosario.</b> Esta parte del menú encontrarás el significado de algunos términos debidamente referenciados que
+                <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b>⚫ Glosario.</b> Esta parte del menú encontrarás el significado de algunos términos debidamente referenciados que
                     te facilitarán la comprensión del tema.</p>
                 
-                <p class="clbktx textoDinamicoIdentificador"><b>⚫ Referencias.</b> En esta opción del menú están enlistadas las fuentes de consulta que se utilizaron para el
+                <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b>⚫ Referencias.</b> En esta opción del menú están enlistadas las fuentes de consulta que se utilizaron para el
                     desarrollo de la unidad temática.</p>
             </div>
         </p>
@@ -81,7 +81,7 @@ const contenidosUnidad = [
 
     <div class="cardDesign clw shadow2 border1">
         <p class="textoTitulo clbktx">Evaluación de los aprendizajes</p>
-        <p class="clbktx textoDinamicoIdentificador">
+        <p class="clbktx textoDinamicoIdentificador textoReadingH2">
             La evaluación de los aprendizajes se llevará a cabo como se muestra en la siguiente tabla:
         </p>
 
@@ -122,16 +122,16 @@ const contenidosUnidad = [
 
     <div class="cardDesign clw shadow2 border1">
         <p class="textoTitulo clbktx">Requerimientos</p>
-        <p class="clbktx textoDinamicoIdentificador">
+        <p class="clbktx textoDinamicoIdentificador textoReadingH2">
             Para acceder y hacer uso de este recurso se requiere:
 
-    <p class="clbktx textoDinamicoIdentificador">⚫ Conexión a internet</p>
-    <p class="clbktx textoDinamicoIdentificador">⚫ Navegador de internet:</p>
-    <p class="clbktx textoDinamicoIdentificador">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ Microsoft Edge (version 85 o superior)</p>
-    <p class="clbktx textoDinamicoIdentificador">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ Google Chrome (version 85 o superior)</p>
-    <p class="clbktx textoDinamicoIdentificador">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ Mozilla Firefox (version 80 o superior)</p>
-    <p class="clbktx textoDinamicoIdentificador">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ Vivaldi (version 3.3 o superior)</p>
-    <p class="clbktx textoDinamicoIdentificador">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ Opera 70 o superior</p>
+    <p class="clbktx textoDinamicoIdentificador textoReadingH2">⚫ Conexión a internet</p>
+    <p class="clbktx textoDinamicoIdentificador textoReadingH2">⚫ Navegador de internet:</p>
+    <p class="clbktx textoDinamicoIdentificador textoReadingH2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ Microsoft Edge (version 85 o superior)</p>
+    <p class="clbktx textoDinamicoIdentificador textoReadingH2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ Google Chrome (version 85 o superior)</p>
+    <p class="clbktx textoDinamicoIdentificador textoReadingH2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ Mozilla Firefox (version 80 o superior)</p>
+    <p class="clbktx textoDinamicoIdentificador textoReadingH2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ Vivaldi (version 3.3 o superior)</p>
+    <p class="clbktx textoDinamicoIdentificador textoReadingH2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ Opera 70 o superior</p>
 
         </p>
     </div>

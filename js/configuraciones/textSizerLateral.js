@@ -34,29 +34,22 @@ if (valueTextAdjust_1 === null ||
 
 
 ///////////////////////////////////////////////////////////
-var totalTextosDinamicos;
-//Debemos acceder a los textos despues de que los contenidos se han cargado
-function getTextContentSize(){
-    setTimeout(() => {
-        //Identificador de texto dinamico
-        textoDinamicoIdentificador = document.getElementsByClassName('textoDinamicoIdentificador');
-        
-        //Clases tamaños
-        textoReadingElementsH1 = document.getElementsByClassName('textoReadingH1');
-        textoReadingElementsH3 = document.getElementsByClassName('textoReadingH3');
-        textoReadingElementsH2 = document.getElementsByClassName('textoReadingH2');
-        
-        //Arrays de tamaños
-        textoReadingElementsH2Arr = [...textoReadingElementsH2];
-        textoReadingElementsH1Arr = [...textoReadingElementsH1];
-        textoReadingElementsH3Arr = [...textoReadingElementsH3];
+//Identificador de texto dinamico
+let textoDinamicoIdentificador = document.getElementsByClassName('textoDinamicoIdentificador');
+
+//Clases tamaños
+let textoReadingElementsH1 = document.getElementsByClassName('textoReadingH1');
+let textoReadingElementsH3 = document.getElementsByClassName('textoReadingH3');
+let textoReadingElementsH2 = document.getElementsByClassName('textoReadingH2');
+
+//Arrays de tamaños
+let textoReadingElementsH2Arr = [...textoReadingElementsH2];
+let textoReadingElementsH1Arr = [...textoReadingElementsH1];
+let textoReadingElementsH3Arr = [...textoReadingElementsH3];
             
-        //Cantidad de textos
-        totalTextosDinamicos = (textoReadingElementsH2.length + textoReadingElementsH1.length + textoReadingElementsH3.length)/3;
+//Cantidad de textos
+let totalTextosDinamicos = (textoReadingElementsH2.length + textoReadingElementsH1.length + textoReadingElementsH3.length)/3;
         
-    }, 10);
-}
-getTextContentSize();
 
 //Botones para el tamaño del texto
 let textSizeOne = document.getElementsByClassName('textSizeOne');
@@ -70,6 +63,8 @@ let textSizeThreeArr = [...textSizeThree];
 
 //Reemplazo de textos
 function reemplazoH2H3porH1(){
+    console.log('textoReadingElementsH2Arr: ', textoReadingElementsH2Arr);
+    console.log('textoReadingElementsH3Arr: ', textoReadingElementsH3Arr);
     for(var i = 0; i < totalTextosDinamicos; i++){
         textoReadingElementsH2Arr.map(a => {
             a.classList.add('textoReadingH1');
@@ -90,6 +85,8 @@ function reemplazoH2H3porH1(){
 
 
 function reemplazoH1H2porH3(){
+    console.log('textoReadingElementsH2Arr: ', textoReadingElementsH2Arr);
+    console.log('textoReadingElementsH1Arr: ', textoReadingElementsH1Arr);
     for(var i = 0; i < totalTextosDinamicos; i++){
         textoReadingElementsH2Arr.map(a => {
             a.classList.add('textoReadingH3');
@@ -207,8 +204,6 @@ let stateSize = localStorage.getItem('valueTextAdjust_size');
 
 //Funciones para comprobar estado de los botones al cargar la pagina
 function checkMemoryButtonState(state,idElement,property){
-    //Obtiene los textos
-    getTextContentSize();
     //Si no es el boton para palabras clave entonces...
     if(idElement != "adjustFont_6" && idElement != "adjustFont_size"){
         if(state == 1){
@@ -464,14 +459,13 @@ function refreshStyles(){
         //Modificamos los textos con los estilos que estan actualmente
         $(".textoDinamicoIdentificador,.textoReadingH1,.textoReadingH2,.textoReadingH3").removeClass('textAlignLeftOwn');
     }
-    checkMemoryButtonState(stateSize,'adjustFont_size');
-}
 
-//
-let contenedorSizeButtonText = document.getElementById('adjustFont_size');
-let buttonsSizeTextChildren = contenedorSizeButtonText.children;
-let buttonsSizeTextChildrenArr = [...buttonsSizeTextChildren];
-console.log('buttonsSizeTextChildrenArr: ', buttonsSizeTextChildrenArr);
+
+    // setTimeout(() => {
+    //     console.log('stateSize: ', stateSize);
+    //     checkMemoryButtonState(stateSize,'adjustFont_size');
+    // },10)
+}
 
 //IMPORTANTE
 /**
