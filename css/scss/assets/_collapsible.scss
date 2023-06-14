@@ -3,6 +3,7 @@
     margin-bottom: 10px;
     width: 96%;
     box-sizing: border-box;
+    border-radius: 10px 10px 0 0;
 
     @media (max-width: 1400px) {
         &{
@@ -14,6 +15,21 @@
         &{
             width: 100%;
         }
+    }
+
+    
+    .collapsible-header{
+        border-radius: 10px 10px 0 0;
+        transition: all .4s ease;
+    }
+
+    .collapsible-header:hover{
+        background-color: rgb(204, 204, 204);
+    }
+
+    .collapsible-header-clicked{
+        background-color: #be7f94 !important;
+        font-weight: 600;
     }
 
     .collapsible-body{
