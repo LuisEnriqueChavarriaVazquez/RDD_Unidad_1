@@ -1,5 +1,5 @@
 const contenidosUnidad = [
-`
+  `
 <!--Menu para los contenidos en tiempo real-->
 <div class="mainTabsContent" id="tabsContentID">
     <ul id="tabs-swipe-demo" class="tabs clgreyl2 shadow4">
@@ -18,13 +18,12 @@ const contenidosUnidad = [
     <div class="cardDesign clw shadow2 border1">
         <p class="textoTitulo clbktx">Bienvenida</p>
         <p class="textoStandar clbktx textoDinamicoIdentificador textoReadingH2">
-            Estimados alumnos y alumnas que cursan la unidad de aprendizaje Finanzas empresariales, que se imparte en la
-            Escuela Superior de Cómputo (ESCOM) del Instituto Politécnico Nacional (IPN), reciban la mejor de las
-            bienvenidas a este este recurso didáctico digital (RDD) de la unidad temática 1: la empresa y su entorno,
-            correspondiente a la unidad de aprendizaje Finanzas empresariales.
-
-            Este recurso educativo se construyó con la finalidad de apoyarlos en su proceso de aprendizaje de la unidad
-            en cuestión, esperamos que les sea de gran ayuda.
+        Estimados alumnos y alumnas que cursan la unidad de aprendizaje Finanzas empresariales, que se imparte en la
+        <i class="keyWord">Escuela Superior de Cómputo (ESCOM) del Instituto Politécnico Nacional (IPN)</i>, reciban la mejor de las
+        bienvenidas a este este <i class="keyWord">recurso didáctico digital (RDD) de la unidad temática 1: la empresa y su entorno</i>,
+        correspondiente a la unidad de aprendizaje Finanzas empresariales.
+        Este recurso educativo se construyó con la finalidad de apoyarlos en su proceso de aprendizaje de la unidad
+        en cuestión, esperamos que les sea de gran ayuda.
         </p>
     </div>
 
@@ -138,7 +137,7 @@ const contenidosUnidad = [
     </div>
 
 </div>`,
-`<div class="cardDesign clw shadow2 border1">
+  `<div class="cardDesign clw shadow2 border1">
         <p class="textoTitulo clbktx">Introducción</p>
         <!--Card con un ejemplo-->
         <p class="textoStandar clbktx textoDinamicoIdentificador textoReadingH2">
@@ -149,7 +148,7 @@ const contenidosUnidad = [
         <br><br>Este recurso didáctico digital (RDD) se construyó con la intención de apoyarte en tu proceso de aprendizaje, que en esta unidad temática, está dirigido a reconocer el papel de las finanzas a partir del contexto empresarial.
         </p>
 </div>`,
-`<div class="cardDesign clw shadow2 border1">
+  `<div class="cardDesign clw shadow2 border1">
         <p class="textoTitulo clbktx">1.1 La empresa</p>
         <p class="textoStandar clbktx textoDinamicoIdentificador textoReadingH2">
         Independientemente del lugar en donde te encuentres en este momento, mira a tu alrededor y notarás la existencia de una gran cantidad de satisfactores (bienes). Estos son producidos y/o distribuidos por diferentes empresas.<br><br>
@@ -161,7 +160,7 @@ const contenidosUnidad = [
         </ol>
         
 </div>`,
-`<div class="cardDesign clw shadow2 border1">
+  `<div class="cardDesign clw shadow2 border1">
         <p class="textoTitulo clbktx">1.1.1 Constitución jurídica</p>
         <p class="textoStandar clbktx textoDinamicoIdentificador textoReadingH2">
         En México de acuerdo con el Servicio de Administración Tributaria (SAT) para fines fiscales existen las siguientes figuras: personas físicas y personas morales.<br>
@@ -237,7 +236,7 @@ const contenidosUnidad = [
         <a  href="https://drive.google.com/file/d/17pnzUOvCjTKDdS0gfNrfqng5GYKi01eZ/view?usp=share_link" target="_blank">Lectura</a>
         </p>
 </div>`,
-`<div class="cardDesign clw shadow2 border1">
+  `<div class="cardDesign clw shadow2 border1">
         <p class="textoTitulo clbktx">1.1.2 El área financiera en la estructura organizacional</p>
         <!--Card con un ejemplo-->
         <p class="textoStandar clbktx textoDinamicoIdentificador textoReadingH2">
@@ -278,7 +277,7 @@ const contenidosUnidad = [
         </p>
         
 </div>`,
-`<div class="cardDesign clw shadow2 border1">
+  `<div class="cardDesign clw shadow2 border1">
     <p class="textoTitulo clbktx">1.2 Función y objetivo de las finanzas empresariales</p>
     <p class="textoStandar clbktx textoDinamicoIdentificador textoReadingH2">
     ¿Qué son las finanzas?
@@ -350,7 +349,7 @@ const contenidosUnidad = [
     </p>
 
 </div>`,
-`<div class="cardDesign clw shadow2 border1">
+  `<div class="cardDesign clw shadow2 border1">
     <p class="textoTitulo clbktx">
         1.3 Las finanzas empresariales y su relación con otras disciplinas (Ética, Economía, Derecho, Matemáticas, etc.)
     </p><br>
@@ -379,7 +378,7 @@ const contenidosUnidad = [
         </p>
     </div><br>
 </div>`,
-`<div class="cardDesign clw shadow2 border1">
+  `<div class="cardDesign clw shadow2 border1">
     <p class="textoTitulo clbktx">
         1.4. Factores del micro y macro ambiente que impactan a la empresa y a sus finanzas
     </p>
@@ -476,7 +475,7 @@ const contenidosUnidad = [
     </p><br>
     <a  href="https://drive.google.com/file/d/1mhsrMh21yNE5tgNHkpgEZ_lwDyC7s3uU/view?usp=share_link" target="_blank">Actividad</a>
 </div>`,
-`<section class="containerActividadAprendizajeFather">
+  `<section class="containerActividadAprendizajeFather">
     <div class="textoTitulo clbktx">Material de apoyo</div>
     <section class="gridActividadesAprendizaje">
         <!--Tarjeta 1-->
@@ -514,7 +513,7 @@ const contenidosUnidad = [
     </section>
 </section>
 `,
-`<!--Tarjeta con las actividades-->
+  `<!--Tarjeta con las actividades-->
 <section class="containerActividadAprendizajeFather">
     <div class="textoTitulo clbktx">Actividades de aprendizaje</div>
     <section class="gridActividadesAprendizaje">
@@ -591,7 +590,7 @@ const contenidosUnidad = [
     </section>
 </section>
 `,
-`<div class="cardDesign clw shadow2 border1">
+  `<div class="cardDesign clw shadow2 border1">
     <p class="textoTitulo clbktx">
     Cierre de la unidad temática
     </p>
@@ -601,7 +600,7 @@ const contenidosUnidad = [
     </p>
 </div>
 `,
-`
+  `
 <div class="cardDesign clw shadow2 border1">
     <p class="textoTitulo clbktx">
     Referencias
@@ -637,43 +636,53 @@ const contenidosUnidad = [
         <a target="_blank" href="https://www.sat.gob.mx/personas">https://www.sat.gob.mx/personas</a>
     </p>
 </div>`,
-`12
+  `12
 `,
 ];
 
-
-console.log('contenidosUnidad: ', contenidosUnidad.length);
+console.log("contenidosUnidad: ", contenidosUnidad.length);
 
 /////////////////////////////////////
 //Object delegation para los botones
 /////////////////////////////////////
 
 //Accedemos al contenedor de los textos
-let contenedorParaElContenidoDeLaUnidad = document.getElementById('lateralUnityContent');
+let contenedorParaElContenidoDeLaUnidad = document.getElementById(
+  "lateralUnityContent"
+);
 
 //Cargamos por defecto el contenido para la unidad
 (() => {
-    contenedorParaElContenidoDeLaUnidad.innerHTML = contenidosUnidad[0];
+  contenedorParaElContenidoDeLaUnidad.innerHTML = contenidosUnidad[0];
 })();
 
 //Accedemos al contenedor que tiene las opciones para el menu en computadora.
-let buttonContaineChargeContent = document.getElementById('lateralUnityMenuSectionContainer');
-    buttonContaineChargeContent.addEventListener('click', function(event){
-    if(event.target.classList.contains('deskOption')){
-        console.log(event.target)
-        let buttonIndex = event.target.getAttribute('contador');
-        contenedorParaElContenidoDeLaUnidad.innerHTML = contenidosUnidad[buttonIndex];
-    }
+let buttonContaineChargeContent = document.getElementById(
+  "lateralUnityMenuSectionContainer"
+);
+buttonContaineChargeContent.addEventListener("click", function (event) {
+  if (event.target.classList.contains("deskOption")) {
+    console.log(event.target);
+    let buttonIndex = event.target.getAttribute("contador");
+    contenedorParaElContenidoDeLaUnidad.innerHTML =
+      contenidosUnidad[buttonIndex];
+  }
 });
 
 //Accedemos al contenedor que tiene las opciones para el menu en celular.
-let buttonContaineChargeContentMobile = document.getElementsByClassName('mobileOptionsContainer');
-for(var i = 0; i < buttonContaineChargeContentMobile.length; i++){
-    buttonContaineChargeContentMobile[i].addEventListener('click', function(event){
-        if(event.target.classList.contains('mobileOption')){ 
-            console.log(event.target);
-            let buttonIndex=event.target.getAttribute('contador');
-            contenedorParaElContenidoDeLaUnidad.innerHTML=contenidosUnidad[buttonIndex]; 
-        };
-    }); 
-};
+let buttonContaineChargeContentMobile = document.getElementsByClassName(
+  "mobileOptionsContainer"
+);
+for (var i = 0; i < buttonContaineChargeContentMobile.length; i++) {
+  buttonContaineChargeContentMobile[i].addEventListener(
+    "click",
+    function (event) {
+      if (event.target.classList.contains("mobileOption")) {
+        console.log(event.target);
+        let buttonIndex = event.target.getAttribute("contador");
+        contenedorParaElContenidoDeLaUnidad.innerHTML =
+          contenidosUnidad[buttonIndex];
+      }
+    }
+  );
+}
