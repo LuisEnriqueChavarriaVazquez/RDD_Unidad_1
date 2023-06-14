@@ -40,72 +40,16 @@ function crearPdf(){
  
      if(unidadActual == 'u1'){
  
-         tituloPDF = 'Unidad 1: Título de la unidad con un texto largo de prueba';
-         colorOnePDF = [61, 81, 71];
-         colorTwoPDF = [85, 112, 99];
-         colorThreePDF = [109, 142, 126];
+         tituloPDF = 'Unidad 1: La Empresa y su entorno';
+         colorOnePDF = [142,95,111];
+         colorTwoPDF = [173,115,134];
+         colorThreePDF = [206,125,152];
  
          intentosFinalValidado = localStorage.getItem('intentosU1');
  
          tituloUnidadArchivoFinal += "unidad_1";
  
-     }else if(unidadActual == 'u2'){
- 
-         tituloPDF = 'Unidad 2: Título de la unidad con un texto largo de prueba';
-         colorOnePDF = [128, 84, 88];
-         colorTwoPDF = [160, 104, 110];
-         colorThreePDF = [205, 140, 146];
- 
-         intentosFinalValidado = localStorage.getItem('intentosU2');
- 
-         tituloUnidadArchivoFinal += "unidad_2";
- 
-     }else if(unidadActual == 'u3'){
- 
-         tituloPDF = 'Unidad 3: Título de la unidad con un texto largo de prueba';
-         colorOnePDF = [116, 84, 116];
-         colorTwoPDF = [153, 109, 153]; 
-         colorThreePDF = [181, 131, 181];
- 
-         intentosFinalValidado = localStorage.getItem('intentosU3');
- 
-         tituloUnidadArchivoFinal += "unidad_3";
- 
-     }else if(unidadActual == 'u4'){
- 
-         tituloPDF = 'Unidad 4: Título de la unidad con un texto largo de prueba';
-         colorOnePDF = [172, 101, 93];
-         colorTwoPDF = [214, 124, 114];
-         colorThreePDF = [232, 151, 142];
- 
-         intentosFinalValidado = localStorage.getItem('intentosU4');
- 
-         tituloUnidadArchivoFinal += "unidad_4";
- 
-     }else if(unidadActual == 'u5'){
- 
-         tituloPDF = 'Unidad 5: Título de la unidad con un texto largo de prueba';
-         colorOnePDF = [120, 129, 158];
-         colorTwoPDF = [145, 155, 189];
-         colorThreePDF = [174, 185, 218];
- 
-         intentosFinalValidado = localStorage.getItem('intentosU5');
- 
-         tituloUnidadArchivoFinal += "unidad_5";
- 
-     }else if(unidadActual == 'unidad4_sola'){ //Este es para la otra página de unidad sola
- 
-        tituloPDF = 'Unidad 4: Elementos de matemáticas financieras y la planeación financiera';
-        colorOnePDF = [75,121,170];
-        colorTwoPDF = [95,142,197];
-        colorThreePDF = [149,184,209];
-
-        
-        intentosFinalValidado = localStorage.getItem('intentos_unidad_4');
-
-        tituloUnidadArchivoFinal += "unidad_4";
-
-    }
+     }
  
      /////////////////////////////////////////////
      //PAGINA 1
