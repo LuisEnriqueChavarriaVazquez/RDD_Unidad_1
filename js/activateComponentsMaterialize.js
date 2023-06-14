@@ -7,4 +7,5 @@ $(document).ready(function () {
     $('.modal').modal();
     $('.tooltipped').tooltip();
     $('.pushpin').pushpin();
+    $('.collapsible').collapsible();
 });
