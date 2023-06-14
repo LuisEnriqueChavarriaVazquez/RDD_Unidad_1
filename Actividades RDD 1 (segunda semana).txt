@@ -1,21 +1,16 @@
-Sección de ayuda modificar y ajustar a los nuevos menus
-Modificar las imagenes para que tengan zoom
-Modificar las cards para que tengan sentido con el texto
-Poner los pies de pagina en las imagenes
-
+[LISTO] Sección de ayuda modificar y ajustar a los nuevos menus
 [LISTO] Hacer preguntas con los textos con chat gpt
-
 [LISTO] En donde estan los temas indicar con una targeta que diga contenidos...
-
 [LISTO] El título de... RDD Unidad 1 "La empresa y su entorno ponerlo arriba"
-En el menu secundario poner el nombre de la sección.
+[LISTO] Terminar el manual de usuario
+[LISTO] Cargar los nuevos colores y texto en el PDF de evaluación
 
-Terminar el manual de usuario
+Modificar las imagenes para que tengan zoom
+Modificar las cards para que el formato se vea bien (formato del texto)
+Poner los pies de pagina en las imagenes
 
 ---------
 
-[] Arreglar el bug en la parte de la configuracion de los textos con H1,H2,H3
+Arreglar el bug en la parte de la configuracion de los textos con H1,H2,H3
 Agregar las preguntas (Solicitar nuevas preguntas)
-Cargar los nuevos colores y texto en el PDF de evaluación
 Sección de material de apoyo (Solicitar los nuevos pdfs)
-Sección del manual de usuario (Actualizar el contenido)
