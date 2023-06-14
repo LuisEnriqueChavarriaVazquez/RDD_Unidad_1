@@ -34,22 +34,29 @@ if (valueTextAdjust_1 === null ||
 
 
 ///////////////////////////////////////////////////////////
-//Identificador de texto dinamico
-let textoDinamicoIdentificador = document.getElementsByClassName('textoDinamicoIdentificador');
-console.log('textoDinamicoIdentificador: ', textoDinamicoIdentificador);
-
-//Clases tamaños
-let textoReadingElementsH1 = document.getElementsByClassName('textoReadingH1');
-let textoReadingElementsH3 = document.getElementsByClassName('textoReadingH3');
-let textoReadingElementsH2 = document.getElementsByClassName('textoReadingH2');
-
-//Arrays de tamaños
-let textoReadingElementsH2Arr = [...textoReadingElementsH2];
-let textoReadingElementsH1Arr = [...textoReadingElementsH1];
-let textoReadingElementsH3Arr = [...textoReadingElementsH3];
-
-//Cantidad de textos
-let totalTextosDinamicos = (textoReadingElementsH2.length + textoReadingElementsH1.length + textoReadingElementsH3.length)/3;
+var totalTextosDinamicos;
+//Debemos acceder a los textos despues de que los contenidos se han cargado
+function getTextContentSize(){
+    setTimeout(() => {
+        //Identificador de texto dinamico
+        textoDinamicoIdentificador = document.getElementsByClassName('textoDinamicoIdentificador');
+        
+        //Clases tamaños
+        textoReadingElementsH1 = document.getElementsByClassName('textoReadingH1');
+        textoReadingElementsH3 = document.getElementsByClassName('textoReadingH3');
+        textoReadingElementsH2 = document.getElementsByClassName('textoReadingH2');
+        
+        //Arrays de tamaños
+        textoReadingElementsH2Arr = [...textoReadingElementsH2];
+        textoReadingElementsH1Arr = [...textoReadingElementsH1];
+        textoReadingElementsH3Arr = [...textoReadingElementsH3];
+            
+        //Cantidad de textos
+        totalTextosDinamicos = (textoReadingElementsH2.length + textoReadingElementsH1.length + textoReadingElementsH3.length)/3;
+        
+    }, 10);
+}
+getTextContentSize();
 
 //Botones para el tamaño del texto
 let textSizeOne = document.getElementsByClassName('textSizeOne');
@@ -123,8 +130,8 @@ function reemplazoH1H3porH2(){
             a.classList.remove('textoReadingH3');
             a.classList.remove('textoReadingH1');
         });
-
     }
+    console.log("Texto H2")
 }
 
 //Cambios en los botones cuando son presionados (Estilos)
@@ -200,6 +207,8 @@ let stateSize = localStorage.getItem('valueTextAdjust_size');
 
 //Funciones para comprobar estado de los botones al cargar la pagina
 function checkMemoryButtonState(state,idElement,property){
+    //Obtiene los textos
+    getTextContentSize();
     //Si no es el boton para palabras clave entonces...
     if(idElement != "adjustFont_6" && idElement != "adjustFont_size"){
         if(state == 1){
@@ -455,13 +464,20 @@ function refreshStyles(){
         //Modificamos los textos con los estilos que estan actualmente
         $(".textoDinamicoIdentificador,.textoReadingH1,.textoReadingH2,.textoReadingH3").removeClass('textAlignLeftOwn');
     }
+    checkMemoryButtonState(stateSize,'adjustFont_size');
 }
+
+//
+let contenedorSizeButtonText = document.getElementById('adjustFont_size');
+let buttonsSizeTextChildren = contenedorSizeButtonText.children;
+let buttonsSizeTextChildrenArr = [...buttonsSizeTextChildren];
+console.log('buttonsSizeTextChildrenArr: ', buttonsSizeTextChildrenArr);
 
 //IMPORTANTE
 /**
  * Sirve para refrescar los estilos cuando 
  * cargamos nuestra página.
- */
+*/
 window.onload = function() {
     refreshStyles();
 }
@@ -472,10 +488,23 @@ window.onload = function() {
  * una nueva sección
  */
 //Accedemos al contenedor que tiene las opciones para el menu en computadora.
-let buttonContent= document.getElementById("lateralUnityMenuSectionContainer");
+let buttonContent = document.getElementById("lateralUnityMenuSectionContainer");
+let buttonContentMobile = document.getElementsByClassName("mobileOptionsContainer");
 
+//Debemos refrescar los estilos con un retraso, para que primero se cargue el contenido y luego se refresquen los estilos.
+//Si tiene dudas revisar el tema de Call stack del navegador
 buttonContent.addEventListener('click', () => {
     setTimeout(() => {
         refreshStyles();
     }, 10);
 });
+
+//Lo mismo pero para los botones de moviles
+for(var i = 0; i <= buttonContentMobile.length; i++){
+    buttonContentMobile[i].addEventListener('click', () => {
+        setTimeout(() => {
+            refreshStyles();
+        }, 10);
+    });
+}
+
