@@ -4,6 +4,18 @@
     width: 96%;
     box-sizing: border-box;
 
+    @media (max-width: 1400px) {
+        &{
+            width: 94%;
+        }
+    }
+
+    @media (max-width: 1000px) {
+        &{
+            width: 100%;
+        }
+    }
+
     .collapsible-body{
         padding: 0 !important;
     }
