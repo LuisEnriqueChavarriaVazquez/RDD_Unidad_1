@@ -4,13 +4,11 @@
 [LISTO] El título de... RDD Unidad 1 "La empresa y su entorno ponerlo arriba"
 [LISTO] Terminar el manual de usuario
 [LISTO] Cargar los nuevos colores y texto en el PDF de evaluación
+[LISTO] Arreglar el bug en la parte de la configuracion de los textos con H1,H2,H3
 
 Modificar las imagenes para que tengan zoom
 Modificar las cards para que el formato se vea bien (formato del texto)
 Poner los pies de pagina en las imagenes
-
 ---------
-
-Arreglar el bug en la parte de la configuracion de los textos con H1,H2,H3
 Agregar las preguntas (Solicitar nuevas preguntas)
 Sección de material de apoyo (Solicitar los nuevos pdfs)
