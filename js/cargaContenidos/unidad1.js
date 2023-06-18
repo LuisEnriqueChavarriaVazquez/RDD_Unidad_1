@@ -640,7 +640,7 @@ const contenidosUnidad = [
                 <div class="textoTitulo titleContainer clbktx clgreyl2 border1Sup">Político-legales</div>
                 <div class="cardDesign clgreyl1 border1Inf">
                     <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-                        <i class="keyWord">Las iniciativas, la legislación y en general las decisiones del gobierno afectan a las empresas.</i> Por ejemplo: en materia laboral, impuestos e inversión extranjera, por mencionar algunos.
+                        <i class="keyWord">Las iniciativas, la legislación y en general las decisiones del gobierno afectan a las empresas.</i> <br><br> Por ejemplo: en materia laboral, impuestos e inversión extranjera, por mencionar algunos.
                     </p>
                 </div>
             </div>
@@ -767,9 +767,12 @@ const contenidosUnidad = [
     <div class="textoTitulo titleContainer white-text cl2 border1Sup">Cierre de la unidad temática</div>
     <div class="cardDesign clw border1Inf">
         <p class="clbktx textoDinamicoIdentificador textoReadingH2">
-            ¡Felicidades! Has concluido esta unidad temática. Ahora tienes más elementos que te ayudarán a reconocer la relevancia que tienen las finanzas en todas las organizaciones y en específico en las empresas, independientemente de su constitución, tamaño y giro.<br><br>
-            Recuerda que las empresas son indispensables en nuestras vidas y que constituyen la columna vertebral de la economía. En este sentido, la productividad, la rentabilidad y la competitividad se han convertido en tres de las principales pretensiones de muchas empresas. Para lograr dichas pretensiones se requiere, entre otros aspectos, de la toma de decisiones basadas en información financiera verídica, confiable y oportuna que se verá reflejada en los estados financieros.<br><br>
+            ¡Felicidades! Has concluido esta unidad temática. Ahora tienes más elementos que te ayudarán a reconocer la relevancia que tienen las finanzas en todas las organizaciones y en específico en las empresas, independientemente de su constitución, tamaño y giro.
         </p>
+
+        <blockquote class="clbktx textoDinamicoIdentificador textoReadingH2">
+            Recuerda que las empresas son indispensables en nuestras vidas y que constituyen la columna vertebral de la economía. En este sentido, la productividad, la rentabilidad y la competitividad se han convertido en tres de las principales pretensiones de muchas empresas. Para lograr dichas pretensiones se requiere, entre otros aspectos, de la toma de decisiones basadas en información financiera verídica, confiable y oportuna que se verá reflejada en los estados financieros.
+        </blockquote>
 
         <div class="defaultImage">
             <div class="defaultImageContent" id="cierre"></div>
