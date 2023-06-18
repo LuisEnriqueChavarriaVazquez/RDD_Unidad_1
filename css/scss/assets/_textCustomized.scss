@@ -78,7 +78,7 @@
 
 .textoTitulo {
   font-family: "Roboto", sans-serif;
-  font-size: 2rem;
+  font-size: 1.8rem;
   font-weight: 800;
   margin: 0 0 6px 0;
 }
@@ -96,7 +96,7 @@
 
 @media (max-width: 800px) {
   .textoTitulo {
-    font-size: 1.7rem;
+    font-size: 1.6rem;
     font-weight: 500;
   }
 
@@ -112,7 +112,7 @@
 
 @media (max-width: 600px) {
   .textoTitulo {
-    font-size: 1.6rem;
+    font-size: 1.3rem;
     font-weight: 500;
     margin: 0;
   }
@@ -241,4 +241,10 @@
     font-weight: 500;
     margin: 0;
   }
+}
+
+blockquote{
+  margin: 0 0 20px 0 !important;
+  border-left: 5px solid #be8899;
+  font-weight: 510 !important;
 }
