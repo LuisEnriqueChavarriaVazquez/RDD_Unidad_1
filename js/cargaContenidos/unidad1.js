@@ -34,6 +34,15 @@ const contenidosUnidad = [
         <a href="https://icons8.com/illustrations/illustration/pixeltrue-welcome">Ouch!</a>
         </span>
 
+        <div class="imagenDefaultContainer">
+            <p class="titleImageMine">Figura X: ejemplo de estructura organizacional</p>
+            <div class="imageZoomedContainer">
+                <img class="materialboxed shadow2 border1 imageZoomed"
+                    data-caption="Esta es la descripción de la imagen" src="img/1.1.2-figura-1.png">
+            </div>
+            <p class="noteImageMine clgreyl1 border1">Hernández, J., Rodríguez, E. & Jiménez, Y. (2023).</p>
+        </div>
+
     </div>
 
 </div>
