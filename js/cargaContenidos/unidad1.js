@@ -15,167 +15,173 @@ const contenidosUnidad = [
 
 <div id="test-swipe-1" class="tabsContentContainerInfo">
 
-    <div class="cardDesign clw shadow2 border1">
-        <p class="textoTitulo clbktx">Bienvenida</p>
-        <p class="clbktx textoDinamicoIdentificador textoReadingH2">
-        Estimados alumnos y alumnas que cursan la unidad de aprendizaje Finanzas empresariales, que se imparte en la
-        <i class="keyWord">Escuela Superior de Cómputo (ESCOM) del Instituto Politécnico Nacional (IPN)</i>, reciban la mejor de las
-        bienvenidas a este este <i class="keyWord">recurso didáctico digital (RDD) de la unidad temática 1: la empresa y su entorno</i>,
-        correspondiente a la unidad de aprendizaje Finanzas empresariales.
-        Este recurso educativo se construyó con la finalidad de apoyarlos en su proceso de aprendizaje de la unidad
-        en cuestión, esperamos que les sea de gran ayuda.
-        </p>
+    <div class="shadow4 border1 clw">
+        <div class="textoTitulo titleContainer white-text nav-superiorUnit1 border1Sup">Bienvenida</div>
+        <div class="cardDesign clw border1Inf">
+            <p class="clbktx textoDinamicoIdentificador textoReadingH2">
+            Estimados alumnos y alumnas que cursan la unidad de aprendizaje Finanzas empresariales, que se imparte en la
+            <i class="keyWord">Escuela Superior de Cómputo (ESCOM) del Instituto Politécnico Nacional (IPN)</i>, reciban la mejor de las
+            bienvenidas a este este <i class="keyWord">recurso didáctico digital (RDD) de la unidad temática 1: la empresa y su entorno</i>,
+            correspondiente a la unidad de aprendizaje Finanzas empresariales.
+            Este recurso educativo se construyó con la finalidad de apoyarlos en su proceso de aprendizaje de la unidad
+            en cuestión, esperamos que les sea de gran ayuda.
+            </p>
 
 
-        <div class="defaultImage">
-            <div class="defaultImageContent" id="bienvenida"></div>
+            <div class="defaultImage">
+                <div class="defaultImageContent" id="bienvenida"></div>
+            </div>
+            <span class="referenciaIcono clgreyl1 border1 clbktx">Retomado de Pixeltrue proveniente de &nbsp; 
+            <a href="https://icons8.com/illustrations/illustration/pixeltrue-welcome">Ouch!</a>
+            </span>
         </div>
-        <span class="referenciaIcono clgreyl1 border1 clbktx">Retomado de Pixeltrue proveniente de &nbsp; 
-        <a href="https://icons8.com/illustrations/illustration/pixeltrue-welcome">Ouch!</a>
-        </span>
-
     </div>
 
 </div>
 <div id="test-swipe-2" class="tabsContentContainerInfo">
 
-    <div class="cardDesign clw shadow2 border1">
-        <p class="textoTitulo clbktx">Unidad de competencia</p>
-        <p class="clbktx textoDinamicoIdentificador textoReadingH2">
-            Reconoce el <i class="keyWord">papel de las finanzas</i> a partir del <i class="keyWord">contexto empresarial.</i>
-        </p>
+    <div class="shadow4 border1 clw">
+        <div class="textoTitulo titleContainer white-text nav-superiorUnit1 border1Sup">Unidad de competencia</div>
+        <div class="cardDesign clw border1Inf">
+            <p class="clbktx textoDinamicoIdentificador textoReadingH2">
+                Reconoce el <i class="keyWord">papel de las finanzas</i> a partir del <i class="keyWord">contexto empresarial.</i>
+            </p>
 
-        <div class="defaultImage">
-            <div class="defaultImageContent" id="unidadCompetencia"></div>
+            <div class="defaultImage">
+                <div class="defaultImageContent" id="unidadCompetencia"></div>
+            </div>
+            <span class="referenciaIcono clgreyl1 border1 clbktx">Retomado de Pixeltrue proveniente de &nbsp; 
+            <a href="https://icons8.com/illustrations/illustration/pixeltrue-sleeping">Ouch!</a>
+            </span>
         </div>
-        <span class="referenciaIcono clgreyl1 border1 clbktx">Retomado de Pixeltrue proveniente de &nbsp; 
-        <a href="https://icons8.com/illustrations/illustration/pixeltrue-sleeping">Ouch!</a>
-        </span>
-
     </div>
 
 </div>
 <div id="test-swipe-3" class="tabsContentContainerInfo">
 
-    <div class="cardDesign clw shadow2 border1">
-        <p class="textoTitulo clbktx">Metodología</p>
-        <p class="clbktx textoDinamicoIdentificador textoReadingH2">
-            <i class="keyWord">El uso de este RDD de la unidad 1: la empresa y su entorno</i>, te permitirá <i class="keyWord">abordar los contenidos</i> en la
-            secuencia en la <i class="keyWord">que aparecen en el programa de estudios</i> y sobre todo a tu propio ritmo de aprendizaje.
-            Adicionalmente, están disponibles en el momento en el que los quieras consultar, con lo que <i class="keyWord">se pretende
-            facilitar el aprendizaje autónomo.</i>
+    <div class="shadow4 border1 clw">
+        <div class="textoTitulo titleContainer white-text nav-superiorUnit1 border1Sup">Metodología</div>
+        <div class="cardDesign clw border1Inf">
+            <p class="clbktx textoDinamicoIdentificador textoReadingH2">
+                <i class="keyWord">El uso de este RDD de la unidad 1: la empresa y su entorno</i>, te permitirá <i class="keyWord">abordar los contenidos</i> en la
+                secuencia en la <i class="keyWord">que aparecen en el programa de estudios</i> y sobre todo a tu propio ritmo de aprendizaje.
+                Adicionalmente, están disponibles en el momento en el que los quieras consultar, con lo que <i class="keyWord">se pretende
+                facilitar el aprendizaje autónomo.</i>
 
-            Este RDD se construyó como <i class="keyWord">apoyo educativo a las clases presenciales y no presenciales</i>; cuenta con menú en
-            el que podrás seleccionar alguno de los siguientes botones de navegación: inicio, contenidos, material de apoyo, actividades de aprendizaje, cierre de la unidad temática, evaluación, referencias, contacto, glosario, manual de usuario.
-            ¿Qué encontrarás al hacer clic en cada uno de los botones antes mencionados?
+                Este RDD se construyó como <i class="keyWord">apoyo educativo a las clases presenciales y no presenciales</i>; cuenta con menú en
+                el que podrás seleccionar alguno de los siguientes botones de navegación: inicio, contenidos, material de apoyo, actividades de aprendizaje, cierre de la unidad temática, evaluación, referencias, contacto, glosario, manual de usuario.
+                ¿Qué encontrarás al hacer clic en cada uno de los botones antes mencionados?
 
-            <div class="cardDesign clgreyl2 border1">
-                <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b>⚫ Contenidos.</b> En este apartado encontrarás los fundamentos teóricos y algunas figuras alusivas al tema tratado.</p>
+                <div class="cardDesign clgreyl2 border1 shadow2">
+                    <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b>⚫ Contenidos.</b> En este apartado encontrarás los fundamentos teóricos y algunas figuras alusivas al tema tratado.</p>
+                        
+                    <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b>⚫ Material de apoyo.</b> En esta sección podrás leer y descargar una lectura, en la que encontrarás información relevante y
+                        de interés sobre las organizaciones y en particular sobre la empresa.</p>
                     
-                <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b>⚫ Material de apoyo.</b> En esta sección podrás leer y descargar una lectura, en la que encontrarás información relevante y
-                    de interés sobre las organizaciones y en particular sobre la empresa.</p>
-                
-                <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b>⚫ Actividad de aprendizaje.</b> En esta parte podrás visualizar y descargar la actividad de aprendizaje que se
-                    realizará en el aula (en el horario de clases); se desarrollará en forma individual o en equipo, se subirá a
-                    la plataforma indicada por el profesor(a) y tendrá valor para la evaluación.</p>
+                    <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b>⚫ Actividad de aprendizaje.</b> En esta parte podrás visualizar y descargar la actividad de aprendizaje que se
+                        realizará en el aula (en el horario de clases); se desarrollará en forma individual o en equipo, se subirá a
+                        la plataforma indicada por el profesor(a) y tendrá valor para la evaluación.</p>
+                        
+                    <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b>⚫ Glosario.</b> Esta parte del menú encontrarás el significado de algunos términos debidamente referenciados que
+                        te facilitarán la comprensión del tema.</p>
                     
-                <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b>⚫ Glosario.</b> Esta parte del menú encontrarás el significado de algunos términos debidamente referenciados que
-                    te facilitarán la comprensión del tema.</p>
-                
-                <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b>⚫ Referencias.</b> En esta opción del menú están enlistadas las fuentes de consulta que se utilizaron para el
-                    desarrollo de la unidad temática.</p>
+                    <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b>⚫ Referencias.</b> En esta opción del menú están enlistadas las fuentes de consulta que se utilizaron para el
+                        desarrollo de la unidad temática.</p>
 
-                <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b>⚫ Evaluación.</b> En este apartado podrá poner a prueba sus conocimientos y descargar sus resultados en formato PDF.</p>
+                    <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b>⚫ Evaluación.</b> En este apartado podrá poner a prueba sus conocimientos y descargar sus resultados en formato PDF.</p>
+                </div>
+            </p>
+
+            <div class="defaultImage">
+                <div class="defaultImageContent" id="metodologia"></div>
             </div>
-        </p>
-
-        <div class="defaultImage">
-            <div class="defaultImageContent" id="metodologia"></div>
+            <span class="referenciaIcono clgreyl1 border1 clbktx">Retomado de Pixeltrue proveniente de &nbsp; 
+            <a href="https://icons8.com/illustrations/illustration/pixeltrue-idea">Ouch!</a>
+            </span>
         </div>
-        <span class="referenciaIcono clgreyl1 border1 clbktx">Retomado de Pixeltrue proveniente de &nbsp; 
-        <a href="https://icons8.com/illustrations/illustration/pixeltrue-idea">Ouch!</a>
-        </span>
 
     </div>
 
 </div>
 <div id="test-swipe-4" class="tabsContentContainerInfo">
 
-    <div class="cardDesign clw shadow2 border1">
-        <p class="textoTitulo clbktx">Evaluación de los aprendizajes</p>
-        <p class="clbktx textoDinamicoIdentificador textoReadingH2">
-            La evaluación de los aprendizajes se llevará a cabo como se muestra en la siguiente tabla:
-        </p>
+    <div class="shadow4 border1 clw">
+        <div class="textoTitulo titleContainer white-text nav-superiorUnit1 border1Sup">Evaluación de los aprendizajes</div>
+        <div class="cardDesign clw border1Inf">
+            <p class="clbktx textoDinamicoIdentificador textoReadingH2">
+                La evaluación de los aprendizajes se llevará a cabo como se muestra en la siguiente tabla:
+            </p>
 
-        <div class="cardDesign clgreyl2 border1">
-            <table class="striped highlight responsive-table clw border1 shadow2">
-              <thead>
-                <tr>
-                    <th class="clbktx textoStandarTable">Actividad de aprendizaje</th>
-                    <th class="clbktx textoStandarTable">Evidencia de aprendizaje</th>
-                    <th class="clbktx textoStandarTable">Valor en la evaluación</th>
-                </tr>
-              </thead>
-      
-              <tbody>
-                <tr>
-                  <td class="cellCenter textoStandarTable">Actividad 1. La empresa, sus finanzas y su relación con el entorno. </td>
-                  <td class="textoStandarTable">
-                    Reporte que incluya:
-                    <ul class="browser-default">
-                        <li><i class="keyWord">La descripción de la empresa</i>, <i class="keyWord">su constitución jurídica</i> y <i class="keyWord">cómo se clasifica</i> (con base en los criterios de clasificación vistos en clase).</li>
-                        <li><i class="keyWord">La estructura organizacional (organigrama)</i> resaltando y explicando en forma escrita <i class="keyWord">cómo está conformada el área financiera y su relación</i> con las demás áreas de la empresa.</li>
-                        <li><i class="keyWord">Los factores del micro y macroentorno</i> que actualmente están impactando a la empresa o que la impactarán en un futuro <i class="keyWord">(identifícalos y haz una lista).</i></li>
-                        <li><i class="keyWord">La argumentación de cada factor</i> incluido en la lista anterior.</li>
-                        <li>Una <i class="keyWord">conclusión sobre el impacto que tienen los factores del micro y macroentorno</i> en la empresa y en sus finanzas.</li>
-                    </ul>
+            <div class="cardDesign clgreyl2 border1">
+                <table class="striped highlight responsive-table clw border1 shadow2">
+                <thead>
+                    <tr>
+                        <th class="clbktx textoStandarTable">Actividad de aprendizaje</th>
+                        <th class="clbktx textoStandarTable">Evidencia de aprendizaje</th>
+                        <th class="clbktx textoStandarTable">Valor en la evaluación</th>
+                    </tr>
+                </thead>
+        
+                <tbody>
+                    <tr>
+                    <td class="cellCenter textoStandarTable">Actividad 1. La empresa, sus finanzas y su relación con el entorno. </td>
+                    <td class="textoStandarTable">
+                        Reporte que incluya:
+                        <ul class="browser-default">
+                            <li><i class="keyWord">La descripción de la empresa</i>, <i class="keyWord">su constitución jurídica</i> y <i class="keyWord">cómo se clasifica</i> (con base en los criterios de clasificación vistos en clase).</li>
+                            <li><i class="keyWord">La estructura organizacional (organigrama)</i> resaltando y explicando en forma escrita <i class="keyWord">cómo está conformada el área financiera y su relación</i> con las demás áreas de la empresa.</li>
+                            <li><i class="keyWord">Los factores del micro y macroentorno</i> que actualmente están impactando a la empresa o que la impactarán en un futuro <i class="keyWord">(identifícalos y haz una lista).</i></li>
+                            <li><i class="keyWord">La argumentación de cada factor</i> incluido en la lista anterior.</li>
+                            <li>Una <i class="keyWord">conclusión sobre el impacto que tienen los factores del micro y macroentorno</i> en la empresa y en sus finanzas.</li>
+                        </ul>
 
-                  </td>
-                  <td class="cellCenter textoStandarTable">10 puntos</td>
-                </tr>
-              </tbody>
-            </table>
+                    </td>
+                    <td class="cellCenter textoStandarTable">10 puntos</td>
+                    </tr>
+                </tbody>
+                </table>
+            </div>
+
+            <div class="defaultImage">
+                <div class="defaultImageContent" id="evaluacionAprendizajes"></div>
+            </div>
+            <span class="referenciaIcono clgreyl1 border1 clbktx">Retomado de Pixeltrue proveniente de &nbsp; 
+            <a href="https://icons8.com/illustrations/illustration/pixeltrue-teaching">Ouch!</a>
+            </span>
         </div>
-
-        <div class="defaultImage">
-            <div class="defaultImageContent" id="evaluacionAprendizajes"></div>
-        </div>
-        <span class="referenciaIcono clgreyl1 border1 clbktx">Retomado de Pixeltrue proveniente de &nbsp; 
-        <a href="https://icons8.com/illustrations/illustration/pixeltrue-teaching">Ouch!</a>
-        </span>
-
     </div>
 
 </div>
 <div id="test-swipe-5" class="tabsContentContainerInfo">
 
-    <div class="cardDesign clw shadow2 border1">
-        <p class="textoTitulo clbktx">Requerimientos</p>
-        <p class="clbktx textoDinamicoIdentificador textoReadingH2">
-            Para acceder y hacer uso de este recurso se requiere:
+    <div class="shadow4 border1 clw">
+        <div class="textoTitulo titleContainer white-text nav-superiorUnit1 border1Sup">Requerimientos</div>
+        <div class="cardDesign clw border1Inf">
+            <p class="clbktx textoDinamicoIdentificador textoReadingH2">
+                Para acceder y hacer uso de este recurso se requiere:
 
-    <p class="clbktx textoDinamicoIdentificador textoReadingH2" style="margin: 2px;">⚫ <i class="keyWord">Conexión a internet</i></p>
-    <p class="clbktx textoDinamicoIdentificador textoReadingH2" style="margin: 2px;">⚫ Navegador de internet:</p>
-    <p class="clbktx textoDinamicoIdentificador textoReadingH2" style="margin: 2px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ <i class="keyWord">Microsoft Edge</i> (version 85 o superior)</p>
-    <p class="clbktx textoDinamicoIdentificador textoReadingH2" style="margin: 2px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ <i class="keyWord">Google Chrome</i> (version 85 o superior)</p>
-    <p class="clbktx textoDinamicoIdentificador textoReadingH2" style="margin: 2px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ <i class="keyWord">Mozilla Firefox</i> (version 80 o superior)</p>
-    <p class="clbktx textoDinamicoIdentificador textoReadingH2" style="margin: 2px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ <i class="keyWord">Vivaldi</i> (version 3.3 o superior)</p>
-    <p class="clbktx textoDinamicoIdentificador textoReadingH2" style="margin: 2px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ <i class="keyWord">Opera 70 o superior</i></p>
-    </p>
-        
-    <div class="defaultImage">
-        <div class="defaultImageContent" id="requerimientos"></div>
-    </div>
-    <span class="referenciaIcono clgreyl1 border1 clbktx">Retomado de Pixeltrue proveniente de &nbsp; 
-    <a href="https://icons8.com/illustrations/illustration/pixeltrue-web-development">Ouch!</a>
-    </span>
-
+            <p class="clbktx textoDinamicoIdentificador textoReadingH2" style="margin: 2px;">⚫ <i class="keyWord">Conexión a internet</i></p>
+            <p class="clbktx textoDinamicoIdentificador textoReadingH2" style="margin: 2px;">⚫ Navegador de internet:</p>
+            <p class="clbktx textoDinamicoIdentificador textoReadingH2" style="margin: 2px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ <i class="keyWord">Microsoft Edge</i> (version 85 o superior)</p>
+            <p class="clbktx textoDinamicoIdentificador textoReadingH2" style="margin: 2px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ <i class="keyWord">Google Chrome</i> (version 85 o superior)</p>
+            <p class="clbktx textoDinamicoIdentificador textoReadingH2" style="margin: 2px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ <i class="keyWord">Mozilla Firefox</i> (version 80 o superior)</p>
+            <p class="clbktx textoDinamicoIdentificador textoReadingH2" style="margin: 2px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ <i class="keyWord">Vivaldi</i> (version 3.3 o superior)</p>
+            <p class="clbktx textoDinamicoIdentificador textoReadingH2" style="margin: 2px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ <i class="keyWord">Opera 70 o superior</i></p>
+            </p>
+            
+            <div class="defaultImage">
+                <div class="defaultImageContent" id="requerimientos"></div>
+            </div>
+            <span class="referenciaIcono clgreyl1 border1 clbktx">Retomado de Pixeltrue proveniente de &nbsp; 
+            <a href="https://icons8.com/illustrations/illustration/pixeltrue-web-development">Ouch!</a>
+            </span>
+        </div>
     </div>
 
 
 </div>`,
   `
-  <div class="shadow4 border1">
+  <div class="shadow4 border1 clw">
         <div class="textoTitulo titleContainer white-text nav-superiorUnit1 border1Sup">Introducción</div>
         <div class="cardDesign clw border1Inf">
             <!--Card con un ejemplo-->
@@ -195,7 +201,7 @@ const contenidosUnidad = [
             </span> 
         </div>
 </div>`,
-  `<div class="shadow4 border1">
+  `<div class="shadow4 border1 clw">
     <div class="textoTitulo titleContainer white-text nav-superiorUnit1 border1Sup">1.1 La empresa</div>
     <div class="cardDesign clw border1Inf">
         <p class="clbktx textoDinamicoIdentificador textoReadingH2">
@@ -215,8 +221,10 @@ const contenidosUnidad = [
         </span>
     </div>
 </div>`,
-  `<div class="cardDesign clw shadow2 border1">
-        <p class="textoTitulo clbktx">1.1.1 Constitución jurídica</p>
+  `<div class="shadow4 border1 clw">
+    
+    <div class="textoTitulo titleContainer white-text nav-superiorUnit1 border1Sup">1.1.1 Constitución jurídica</div>
+    <div class="cardDesign clw border1Inf">
         <p class="clbktx textoDinamicoIdentificador textoReadingH2">
             <i class="keyWord">En México de acuerdo con el Servicio de Administración Tributaria (SAT)</i> para fines fiscales existen las siguientes figuras: <i class="keyWord">personas físicas y personas morales.</i><br>
         </p>
@@ -296,14 +304,29 @@ const contenidosUnidad = [
                 </table>
             </p>
         </div><br>
+        <br>
         <p class="clbktx textoDinamicoIdentificador textoReadingH2">
             <i class="keyWord">Es importante señalar que algunas de las sociedades antes mencionadas han caído en desuso,</i> tal es el caso de la sociedad en nombre colectivo, la sociedad en comandita simple y la sociedad en comandita por acciones.<br><br>
-        En la siguiente lectura encontrarás más información sobre las empresas y su constitución jurídica.
-        <a  href="https://drive.google.com/file/d/17pnzUOvCjTKDdS0gfNrfqng5GYKi01eZ/view?usp=share_link" target="_blank">Lectura</a>
+            En la siguiente lectura encontrarás más información sobre las empresas y su constitución jurídica.    
         </p>
+        <a href="https://drive.google.com/file/d/17pnzUOvCjTKDdS0gfNrfqng5GYKi01eZ/view?usp=share_link" target="_blank">
+            <div class="linkToResourceContainer clgreyl1 clbktx border1 shadow2">
+                <div class="linkToResourceContainer_title clbktx">Lectura</div>
+                
+                <div class="linkToResourceContainer_icon">
+                    <span class="material-icons">
+                        link
+                    </span>
+                </div>
+            </div>
+        </a>
+
+    </div>
+    </div>
 </div>`,
-  `<div class="cardDesign clw shadow2 border1">
-        <p class="textoTitulo clbktx">1.1.2 El área financiera en la estructura organizacional</p>
+  `<div class="shadow4 border1 clw">
+    <div class="textoTitulo titleContainer white-text nav-superiorUnit1 border1Sup">1.1.2 El área financiera en la estructura organizacional</div>
+    <div class="cardDesign clw border1Inf">
         <!--Card con un ejemplo-->
         <p class="clbktx textoDinamicoIdentificador textoReadingH2">
             Para explicar en qué consiste <i class="keyWord">la estructura organizacional usaremos la siguiente analogía:</i> el ser humano tiene un sistema óseo que le permite tener movimiento, un sistema respiratorio que le proporciona el oxígeno para vivir; un sistema digestivo que le suministra nutrientes; un sistema circulatorio que transporta la sangre y distribuye nutrientes; un sistema excretor que lo limpia de impurezas; un cerebro que rige el funcionamiento general del organismo; entre otros, del mismo modo las organizaciones requieren de una estructura para su funcionamiento.<br><br>
@@ -341,223 +364,223 @@ const contenidosUnidad = [
         <p class="clbktx textoDinamicoIdentificador textoReadingH2">
             <i class="keyWord">La organización delimita las actividades y la toma de decisiones en cada una de las áreas.</i> Cabe destacar que todas las organizaciones, independientemente de su tamaño y giro cuentan con un área financiera. Las demás áreas de la empresa <i class="keyWord">(capital humano, ventas, manufactura, marketing y sistemas, etc.)</i> están en constante comunicación con el área financiera, por ejemplo, para justificar sus requerimientos de recursos humanos y negociar diferentes presupuestos operativos, entre otros.
         </p>
-        
-</div>`,
-  `<div class="cardDesign clw shadow2 border1">
-    <p class="textoTitulo clbktx">1.2 Función y objetivo de las finanzas empresariales</p>
-    <p class="clbktx textoDinamicoIdentificador textoReadingH2">
-        <i class="keyWord">¿Qué son las finanzas?</i>
-
-    <br><br>Finanzas es un término que seguramente has escuchado con mucha frecuencia y de hecho en tu vida diaria, de algún modo, realizas actividades relacionadas con dicha disciplina. <i class="keyWord">Hay tantas definiciones del término finanzas como autores al respecto, en la figura 1.4 se rescatan algunas de ellas.</i>
-    </p><br>
-    <div class="imagenDefaultContainer">
-        <p class="titleImageMine">Figura X: ¿Qué son las finanzas?</p>
-        <div class="imageZoomedContainer">
-            <img class="materialboxed shadow2 border1 imageZoomed"
-                data-caption="Esta es la descripción de la imagen" src="img/1.2-figura-1.png">
-        </div>
-        <p class="noteImageMine clgreyl1 border1">Hernández, J., Rodríguez, E. & Jiménez, Y. (2023).</p>
-    </div><br>
-    <p class="clbktx textoDinamicoIdentificador textoReadingH2">
-        <i class="keyWord">Siguiendo a Gitman (2012) las finanzas son el arte y la ciencia de administrar el dinero.</i> Al respecto, el autor enfatiza que las finanzas afectan las decisiones tanto de los individuos como de las empresas, ya que ambos en algún momento se enfrentan a la decisión de cuánto dinero gastar, cuánto ahorrar y cómo invertir los ahorros.<br><br>
-    Específicamente en la empresa las finanzas se enfocan en:<br>
-    </p>
-    <ol class="clbktx textoDinamicoIdentificador textoReadingH2" style="list-style:square;">
-        <li>Cómo incrementar el dinero de los inversionistas</li>
-        <li>Cómo invertir el dinero para maximizar las utilidades</li>
-        <li>De qué modo conviene reinvertir las ganancias de la empresa o distribuirlas entre los inversionistas</li>
-    </ol><br><br>
-    <p class="clbktx textoDinamicoIdentificador textoReadingH2">
-        <i class="keyWord">Para lograr lo anterior se requiere del financiamiento y de la inversión,</i> ambas son consideradas como las funciones principales de las finanzas. En este sentido, se entiende por <i class="keyWord">financiamiento la obtención de recursos provenientes de una o varias fuentes de financiamiento;</i> en tanto que la inversión se refiere propiamente a la utilización que se hace de dichos recursos. Por ejemplo, en el caso de una organización podría invertir en infraestructura <i class="keyWord">(instalaciones, bodegas, maquinaria, equipo, entre otros)</i> a este tipo de inversión se le conoce como inversión fija; y también podría invertir en el proceso operativo del negocio.<br><br>
-    Hablar de finanzas implica hablar de contabilidad. <i class="keyWord">La contabilidad se encarga principalmente del registro de las operaciones de la entidad, de la elaboración de los estados financieros, de la elaboración de reportes con información financiera y de calcular y pagar impuestos;</i> por lo que constituye el principal sistema de información cuantitativa de la organización.<br><br>
-    La contabilidad forma parte del área financiera y la función financiera se lleva a cabo mediante dos actividades importantes:<br>
-    </p>
-    <div class="shadow2 cardDesign clgreyl2 border1">
-        <p class="textoTitulo clbktx">Tesorería:</p>
-        <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-        Básicamente <i class="keyWord">se enfoca al manejo de los recursos financieros,</i> entre sus principales actividades se encuentran:
-            <ol class=" clbktx textoDinamicoIdentificador textoReadingH2" style="list-style: square;">
-                <li><i class="keyWord">Administración del flujo de efectivo</i></li>
-                <li><i class="keyWord">Inversiones</i></li>
-                <li><i class="keyWord">Presupuestos</i></li>
-                <li><i class="keyWord">Financiamiento</i></li>
-            </ol>
-        </p>
-    </div><br>
-    <div class="shadow2 cardDesign clgreyl2 border1">
-        <p class="textoTitulo clbktx">Contraloría:</p>
-        <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-        Área <i class="keyWord">encargada de coordinar y dirigir las siguientes actividades:</i>
-            <ol class="clbktx textoDinamicoIdentificador textoReadingH2" style="list-style: square;">
-                <li><i class="keyWord">Contabilidad</i></li>
-                <li><i class="keyWord">Pronósticos</i></li>
-                <li><i class="keyWord">Administración de riesgos</i></li>
-                <li><i class="keyWord">Verificar que le Administración esté de acuerdo con los objetivos de la empresa</i></li>
-                <li><i class="keyWord">Auditoría interna</i></li>
-                <li><i class="keyWord">Desarrollo de políticas y procedimientos</i></li>
-            </ol>
-        </p>
-    </div><br>
-    <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-        Para que la función financiera se lleve a cabo en forma adecuada requiere de <i class="keyWord">información verídica y confiable proporcionada por el área contable.</i><br><br>
-        En la figura 1.3 encontrarás algunas de las principales funciones de las áreas contable y financiera.
-    </p>
-    <div class="imagenDefaultContainer">
-        <p class="titleImageMine">Figura X: la contabilidad y las finanzas</p>
-        <div class="imageZoomedContainer">
-            <img class="materialboxed shadow2 border1 imageZoomed"
-                data-caption="Esta es la descripción de la imagen" src="img/1.2-figura-2.png">
-        </div>
-        <p class="noteImageMine clgreyl1 border1">Hernández, J., Rodríguez, E. & Jiménez, Y. (2023).</p>
     </div>
-    <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-    Como se puede apreciar en la figura 1.3 la función contable debe considerarse como un insumo necesario para la función financiera.
-    </p>
-
 </div>`,
-  `<div class="cardDesign clw shadow2 border1">
-    <p class="textoTitulo clbktx">
-        1.3 Las finanzas empresariales y su relación con otras disciplinas (Ética, Economía, Derecho, Matemáticas, etc.)
-    </p><br>
-    <section class="cardDesign_container">
-        <div class="cardDesign shadow2 clgreyl2 border1">
-            <p class="textoTitulo clbktx">Ética</p>
-            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-            La <i class="keyWord">ética trata sobre lo que se considera un comportamiento humano correcto;</i> es decir, con la práctica de valores. Todo lo relacionado con las <i class="keyWord">finanzas y el manejo del dinero debe ser honesto, claro, transparente y digno de confianza.</i>
-            </p>
-        </div>
-        <div class="cardDesign shadow2 clgreyl2 border1">
-            <p class="textoTitulo clbktx">Economía</p>
-            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-                La <i class="keyWord">economía es la ciencia que se centra en la satisfacción de las necesidades humanas,</i> así como en la <i class="keyWord">generación y administración de la riqueza por lo que tiene una relación estrecha con las finanzas.</i>
-            </p>
-        </div>
-        <div class="cardDesign shadow2 clgreyl2 border1">
-            <p class="textoTitulo clbktx">Derecho</p>
-            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-                El <i class="keyWord">Derecho a través de diferentes leyes regula las actividades financieras y de no acatarse y/o cumplirse dichas leyes hay sanciones en materia legal.</i>
-            </p>
-        </div>
-        <div class="cardDesign shadow2 clgreyl2 border1">
-            <p class="textoTitulo clbktx">Matemáticas</p>
-            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-                Las matemáticas están tan estrechamente ligadas con las finanzas que incluso ha surgido <i class="keyWord">el término matemáticas financieras en las que se utilizan la aritmética y el álgebra en temas como valor presente, valor futuro, costo de capital y tasas de interés,</i> por mencionar algunos.
-            </p>
-        </div>
-    </section>
-</div>`,
-  `<div class="cardDesign clw shadow2 border1">
-    <p class="textoTitulo clbktx">
-        1.4. Factores del micro y macro ambiente que impactan a la empresa y a sus finanzas
-    </p>
-    <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-        La <i class="keyWord">empresa es un sistema abierto porque tiene elementos interrelacionados entre sí y con el entorno;</i> es decir no existe en forma aislada, sino que interactúa con su entorno existiendo un impacto bidireccional. <i class="keyWord">El entorno se conforma por el micro y macro ambiente.</i>
-    </p>
-    <img class="materialboxed shadow2 border1 imageZoomed" src="img/entornos.png" /><br>
+  `<div class="shadow4 border1 clw">
+    <div class="textoTitulo titleContainer white-text nav-superiorUnit1 border1Sup">1.2 Función y objetivo de las finanzas empresariales</div>
+    <div class="cardDesign clw border1Inf">
+        <p class="clbktx textoDinamicoIdentificador textoReadingH2">
+            <i class="keyWord">¿Qué son las finanzas?</i>
 
-    <section class="cardDesign_container">
-        <div class="cardDesign shadow2 clgreyl2 border1">
-            <p class="textoTitulo clbktx">Microentorno</p>
-            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-            Representado por elementos que <i class="keyWord">tienen relación directa con la empresa e influyen en ella,</i> como por ejemplo: <i class="keyWord">proveedores, clientes, competidores, entidades financieras, comunidad y alcaldías o municipios.</i>
-            </p>
-        </div>
-        <div class="cardDesign shadow2 clgreyl2 border1">
-            <p class="textoTitulo clbktx">Proveedores</p>
-            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-            Son las entidades que <i class="keyWord">venden bienes o prestan servicios a la empresa.</i> Por ejemplo: <i class="keyWord">materia prima, equipo de cómputo, mobiliario y equipo de oficina, servicios de internet, servicios de mantenimiento, etc.</i>
-            </p>
-        </div>
-        <div class="cardDesign shadow2 clgreyl2 border1">
-            <p class="textoTitulo clbktx">Clientes</p>
-            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-                Son quienes <i class="keyWord">compran bienes o adquieren servicios de la empresa.</i>
-            </p>
-        </div>
-        <div class="cardDesign shadow2 clgreyl2 border1">
-            <p class="textoTitulo clbktx">Competidores</p>
-            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-                <i class="keyWord">Ofrecen el mismo producto o productos sustitutos</i> (cubren la misma necesidad, aunque no son idénticos).
-            </p>
-        </div>
-        <div class="cardDesign shadow2 clgreyl2 border1">
-            <p class="textoTitulo clbktx">Entidades financieras</p>
-            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-            Las <i class="keyWord">entidades financieras más comunes son los bancos, estos son una fuente de financiamiento importante, prestan dinero y a cambio cobran una tasa de interés.</i>
-            </p>
-        </div>
-        <div class="cardDesign shadow2 clgreyl2 border1">
-            <p class="textoTitulo clbktx">Comunidad</p>
-            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-                La <i class="keyWord">comunidad en la que se inserta la empresa tiene ciertas características,</i> tales como: <i class="keyWord">ideología, costumbres, inquietud por el medio ambiente y en general un estilo de vida.</i> Dichos aspectos definitivamente influyen en la empresa.
-            </p>
-        </div>
-        <div class="cardDesign shadow2 clgreyl2 border1">
-            <p class="textoTitulo clbktx">Alcaldías o municipios</p>
-            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-                Las empresas <i class="keyWord">al realizar algunos trámites y permisos tienen relación con las alcaldías o municipios.</i> Por ejemplo: trámite de uso de suelo y permisos de apertura, por mencionar algunos.
-            </p>
-        </div>
-        <div class="cardDesign shadow2 clgreyl2 border1">
-            <p class="textoTitulo clbktx">Macroentorno</p>
-            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-                Conformado por todos aquellos factores que tienen una gran influencia en la empresa, como por ejemplo: <i class="keyWord">económicos, tecnológicos, político-legales, demográficos, socio culturales y medioambientales.</i>
-            </p>
-        </div>
-        <div class="cardDesign shadow2 clgreyl2 border1">
-            <p class="textoTitulo clbktx">Económicos</p>
-            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-                <i class="keyWord">La inflación, las tasas de interés, y el tipo de cambio,</i> entre otros, son factores que <i class="keyWord">inciden en los costos y por tanto en el precio y en el resultado de la empresa.</i>
-            </p>
-        </div>
-        <div class="cardDesign shadow2 clgreyl2 border1">
-            <p class="textoTitulo clbktx">Tecnológicos</p>
-            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-                Las <i class="keyWord">nuevas tecnologías no solo facilitan y/o automatizan el trabajo, también abren nuevas oportunidades de negocio.</i>
-            </p>
-        </div>
-        <div class="cardDesign shadow2 clgreyl2 border1">
-            <p class="textoTitulo clbktx">Político-legales</p>
-            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-                <i class="keyWord">Las iniciativas, la legislación y en general las decisiones del gobierno afectan a las empresas.</i> Por ejemplo: en materia laboral, impuestos e inversión extranjera, por mencionar algunos.
-            </p>
-        </div>
-        <div class="cardDesign shadow2 clgreyl2 border1">
-            <p class="textoTitulo clbktx">Demográficos</p>
-            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-                La <i class="keyWord">información sobre la población,</i> como por ejemplo: <i class="keyWord">edad, cantidad de hombres y de mujeres, nivel de ingresos, nivel socioeconómico,</i> entre otros, son datos en los que las empresas <i class="keyWord">podrían apoyarse para identificar ¿qué vender? ¿a quién vender? y ¿dónde se localizan los clientes?,</i> entre otras interrogantes.
-            </p>
-        </div>
-        <div class="cardDesign shadow2 clgreyl2 border1">
-            <p class="textoTitulo clbktx">Socio culturales</p>
-            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-                Corresponde a los <i class="keyWord">estilos de vida, costumbres, hábitos alimenticios, religión y demás aspectos que condicionan el comportamiento de las personas.</i>
-            </p>
-        </div>
-        <div class="cardDesign shadow2 clgreyl2 border1">
-            <p class="textoTitulo clbktx">Medioambientales</p>
-            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-                Hoy día existe una <i class="keyWord">preocupación mundial por minimizar el impacto medio ambiental, lo que supone un esfuerzo y un costo para las empresas.</i> Existen leyes que regulan aspectos ambientales y quienes no las cumplan son acreedores a sanciones.
-            </p>
-        </div>
-    </section>
-
-    <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-        Es momento de que realices la siguiente actividad de aprendizaje:
-    </p><br>
-
-    <a href="https://drive.google.com/file/d/1mhsrMh21yNE5tgNHkpgEZ_lwDyC7s3uU/view?usp=share_link" target="_blank">
-        <div class="linkToResourceContainer clgreyl1 clbktx border1 shadow2">
-            <div class="linkToResourceContainer_title clbktx">Actividad</div>
-            
-            <div class="linkToResourceContainer_icon">
-                <span class="material-icons">
-                    link
-                </span>
+        <br><br>Finanzas es un término que seguramente has escuchado con mucha frecuencia y de hecho en tu vida diaria, de algún modo, realizas actividades relacionadas con dicha disciplina. <i class="keyWord">Hay tantas definiciones del término finanzas como autores al respecto, en la figura 1.4 se rescatan algunas de ellas.</i>
+        </p><br>
+        <div class="imagenDefaultContainer">
+            <p class="titleImageMine">Figura X: ¿Qué son las finanzas?</p>
+            <div class="imageZoomedContainer">
+                <img class="materialboxed shadow2 border1 imageZoomed"
+                    data-caption="Esta es la descripción de la imagen" src="img/1.2-figura-1.png">
             </div>
+            <p class="noteImageMine clgreyl1 border1">Hernández, J., Rodríguez, E. & Jiménez, Y. (2023).</p>
+        </div><br>
+        <p class="clbktx textoDinamicoIdentificador textoReadingH2">
+            <i class="keyWord">Siguiendo a Gitman (2012) las finanzas son el arte y la ciencia de administrar el dinero.</i> Al respecto, el autor enfatiza que las finanzas afectan las decisiones tanto de los individuos como de las empresas, ya que ambos en algún momento se enfrentan a la decisión de cuánto dinero gastar, cuánto ahorrar y cómo invertir los ahorros.<br><br>
+        Específicamente en la empresa las finanzas se enfocan en:<br>
+        </p>
+        <ol class="clbktx textoDinamicoIdentificador textoReadingH2" style="list-style:square;">
+            <li>Cómo incrementar el dinero de los inversionistas</li>
+            <li>Cómo invertir el dinero para maximizar las utilidades</li>
+            <li>De qué modo conviene reinvertir las ganancias de la empresa o distribuirlas entre los inversionistas</li>
+        </ol><br><br>
+        <p class="clbktx textoDinamicoIdentificador textoReadingH2">
+            <i class="keyWord">Para lograr lo anterior se requiere del financiamiento y de la inversión,</i> ambas son consideradas como las funciones principales de las finanzas. En este sentido, se entiende por <i class="keyWord">financiamiento la obtención de recursos provenientes de una o varias fuentes de financiamiento;</i> en tanto que la inversión se refiere propiamente a la utilización que se hace de dichos recursos. Por ejemplo, en el caso de una organización podría invertir en infraestructura <i class="keyWord">(instalaciones, bodegas, maquinaria, equipo, entre otros)</i> a este tipo de inversión se le conoce como inversión fija; y también podría invertir en el proceso operativo del negocio.<br><br>
+        Hablar de finanzas implica hablar de contabilidad. <i class="keyWord">La contabilidad se encarga principalmente del registro de las operaciones de la entidad, de la elaboración de los estados financieros, de la elaboración de reportes con información financiera y de calcular y pagar impuestos;</i> por lo que constituye el principal sistema de información cuantitativa de la organización.<br><br>
+        La contabilidad forma parte del área financiera y la función financiera se lleva a cabo mediante dos actividades importantes:<br>
+        </p>
+        <div class="shadow2 cardDesign clgreyl2 border1">
+            <p class="textoTitulo clbktx">Tesorería:</p>
+            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+            Básicamente <i class="keyWord">se enfoca al manejo de los recursos financieros,</i> entre sus principales actividades se encuentran:
+                <ol class=" clbktx textoDinamicoIdentificador textoReadingH2" style="list-style: square;">
+                    <li><i class="keyWord">Administración del flujo de efectivo</i></li>
+                    <li><i class="keyWord">Inversiones</i></li>
+                    <li><i class="keyWord">Presupuestos</i></li>
+                    <li><i class="keyWord">Financiamiento</i></li>
+                </ol>
+            </p>
+        </div><br>
+        <div class="shadow2 cardDesign clgreyl2 border1">
+            <p class="textoTitulo clbktx">Contraloría:</p>
+            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+            Área <i class="keyWord">encargada de coordinar y dirigir las siguientes actividades:</i>
+                <ol class="clbktx textoDinamicoIdentificador textoReadingH2" style="list-style: square;">
+                    <li><i class="keyWord">Contabilidad</i></li>
+                    <li><i class="keyWord">Pronósticos</i></li>
+                    <li><i class="keyWord">Administración de riesgos</i></li>
+                    <li><i class="keyWord">Verificar que le Administración esté de acuerdo con los objetivos de la empresa</i></li>
+                    <li><i class="keyWord">Auditoría interna</i></li>
+                    <li><i class="keyWord">Desarrollo de políticas y procedimientos</i></li>
+                </ol>
+            </p>
+        </div><br>
+        <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+            Para que la función financiera se lleve a cabo en forma adecuada requiere de <i class="keyWord">información verídica y confiable proporcionada por el área contable.</i><br><br>
+            En la figura 1.3 encontrarás algunas de las principales funciones de las áreas contable y financiera.
+        </p>
+        <div class="imagenDefaultContainer">
+            <p class="titleImageMine">Figura X: la contabilidad y las finanzas</p>
+            <div class="imageZoomedContainer">
+                <img class="materialboxed shadow2 border1 imageZoomed"
+                    data-caption="Esta es la descripción de la imagen" src="img/1.2-figura-2.png">
+            </div>
+            <p class="noteImageMine clgreyl1 border1">Hernández, J., Rodríguez, E. & Jiménez, Y. (2023).</p>
         </div>
-    </a>
+        <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+        Como se puede apreciar en la figura 1.3 la función contable debe considerarse como un insumo necesario para la función financiera.
+        </p>
+    </div>
+</div>`,
+  `<div class="shadow4 border1 clw">
+    <div class="textoTitulo titleContainer white-text nav-superiorUnit1 border1Sup">1.3 Las finanzas empresariales y su relación con otras disciplinas (Ética, Economía, Derecho, Matemáticas, etc.)</div>
+    <div class="cardDesign clw border1Inf">
+        <section class="cardDesign_container">
+            <div class="cardDesign shadow2 clgreyl2 border1">
+                <p class="textoTitulo clbktx">Ética</p>
+                <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+                La <i class="keyWord">ética trata sobre lo que se considera un comportamiento humano correcto;</i> es decir, con la práctica de valores. Todo lo relacionado con las <i class="keyWord">finanzas y el manejo del dinero debe ser honesto, claro, transparente y digno de confianza.</i>
+                </p>
+            </div>
+            <div class="cardDesign shadow2 clgreyl2 border1">
+                <p class="textoTitulo clbktx">Economía</p>
+                <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+                    La <i class="keyWord">economía es la ciencia que se centra en la satisfacción de las necesidades humanas,</i> así como en la <i class="keyWord">generación y administración de la riqueza por lo que tiene una relación estrecha con las finanzas.</i>
+                </p>
+            </div>
+            <div class="cardDesign shadow2 clgreyl2 border1">
+                <p class="textoTitulo clbktx">Derecho</p>
+                <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+                    El <i class="keyWord">Derecho a través de diferentes leyes regula las actividades financieras y de no acatarse y/o cumplirse dichas leyes hay sanciones en materia legal.</i>
+                </p>
+            </div>
+            <div class="cardDesign shadow2 clgreyl2 border1">
+                <p class="textoTitulo clbktx">Matemáticas</p>
+                <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+                    Las matemáticas están tan estrechamente ligadas con las finanzas que incluso ha surgido <i class="keyWord">el término matemáticas financieras en las que se utilizan la aritmética y el álgebra en temas como valor presente, valor futuro, costo de capital y tasas de interés,</i> por mencionar algunos.
+                </p>
+            </div>
+        </section>
+    </div>
+</div>`,
+  `<div class="shadow4 border1 clw">
+    <div class="textoTitulo titleContainer white-text nav-superiorUnit1 border1Sup">1.4. Factores del micro y macro ambiente que impactan a la empresa y a sus finanzas</div>
+    <div class="cardDesign clw border1Inf">
+        <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+            La <i class="keyWord">empresa es un sistema abierto porque tiene elementos interrelacionados entre sí y con el entorno;</i> es decir no existe en forma aislada, sino que interactúa con su entorno existiendo un impacto bidireccional. <i class="keyWord">El entorno se conforma por el micro y macro ambiente.</i>
+        </p>
+        <img class="materialboxed shadow2 border1 imageZoomed" src="img/entornos.png" /><br>
 
+        <section class="cardDesign_container">
+            <div class="cardDesign shadow2 clgreyl2 border1">
+                <p class="textoTitulo clbktx">Microentorno</p>
+                <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+                Representado por elementos que <i class="keyWord">tienen relación directa con la empresa e influyen en ella,</i> como por ejemplo: <i class="keyWord">proveedores, clientes, competidores, entidades financieras, comunidad y alcaldías o municipios.</i>
+                </p>
+            </div>
+            <div class="cardDesign shadow2 clgreyl2 border1">
+                <p class="textoTitulo clbktx">Proveedores</p>
+                <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+                Son las entidades que <i class="keyWord">venden bienes o prestan servicios a la empresa.</i> Por ejemplo: <i class="keyWord">materia prima, equipo de cómputo, mobiliario y equipo de oficina, servicios de internet, servicios de mantenimiento, etc.</i>
+                </p>
+            </div>
+            <div class="cardDesign shadow2 clgreyl2 border1">
+                <p class="textoTitulo clbktx">Clientes</p>
+                <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+                    Son quienes <i class="keyWord">compran bienes o adquieren servicios de la empresa.</i>
+                </p>
+            </div>
+            <div class="cardDesign shadow2 clgreyl2 border1">
+                <p class="textoTitulo clbktx">Competidores</p>
+                <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+                    <i class="keyWord">Ofrecen el mismo producto o productos sustitutos</i> (cubren la misma necesidad, aunque no son idénticos).
+                </p>
+            </div>
+            <div class="cardDesign shadow2 clgreyl2 border1">
+                <p class="textoTitulo clbktx">Entidades financieras</p>
+                <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+                Las <i class="keyWord">entidades financieras más comunes son los bancos, estos son una fuente de financiamiento importante, prestan dinero y a cambio cobran una tasa de interés.</i>
+                </p>
+            </div>
+            <div class="cardDesign shadow2 clgreyl2 border1">
+                <p class="textoTitulo clbktx">Comunidad</p>
+                <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+                    La <i class="keyWord">comunidad en la que se inserta la empresa tiene ciertas características,</i> tales como: <i class="keyWord">ideología, costumbres, inquietud por el medio ambiente y en general un estilo de vida.</i> Dichos aspectos definitivamente influyen en la empresa.
+                </p>
+            </div>
+            <div class="cardDesign shadow2 clgreyl2 border1">
+                <p class="textoTitulo clbktx">Alcaldías o municipios</p>
+                <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+                    Las empresas <i class="keyWord">al realizar algunos trámites y permisos tienen relación con las alcaldías o municipios.</i> Por ejemplo: trámite de uso de suelo y permisos de apertura, por mencionar algunos.
+                </p>
+            </div>
+            <div class="cardDesign shadow2 clgreyl2 border1">
+                <p class="textoTitulo clbktx">Macroentorno</p>
+                <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+                    Conformado por todos aquellos factores que tienen una gran influencia en la empresa, como por ejemplo: <i class="keyWord">económicos, tecnológicos, político-legales, demográficos, socio culturales y medioambientales.</i>
+                </p>
+            </div>
+            <div class="cardDesign shadow2 clgreyl2 border1">
+                <p class="textoTitulo clbktx">Económicos</p>
+                <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+                    <i class="keyWord">La inflación, las tasas de interés, y el tipo de cambio,</i> entre otros, son factores que <i class="keyWord">inciden en los costos y por tanto en el precio y en el resultado de la empresa.</i>
+                </p>
+            </div>
+            <div class="cardDesign shadow2 clgreyl2 border1">
+                <p class="textoTitulo clbktx">Tecnológicos</p>
+                <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+                    Las <i class="keyWord">nuevas tecnologías no solo facilitan y/o automatizan el trabajo, también abren nuevas oportunidades de negocio.</i>
+                </p>
+            </div>
+            <div class="cardDesign shadow2 clgreyl2 border1">
+                <p class="textoTitulo clbktx">Político-legales</p>
+                <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+                    <i class="keyWord">Las iniciativas, la legislación y en general las decisiones del gobierno afectan a las empresas.</i> Por ejemplo: en materia laboral, impuestos e inversión extranjera, por mencionar algunos.
+                </p>
+            </div>
+            <div class="cardDesign shadow2 clgreyl2 border1">
+                <p class="textoTitulo clbktx">Demográficos</p>
+                <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+                    La <i class="keyWord">información sobre la población,</i> como por ejemplo: <i class="keyWord">edad, cantidad de hombres y de mujeres, nivel de ingresos, nivel socioeconómico,</i> entre otros, son datos en los que las empresas <i class="keyWord">podrían apoyarse para identificar ¿qué vender? ¿a quién vender? y ¿dónde se localizan los clientes?,</i> entre otras interrogantes.
+                </p>
+            </div>
+            <div class="cardDesign shadow2 clgreyl2 border1">
+                <p class="textoTitulo clbktx">Socio culturales</p>
+                <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+                    Corresponde a los <i class="keyWord">estilos de vida, costumbres, hábitos alimenticios, religión y demás aspectos que condicionan el comportamiento de las personas.</i>
+                </p>
+            </div>
+            <div class="cardDesign shadow2 clgreyl2 border1">
+                <p class="textoTitulo clbktx">Medioambientales</p>
+                <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+                    Hoy día existe una <i class="keyWord">preocupación mundial por minimizar el impacto medio ambiental, lo que supone un esfuerzo y un costo para las empresas.</i> Existen leyes que regulan aspectos ambientales y quienes no las cumplan son acreedores a sanciones.
+                </p>
+            </div>
+        </section>
+
+        <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+            Es momento de que realices la siguiente actividad de aprendizaje:
+        </p><br>
+
+        <a href="https://drive.google.com/file/d/1mhsrMh21yNE5tgNHkpgEZ_lwDyC7s3uU/view?usp=share_link" target="_blank">
+            <div class="linkToResourceContainer clgreyl1 clbktx border1 shadow2">
+                <div class="linkToResourceContainer_title clbktx">Actividad</div>
+                
+                <div class="linkToResourceContainer_icon">
+                    <span class="material-icons">
+                        link
+                    </span>
+                </div>
+            </div>
+        </a>
+    </div>
 </div>`,
   `<section class="containerActividadAprendizajeFather">
     <div class="textoTitulo clbktx">Material de apoyo</div>
@@ -631,65 +654,24 @@ const contenidosUnidad = [
             </div>
         </div>
 
-        <!--Tarjeta 4-->
-        <div class="actividadesAprendizaje border1 clgreyl2 shadow2 tarjetaActividades">
-            <p class="cardTitleActividad tituloActividadAprendizaje clbktx">Actividad 4</p>
-            <p class="truncate descActividadAprendizaje clbktx">Descripción de las actividad número 1 de ejemplo</p>
-            <div class="buttonDownloadActividadAprendizaje clw border1 shadow2 waves-effect">
-                <i class="material-icons clbktx">download</i>
-                <span class="clbktx">Descargar</span>
-            </div>
-        </div>
-
-        <!--Tarjeta 5-->
-        <div class="actividadesAprendizaje border1 clgreyl2 shadow2 tarjetaActividades">
-            <p class="cardTitleActividad tituloActividadAprendizaje clbktx">Actividad 5</p>
-            <p class="truncate descActividadAprendizaje clbktx">Descripción de las actividad número 1 de ejemplo</p>
-            <div class="buttonDownloadActividadAprendizaje clw border1 shadow2 waves-effect">
-                <i class="material-icons clbktx">download</i>
-                <span class="clbktx">Descargar</span>
-            </div>
-        </div>
-
-        <!--Tarjeta 6-->
-        <div class="actividadesAprendizaje border1 clgreyl2 shadow2 tarjetaActividades">
-            <p class="cardTitleActividad tituloActividadAprendizaje clbktx">Actividad 6</p>
-            <p class="truncate descActividadAprendizaje clbktx">Descripción de las actividad número 1 de ejemplo</p>
-            <div class="buttonDownloadActividadAprendizaje clw border1 shadow2 waves-effect">
-                <i class="material-icons clbktx">download</i>
-                <span class="clbktx">Descargar</span>
-            </div>
-        </div>
-
-        <!--Tarjeta 7-->
-        <div class="actividadesAprendizaje border1 clgreyl2 shadow2 tarjetaActividades">
-            <p class="cardTitleActividad tituloActividadAprendizaje clbktx">Actividad 7</p>
-            <p class="truncate descActividadAprendizaje clbktx">Descripcióndsdsds dsds sddssd sdsdwqwqwq qwwq de las
-                actividad número 1 de ejemplo</p>
-            <div class="buttonDownloadActividadAprendizaje clw border1 shadow2 waves-effect">
-                <i class="material-icons clbktx">download</i>
-                <span class="clbktx">Descargar</span>
-            </div>
-        </div>
     </section>
 </section>
 `,
-  `<div class="cardDesign clw shadow2 border1">
-    <p class="textoTitulo clbktx">
-    Cierre de la unidad temática
-    </p>
-    <p class="clbktx textoDinamicoIdentificador textoReadingH2">
-        ¡Felicidades! Has concluido esta unidad temática. Ahora tienes más elementos que te ayudarán a reconocer la relevancia que tienen las finanzas en todas las organizaciones y en específico en las empresas, independientemente de su constitución, tamaño y giro.<br><br>
-        Recuerda que las empresas son indispensables en nuestras vidas y que constituyen la columna vertebral de la economía. En este sentido, la productividad, la rentabilidad y la competitividad se han convertido en tres de las principales pretensiones de muchas empresas. Para lograr dichas pretensiones se requiere, entre otros aspectos, de la toma de decisiones basadas en información financiera verídica, confiable y oportuna que se verá reflejada en los estados financieros.<br><br>
-    </p>
+  `<div class="shadow4 border1 clw">
+    <div class="textoTitulo titleContainer white-text nav-superiorUnit1 border1Sup">Cierre de la unidad temática</div>
+    <div class="cardDesign clw border1Inf">
+        <p class="clbktx textoDinamicoIdentificador textoReadingH2">
+            ¡Felicidades! Has concluido esta unidad temática. Ahora tienes más elementos que te ayudarán a reconocer la relevancia que tienen las finanzas en todas las organizaciones y en específico en las empresas, independientemente de su constitución, tamaño y giro.<br><br>
+            Recuerda que las empresas son indispensables en nuestras vidas y que constituyen la columna vertebral de la economía. En este sentido, la productividad, la rentabilidad y la competitividad se han convertido en tres de las principales pretensiones de muchas empresas. Para lograr dichas pretensiones se requiere, entre otros aspectos, de la toma de decisiones basadas en información financiera verídica, confiable y oportuna que se verá reflejada en los estados financieros.<br><br>
+        </p>
 
-    <div class="defaultImage">
-        <div class="defaultImageContent" id="cierre"></div>
+        <div class="defaultImage">
+            <div class="defaultImageContent" id="cierre"></div>
+        </div>
+        <span class="referenciaIcono clgreyl1 border1 clbktx">Retomado de Pixeltrue proveniente de &nbsp; 
+        <a href="https://icons8.com/illustrations/illustration/pixeltrue-success">Ouch!</a>
+        </span>
     </div>
-    <span class="referenciaIcono clgreyl1 border1 clbktx">Retomado de Pixeltrue proveniente de &nbsp; 
-    <a href="https://icons8.com/illustrations/illustration/pixeltrue-success">Ouch!</a>
-    </span>
-
 </div>
 `,
   `
