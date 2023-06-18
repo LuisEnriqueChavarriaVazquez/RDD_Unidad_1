@@ -25,6 +25,15 @@ const contenidosUnidad = [
         Este recurso educativo se construyó con la finalidad de apoyarlos en su proceso de aprendizaje de la unidad
         en cuestión, esperamos que les sea de gran ayuda.
         </p>
+
+
+        <div class="defaultImage">
+            <div class="defaultImageContent" id="bienvenida"></div>
+        </div>
+        <span class="referenciaIcono clgreyl1 border1 clbktx">Retomado de Pixeltrue proveniente de &nbsp; 
+        <a href="https://icons8.com/illustrations/illustration/pixeltrue-welcome">Ouch!</a>
+        </span>
+
     </div>
 
 </div>
@@ -35,6 +44,14 @@ const contenidosUnidad = [
         <p class="clbktx textoDinamicoIdentificador textoReadingH2">
             Reconoce el papel de las finanzas a partir del contexto empresarial.
         </p>
+
+        <div class="defaultImage">
+            <div class="defaultImageContent" id="unidadCompetencia"></div>
+        </div>
+        <span class="referenciaIcono clgreyl1 border1 clbktx">Retomado de Pixeltrue proveniente de &nbsp; 
+        <a href="https://icons8.com/illustrations/illustration/pixeltrue-sleeping">Ouch!</a>
+        </span>
+
     </div>
 
 </div>
@@ -74,6 +91,14 @@ const contenidosUnidad = [
                     desarrollo de la unidad temática.</p>
             </div>
         </p>
+
+        <div class="defaultImage">
+            <div class="defaultImageContent" id="metodologia"></div>
+        </div>
+        <span class="referenciaIcono clgreyl1 border1 clbktx">Retomado de Pixeltrue proveniente de &nbsp; 
+        <a href="https://icons8.com/illustrations/illustration/pixeltrue-idea">Ouch!</a>
+        </span>
+
     </div>
 
 </div>
@@ -115,6 +140,13 @@ const contenidosUnidad = [
             </table>
         </div>
 
+        <div class="defaultImage">
+            <div class="defaultImageContent" id="evaluacionAprendizajes"></div>
+        </div>
+        <span class="referenciaIcono clgreyl1 border1 clbktx">Retomado de Pixeltrue proveniente de &nbsp; 
+        <a href="https://icons8.com/illustrations/illustration/pixeltrue-teaching">Ouch!</a>
+        </span>
+
     </div>
 
 </div>
@@ -132,9 +164,17 @@ const contenidosUnidad = [
     <p class="clbktx textoDinamicoIdentificador textoReadingH2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ Mozilla Firefox (version 80 o superior)</p>
     <p class="clbktx textoDinamicoIdentificador textoReadingH2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ Vivaldi (version 3.3 o superior)</p>
     <p class="clbktx textoDinamicoIdentificador textoReadingH2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ Opera 70 o superior</p>
-
-        </p>
+    </p>
+        
+    <div class="defaultImage">
+        <div class="defaultImageContent" id="requerimientos"></div>
     </div>
+    <span class="referenciaIcono clgreyl1 border1 clbktx">Retomado de Pixeltrue proveniente de &nbsp; 
+    <a href="https://icons8.com/illustrations/illustration/pixeltrue-web-development">Ouch!</a>
+    </span>
+
+    </div>
+
 
 </div>`,
   `<div class="cardDesign clw shadow2 border1">
