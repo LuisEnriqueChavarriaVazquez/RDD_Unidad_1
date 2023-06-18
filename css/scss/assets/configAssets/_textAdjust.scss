@@ -129,14 +129,18 @@
   }
   
   /*Estilos de los textos modificables*/
+  i{
+    font-style: normal !important;
+  }
   
   .textWordHelp {
-    font-weight: 650;
-    background-color: #cecece;
-    border-radius: 5px;
+    font-weight: 610;
+    background-color: #f1c2d3;
+    color: #5c454b;
+    border-radius: 3px;
     padding: 0px 8px;
-    color: #434242;
   }
+
   
   .textBoldOwn {
     font-weight: 700 !important;

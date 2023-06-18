@@ -42,7 +42,7 @@ const contenidosUnidad = [
     <div class="cardDesign clw shadow2 border1">
         <p class="textoTitulo clbktx">Unidad de competencia</p>
         <p class="clbktx textoDinamicoIdentificador textoReadingH2">
-            Reconoce el papel de las finanzas a partir del contexto empresarial.
+            Reconoce el <i class="keyWord">papel de las finanzas</i> a partir del <i class="keyWord">contexto empresarial.</i>
         </p>
 
         <div class="defaultImage">
@@ -60,35 +60,32 @@ const contenidosUnidad = [
     <div class="cardDesign clw shadow2 border1">
         <p class="textoTitulo clbktx">Metodología</p>
         <p class="clbktx textoDinamicoIdentificador textoReadingH2">
-            El uso de este RDD de la unidad 1: la empresa y su entorno, te permitirá abordar los contenidos en la
-            secuencia en la que aparecen en el programa de estudios y sobre todo a tu propio ritmo de aprendizaje.
-            Adicionalmente, están disponibles en el momento en el que los quieras consultar, con lo que se pretende
-            facilitar el aprendizaje autónomo.
+            <i class="keyWord">El uso de este RDD de la unidad 1: la empresa y su entorno</i>, te permitirá <i class="keyWord">abordar los contenidos</i> en la
+            secuencia en la <i class="keyWord">que aparecen en el programa de estudios</i> y sobre todo a tu propio ritmo de aprendizaje.
+            Adicionalmente, están disponibles en el momento en el que los quieras consultar, con lo que <i class="keyWord">se pretende
+            facilitar el aprendizaje autónomo.</i>
 
-            Este RDD se construyó como apoyo educativo a las clases presenciales y no presenciales; cuenta con menú en
-            el que podrás seleccionar alguno de los siguientes botones de navegación: contenidos, lecturas, actividad de
-            aprendizaje, glosario y referencias.
-
+            Este RDD se construyó como <i class="keyWord">apoyo educativo a las clases presenciales y no presenciales</i>; cuenta con menú en
+            el que podrás seleccionar alguno de los siguientes botones de navegación: inicio, contenidos, material de apoyo, actividades de aprendizaje, cierre de la unidad temática, evaluación, referencias, contacto, glosario, manual de usuario.
             ¿Qué encontrarás al hacer clic en cada uno de los botones antes mencionados?
 
             <div class="cardDesign clgreyl2 border1">
                 <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b>⚫ Contenidos.</b> En este apartado encontrarás los fundamentos teóricos y algunas figuras alusivas al tema tratado.</p>
                     
-                <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b>⚫ Lectura.</b> En esta sección podrás leer y descargar una lectura, en la que encontrarás información relevante y
+                <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b>⚫ Material de apoyo.</b> En esta sección podrás leer y descargar una lectura, en la que encontrarás información relevante y
                     de interés sobre las organizaciones y en particular sobre la empresa.</p>
                 
                 <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b>⚫ Actividad de aprendizaje.</b> En esta parte podrás visualizar y descargar la actividad de aprendizaje que se
                     realizará en el aula (en el horario de clases); se desarrollará en forma individual o en equipo, se subirá a
                     la plataforma indicada por el profesor(a) y tendrá valor para la evaluación.</p>
-                
-                <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b>⚫ Presentación en Power Point.</b> Al hacer clic en este botón de navegación encontrarás una presentación en Power
-                    Point con lo más relevante de los contenidos de esta unidad temática.</p>
                     
                 <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b>⚫ Glosario.</b> Esta parte del menú encontrarás el significado de algunos términos debidamente referenciados que
                     te facilitarán la comprensión del tema.</p>
                 
                 <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b>⚫ Referencias.</b> En esta opción del menú están enlistadas las fuentes de consulta que se utilizaron para el
                     desarrollo de la unidad temática.</p>
+
+                <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b>⚫ Evaluación.</b> En este apartado podrá poner a prueba sus conocimientos y descargar sus resultados en formato PDF.</p>
             </div>
         </p>
 
@@ -114,27 +111,27 @@ const contenidosUnidad = [
             <table class="striped highlight responsive-table clw border1 shadow2">
               <thead>
                 <tr>
-                    <th>Actividad de aprendizaje</th>
-                    <th>Evidencia de aprendizaje</th>
-                    <th>Valor en la evaluación</th>
+                    <th class="clbktx textoStandarTable">Actividad de aprendizaje</th>
+                    <th class="clbktx textoStandarTable">Evidencia de aprendizaje</th>
+                    <th class="clbktx textoStandarTable">Valor en la evaluación</th>
                 </tr>
               </thead>
       
               <tbody>
                 <tr>
-                  <td class="cellCenter">Actividad 1. La empresa, sus finanzas y su relación con el entorno. </td>
-                  <td>
+                  <td class="cellCenter textoStandarTable">Actividad 1. La empresa, sus finanzas y su relación con el entorno. </td>
+                  <td class="textoStandarTable">
                     Reporte que incluya:
                     <ul class="browser-default">
-                        <li>La descripción de la empresa, su constitución jurídica y cómo se clasifica (con base en los criterios de clasificación vistos en clase).</li>
-                        <li>La estructura organizacional (organigrama) resaltando y explicando en forma escrita cómo está conformada el área financiera y su relación con las demás áreas de la empresa.</li>
-                        <li>Los factores del micro y macroentorno que actualmente están impactando a la empresa o que la impactarán en un futuro (identifícalos y haz una lista).</li>
-                        <li>La argumentación de cada factor incluido en la lista anterior.</li>
-                        <li>Una conclusión sobre el impacto que tienen los factores del micro y macroentorno en la empresa y en sus finanzas.</li>
+                        <li><i class="keyWord">La descripción de la empresa</i>, <i class="keyWord">su constitución jurídica</i> y <i class="keyWord">cómo se clasifica</i> (con base en los criterios de clasificación vistos en clase).</li>
+                        <li><i class="keyWord">La estructura organizacional (organigrama)</i> resaltando y explicando en forma escrita <i class="keyWord">cómo está conformada el área financiera y su relación</i> con las demás áreas de la empresa.</li>
+                        <li><i class="keyWord">Los factores del micro y macroentorno</i> que actualmente están impactando a la empresa o que la impactarán en un futuro <i class="keyWord">(identifícalos y haz una lista).</i></li>
+                        <li><i class="keyWord">La argumentación de cada factor</i> incluido en la lista anterior.</li>
+                        <li>Una <i class="keyWord">conclusión sobre el impacto que tienen los factores del micro y macroentorno</i> en la empresa y en sus finanzas.</li>
                     </ul>
 
                   </td>
-                  <td class="cellCenter">10 puntos</td>
+                  <td class="cellCenter textoStandarTable">10 puntos</td>
                 </tr>
               </tbody>
             </table>
@@ -157,13 +154,13 @@ const contenidosUnidad = [
         <p class="clbktx textoDinamicoIdentificador textoReadingH2">
             Para acceder y hacer uso de este recurso se requiere:
 
-    <p class="clbktx textoDinamicoIdentificador textoReadingH2">⚫ Conexión a internet</p>
-    <p class="clbktx textoDinamicoIdentificador textoReadingH2">⚫ Navegador de internet:</p>
-    <p class="clbktx textoDinamicoIdentificador textoReadingH2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ Microsoft Edge (version 85 o superior)</p>
-    <p class="clbktx textoDinamicoIdentificador textoReadingH2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ Google Chrome (version 85 o superior)</p>
-    <p class="clbktx textoDinamicoIdentificador textoReadingH2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ Mozilla Firefox (version 80 o superior)</p>
-    <p class="clbktx textoDinamicoIdentificador textoReadingH2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ Vivaldi (version 3.3 o superior)</p>
-    <p class="clbktx textoDinamicoIdentificador textoReadingH2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ Opera 70 o superior</p>
+    <p class="clbktx textoDinamicoIdentificador textoReadingH2" style="margin: 2px;">⚫ <i class="keyWord">Conexión a internet</i></p>
+    <p class="clbktx textoDinamicoIdentificador textoReadingH2" style="margin: 2px;">⚫ Navegador de internet:</p>
+    <p class="clbktx textoDinamicoIdentificador textoReadingH2" style="margin: 2px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ <i class="keyWord">Microsoft Edge</i> (version 85 o superior)</p>
+    <p class="clbktx textoDinamicoIdentificador textoReadingH2" style="margin: 2px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ <i class="keyWord">Google Chrome</i> (version 85 o superior)</p>
+    <p class="clbktx textoDinamicoIdentificador textoReadingH2" style="margin: 2px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ <i class="keyWord">Mozilla Firefox</i> (version 80 o superior)</p>
+    <p class="clbktx textoDinamicoIdentificador textoReadingH2" style="margin: 2px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ <i class="keyWord">Vivaldi</i> (version 3.3 o superior)</p>
+    <p class="clbktx textoDinamicoIdentificador textoReadingH2" style="margin: 2px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ <i class="keyWord">Opera 70 o superior</i></p>
     </p>
         
     <div class="defaultImage">
@@ -181,35 +178,43 @@ const contenidosUnidad = [
         <p class="textoTitulo clbktx">Introducción</p>
         <!--Card con un ejemplo-->
         <p class="clbktx textoDinamicoIdentificador textoReadingH2">
-        Las empresas son la base del sistema económico, debido a que se encargan de la producción, comercialización y distribución de bienes que satisfacen las múltiples necesidades la sociedad. Más allá de su infraestructura, tamaño y giro toda empresa debe constituirse de acuerdo con la legislación vigente que le otorga una personalidad jurídica propia e independiente de sus dueños; para su funcionamiento requiere de recursos financieros, tecnológicos y humanos los cuales deben ser administrados eficientemente para cumplir con sus objetivos.
+            <i class="keyWord">Las empresas son la base del sistema económico</i>, debido a que se encargan de <i class="keyWord">la producción, comercialización y distribución de bienes</i> que satisfacen las múltiples necesidades la sociedad. Más allá de su infraestructura, tamaño y giro <i class="keyWord">toda empresa debe constituirse de acuerdo con la legislación vigente</i> que le otorga una personalidad jurídica propia e independiente de sus dueños; para su funcionamiento <i class="keyWord">requiere de recursos financieros, tecnológicos y humanos</i> los cuales deben ser administrados eficientemente para cumplir con sus objetivos.
         
-        <br><br>Las empresas juegan un papel fundamental en cualquier economía; sin embargo, son afectadas por diferentes factores presentes en el micro y macroentorno que las obligan a tomar decisiones con el propósito de permanecer vigentes en el mercado. Por otro lado, una buena o mala administración de los recursos se verá reflejada en las finanzas, que se encargan de la distribución y el uso que se le da al dinero.
+        <br><br>Las empresas <i class="keyWord">juegan un papel fundamental en cualquier economía;</i> sin embargo, son afectadas por diferentes <i class="keyWord">factores presentes en el micro y macroentorno</i> que las obligan a tomar decisiones con el propósito de permanecer vigentes en el mercado. Por otro lado, <i class="keyWord">una buena o mala administración de los recursos se verá reflejada en las finanzas,</i> que se encargan de la distribución y el uso que se le da al dinero.
         
-        <br><br>Este recurso didáctico digital (RDD) se construyó con la intención de apoyarte en tu proceso de aprendizaje, que en esta unidad temática, está dirigido a reconocer el papel de las finanzas a partir del contexto empresarial.
+        <br><br>Este recurso didáctico digital (RDD) <i class="keyWord">se construyó con la intención de apoyarte en tu proceso de aprendizaje,</i> que en esta unidad temática, está dirigido a reconocer el papel de las finanzas a partir del contexto empresarial.
         </p>
+
+        <div class="defaultImage">
+            <div class="defaultImageContent" id="intro"></div>
+        </div>
+        <span class="referenciaIcono clgreyl1 border1 clbktx">Retomado de Pixeltrue proveniente de &nbsp; 
+        <a href="https://icons8.com/illustrations/illustration/pixeltrue-vision">Ouch!</a>
+        </span>
+
 </div>`,
   `<div class="cardDesign clw shadow2 border1">
         <p class="textoTitulo clbktx">1.1 La empresa</p>
         <p class="clbktx textoDinamicoIdentificador textoReadingH2">
-        Independientemente del lugar en donde te encuentres en este momento, mira a tu alrededor y notarás la existencia de una gran cantidad de satisfactores (bienes). Estos son producidos y/o distribuidos por diferentes empresas.<br><br>
+        Independientemente del lugar en donde te encuentres en este momento, <i class="keyWord">mira a tu alrededor y notarás la existencia de una gran cantidad de satisfactores (bienes).</i> Estos son <i class="keyWord">producidos y/o distribuidos por diferentes empresas.</i><br><br>
         Algunas definiciones de empresa son:<br>
         </p>
         <ol class="clbktx textoDinamicoIdentificador textoReadingH2" style="list-style: square;">
-            <li>Acción de emprender una cosa con un riesgo implícito (Münch, 2017).</li>
-            <li>Unidad económica de producción dedicada a actividades industriales, mercantiles o de prestación de servicios, cuyo objetivo dependerá del sistema de organización económica en que se desarrolle. En una economía de mercado, el fin de la empresa consiste en la obtención del máximo beneficio o lucro (Graue, 2009).</li>
+            <li><i class="keyWord">Acción de emprender una cosa</i> con un riesgo implícito (Münch, 2017).</li>
+            <li><i class="keyWord">Unidad económica de producción dedicada a actividades industriales, mercantiles o de prestación de servicios,</i> cuyo objetivo dependerá del sistema de organización económica en que se desarrolle. En una economía de mercado, el <i class="keyWord">fin de la empresa consiste en la obtención del máximo beneficio o lucro (Graue, 2009).</i></li>
         </ol>
         
 </div>`,
   `<div class="cardDesign clw shadow2 border1">
         <p class="textoTitulo clbktx">1.1.1 Constitución jurídica</p>
         <p class="clbktx textoDinamicoIdentificador textoReadingH2">
-        En México de acuerdo con el Servicio de Administración Tributaria (SAT) para fines fiscales existen las siguientes figuras: personas físicas y personas morales.<br>
+            <i class="keyWord">En México de acuerdo con el Servicio de Administración Tributaria (SAT)</i> para fines fiscales existen las siguientes figuras: <i class="keyWord">personas físicas y personas morales.</i><br>
         </p>
 
         <div class="cardDesign clgreyl2 border1">
             <p class="textoTitulo clbktx">Persona física</p>
             <p class="clbktx textoDinamicoIdentificador textoReadingH2">
-                "Individuo que realiza cualquier actividad económica (vendedor, comerciante, empleado, profesionista, etc.), el cual tiene derechos y obligaciones (SAT, s.f). En el siguiente link conoce las actividades que como persona física se pueden realizar":
+                <i class="keyWord">"Individuo que realiza cualquier actividad económica (vendedor, comerciante, empleado, profesionista, etc.),</i> el cual tiene derechos y obligaciones (SAT, s.f). En el siguiente link conoce las actividades que como persona física se pueden realizar":
                 <br><br>
                 <a  href="https://www.sat.gob.mx/personas" target="_blank">Regímenes fiscales</a>
             </p>
@@ -218,50 +223,50 @@ const contenidosUnidad = [
         <div class="cardDesign clgreyl2 border1">
             <p class="textoTitulo clbktx">Persona moral</p>
             <p class="clbktx textoDinamicoIdentificador textoReadingH2">
-                "Es el conjunto de personas físicas, que se unen para la realización de un fin colectivo, son entes creados por el derecho, no tienen una realidad material o corporal (no se pueden tocar como tal como en el caso de una persona física), sin embargo, la ley les otorga capacidad jurídica para tener derechos y obligaciones" (SAT, s.f).
+                <i class="keyWord">"Es el conjunto de personas físicas, que se unen para la realización de un fin colectivo,</i> son entes creados por el derecho, no tienen una realidad material o corporal (no se pueden tocar como tal como en el caso de una persona física), sin embargo, la ley les otorga capacidad jurídica para tener derechos y obligaciones" (SAT, s.f).
                 <br>
-                Cabe señalar que la persona moral es una agrupación de personas que pueden constituirse jurídicamente como sociedades o asociaciones, las más usuales se pueden visualizar en la tabla 1.1
+                Cabe señalar que la <i class="keyWord">persona moral es una agrupación de personas que pueden constituirse jurídicamente como sociedades o asociaciones,</i> las más usuales se pueden visualizar en la tabla 1.1
                 <br><br>
-                <table class="table table-dark table-bordered col-7 mx-auto">
+                <table class="table table-dark table-bordered col-7 mx-auto clw shadow2 border1">
 
                     <caption style="caption-side: top;" class="text-center">Tabla 1.1 Constitución jurídica de las personas morales</caption>
 
                     <thead>
                         <tr>
-                            <th class="text-center font-weight-bold">Sociedad/Asociación:</th>
-                            <th class="text-center font-weight-bold">Regulada por:</th>
+                            <th class="clbktx textoStandarTable font-weight-bold">Sociedad/Asociación:</th>
+                            <th class="clbktx textoStandarTable font-weight-bold">Regulada por:</th>
                         </tr>
                     </thead>
 
                     <tbody>
                         <tr>
-                            <td>Sociedad en nombre colectivo (S.N.C)</td>
-                            <td rowspan="7" class="text-center align-middle">Ley General de Sociedades Mercantiles (L.G.S.M)</td>
+                            <td class="clbktx textoStandarTable">Sociedad en nombre colectivo (S.N.C)</td>
+                            <td rowspan="7" class="clbktx textoStandarTable text-center align-middle">Ley General de Sociedades Mercantiles (L.G.S.M)</td>
                         </tr>
                         <tr>
-                            <td>Sociedad en comandita simpe (S.C.S)</td>
+                            <td class="clbktx textoStandarTable">Sociedad en comandita simpe (S.C.S)</td>
                         </tr>
                         <tr>
-                            <td>Sociedad de responsabilidad limitada (S.R.L)</td>
+                            <td class="clbktx textoStandarTable">Sociedad de responsabilidad limitada (S.R.L)</td>
                         </tr>
                         <tr>
-                            <td>Sociedad anónima (S.A)</td>
+                            <td class="clbktx textoStandarTable">Sociedad anónima (S.A)</td>
                         </tr>
                         <tr>
-                            <td>Sociedad en comandita por acciones (S.C.A)</td>
+                            <td class="clbktx textoStandarTable">Sociedad en comandita por acciones (S.C.A)</td>
                         </tr>
                         <tr>
-                            <td>Sociedad por acciones simplificada (S.A.S)</td>
+                            <td class="clbktx textoStandarTable">Sociedad por acciones simplificada (S.A.S)</td>
                         </tr>
                         <tr>
-                            <td>Sociedad cooperativa</td>
+                            <td class="clbktx textoStandarTable">Sociedad cooperativa</td>
                         </tr>
                         <tr>
-                            <td>Asociación civil (A.C)</td>
-                            <td rowspan="2" class="text-center align-middle">Código Civil</td>
+                            <td class="clbktx textoStandarTable">Asociación civil (A.C)</td>
+                            <td rowspan="2" class="clbktx textoStandarTable text-center align-middle">Código Civil</td>
                         </tr>
                         <tr>
-                            <td>Sociedad civil (S.C)</td>
+                            <td class="clbktx textoStandarTable">Sociedad civil (S.C)</td>
                         </tr>
                     </tbody>
 
@@ -271,7 +276,7 @@ const contenidosUnidad = [
             </p>
         </div><br>
         <p class="clbktx textoDinamicoIdentificador textoReadingH2">
-        Es importante señalar que algunas de las sociedades antes mencionadas han caído en desuso, tal es el caso de la sociedad en nombre colectivo, la sociedad en comandita simple y la sociedad en comandita por acciones.<br><br>
+            <i class="keyWord">Es importante señalar que algunas de las sociedades antes mencionadas han caído en desuso,</i> tal es el caso de la sociedad en nombre colectivo, la sociedad en comandita simple y la sociedad en comandita por acciones.<br><br>
         En la siguiente lectura encontrarás más información sobre las empresas y su constitución jurídica.
         <a  href="https://drive.google.com/file/d/17pnzUOvCjTKDdS0gfNrfqng5GYKi01eZ/view?usp=share_link" target="_blank">Lectura</a>
         </p>
@@ -280,8 +285,8 @@ const contenidosUnidad = [
         <p class="textoTitulo clbktx">1.1.2 El área financiera en la estructura organizacional</p>
         <!--Card con un ejemplo-->
         <p class="clbktx textoDinamicoIdentificador textoReadingH2">
-            Para explicar en qué consiste la estructura organizacional usaremos la siguiente analogía: el ser humano tiene un sistema óseo que le permite tener movimiento, un sistema respiratorio que le proporciona el oxígeno para vivir; un sistema digestivo que le suministra nutrientes; un sistema circulatorio que transporta la sangre y distribuye nutrientes; un sistema excretor que lo limpia de impurezas; un cerebro que rige el funcionamiento general del organismo; entre otros, del mismo modo las organizaciones requieren de una estructura para su funcionamiento.<br><br>
-            Así como no hay dos personas iguales, tampoco hay dos estructuras organizacionales iguales. La estructura organizacional se diseña en función de las necesidades de cada organización considerando aspectos como el tamaño, el giro y el tipo de organización. Por lo que es un hecho que entre más grande sea la empresa su organización será más robusta.
+            Para explicar en qué consiste <i class="keyWord">la estructura organizacional usaremos la siguiente analogía:</i> el ser humano tiene un sistema óseo que le permite tener movimiento, un sistema respiratorio que le proporciona el oxígeno para vivir; un sistema digestivo que le suministra nutrientes; un sistema circulatorio que transporta la sangre y distribuye nutrientes; un sistema excretor que lo limpia de impurezas; un cerebro que rige el funcionamiento general del organismo; entre otros, del mismo modo las organizaciones requieren de una estructura para su funcionamiento.<br><br>
+            Así como no hay dos personas iguales, <i class="keyWord">tampoco hay dos estructuras organizacionales iguales.</i> La estructura organizacional se diseña en función de las necesidades de cada organización considerando aspectos como el tamaño, el giro y el tipo de organización. <i class="keyWord">Por lo que es un hecho que entre más grande sea la empresa su organización será más robusta.</i>
         </p>    
         <div class="imagenDefaultContainer">
             <p class="titleImageMine">Figura X: ejemplo de estructura organizacional</p>
@@ -292,7 +297,7 @@ const contenidosUnidad = [
             <p class="noteImageMine clgreyl1 border1">Hernández, J., Rodríguez, E. & Jiménez, Y. (2023).</p>
         </div>
         <p class="clbktx textoDinamicoIdentificador textoReadingH2">
-        A partir de este momento, por ser el tema central de este recurso didáctico digital, solo nos enfocaremos en el área financiera la cual se lleva a cabo mediante dos actividades importantes: Tesorería y Contraloría.
+        A partir de este momento, por ser el tema central de este recurso didáctico digital, <i class="keyWord">solo nos enfocaremos en el área financiera la cual se lleva a cabo mediante dos actividades importantes: Tesorería y Contraloría.</i>
         </p><br>
         <div class="cardDesign clgreyl2 border1">
             <p class="textoTitulo clbktx">Tesorería:</p>
@@ -638,6 +643,14 @@ const contenidosUnidad = [
         ¡Felicidades! Has concluido esta unidad temática. Ahora tienes más elementos que te ayudarán a reconocer la relevancia que tienen las finanzas en todas las organizaciones y en específico en las empresas, independientemente de su constitución, tamaño y giro.<br><br>
         Recuerda que las empresas son indispensables en nuestras vidas y que constituyen la columna vertebral de la economía. En este sentido, la productividad, la rentabilidad y la competitividad se han convertido en tres de las principales pretensiones de muchas empresas. Para lograr dichas pretensiones se requiere, entre otros aspectos, de la toma de decisiones basadas en información financiera verídica, confiable y oportuna que se verá reflejada en los estados financieros.<br><br>
     </p>
+
+    <div class="defaultImage">
+        <div class="defaultImageContent" id="cierre"></div>
+    </div>
+    <span class="referenciaIcono clgreyl1 border1 clbktx">Retomado de Pixeltrue proveniente de &nbsp; 
+    <a href="https://icons8.com/illustrations/illustration/pixeltrue-success">Ouch!</a>
+    </span>
+
 </div>
 `,
   `
@@ -675,6 +688,14 @@ const contenidosUnidad = [
         Servicio de Administración Tributaria [SAT]. Recuperado de<br>
         <a target="_blank" href="https://www.sat.gob.mx/personas">https://www.sat.gob.mx/personas</a>
     </p>
+
+    <div class="defaultImage">
+        <div class="defaultImageContent" id="fuentes"></div>
+    </div>
+    <span class="referenciaIcono clgreyl1 border1 clbktx">Retomado de Pixeltrue proveniente de &nbsp; 
+    <a href="https://icons8.com/illustrations/illustration/pixeltrue-newsletter">Ouch!</a>
+    </span>
+
 </div>`,
   `12
 `,

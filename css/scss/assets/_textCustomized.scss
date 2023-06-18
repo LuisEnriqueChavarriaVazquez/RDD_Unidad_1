@@ -14,6 +14,21 @@
   }
 }
 
+/*Textos tabla*/
+.textoStandarTable {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.3rem;
+  font-weight: 400;
+  margin: 0 0 10px 0;
+  text-align: justify;
+}
+
+@media (max-width: 800px) {
+  .textoStandarTable {
+    font-size: 1rem;
+  }
+}
+
 /*Textos*/
 .textoPregunta {
   font-family: "Roboto", sans-serif;
