@@ -223,8 +223,19 @@ const contenidosUnidad = [
             <p class="clbktx textoDinamicoIdentificador textoReadingH2">
                 <i class="keyWord">"Individuo que realiza cualquier actividad económica (vendedor, comerciante, empleado, profesionista, etc.),</i> el cual tiene derechos y obligaciones (SAT, s.f). En el siguiente link conoce las actividades que como persona física se pueden realizar":
                 <br><br>
-                <a  href="https://www.sat.gob.mx/personas" target="_blank">Regímenes fiscales</a>
+
             </p>
+            <a href="https://www.sat.gob.mx/personas" target="_blank">
+                <div class="linkToResourceContainer clw clbktx border1 shadow2">
+                    <div class="linkToResourceContainer_title clbktx">Regímenes fiscales</div>
+                    
+                    <div class="linkToResourceContainer_icon">
+                        <span class="material-icons">
+                            link
+                        </span>
+                    </div>
+                </div>
+            </a>
         </div>
         <br>
         <div class="cardDesign clgreyl2 border1">
@@ -525,7 +536,19 @@ const contenidosUnidad = [
     <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
         Es momento de que realices la siguiente actividad de aprendizaje:
     </p><br>
-    <a  href="https://drive.google.com/file/d/1mhsrMh21yNE5tgNHkpgEZ_lwDyC7s3uU/view?usp=share_link" target="_blank">Actividad</a>
+
+    <a href="https://drive.google.com/file/d/1mhsrMh21yNE5tgNHkpgEZ_lwDyC7s3uU/view?usp=share_link" target="_blank">
+        <div class="linkToResourceContainer clgreyl1 clbktx border1 shadow2">
+            <div class="linkToResourceContainer_title clbktx">Actividad</div>
+            
+            <div class="linkToResourceContainer_icon">
+                <span class="material-icons">
+                    link
+                </span>
+            </div>
+        </div>
+    </a>
+
 </div>`,
   `<section class="containerActividadAprendizajeFather">
     <div class="textoTitulo clbktx">Material de apoyo</div>
