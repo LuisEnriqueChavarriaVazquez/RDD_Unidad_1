@@ -363,10 +363,10 @@ const contenidosUnidad = [
         </blockquote>
         
         <div class="imagenDefaultContainer">
-            <p class="titleImageMine">Figura X: ejemplo de estructura organizacional</p>
+            <p class="titleImageMine">Figura 1.1: Ejemplo de estructura organizacional</p>
             <div class="imageZoomedContainer">
-                <img class="materialboxed shadow2 border1 imageZoomed"
-                    data-caption="Esta es la descripción de la imagen" src="img/1.1.2-figura-1.png">
+                <img class="materialboxed shadow2 border3 imageZoomed"
+                    data-caption="Ejemplo de estructura organizacional" src="img/1.1.2-figura-1.png">
             </div>
             <p class="noteImageMine clgreyl1 border1">Hernández, J., Rodríguez, E. & Jiménez, Y. (2023).</p>
         </div>
@@ -411,10 +411,10 @@ const contenidosUnidad = [
         </blockquote>
 
         <div class="imagenDefaultContainer">
-            <p class="titleImageMine">Figura X: ¿Qué son las finanzas?</p>
+            <p class="titleImageMine">Figura 1.2: ¿Qué son las finanzas?</p>
             <div class="imageZoomedContainer">
-                <img class="materialboxed shadow2 border1 imageZoomed"
-                    data-caption="Esta es la descripción de la imagen" src="img/1.2-figura-1.png">
+                <img class="materialboxed shadow2 border3 imageZoomed"
+                    data-caption="Descripción del concepto de finanzas" src="img/1.2-figura-1.png">
             </div>
             <p class="noteImageMine clgreyl1 border1">Hernández, J., Rodríguez, E. & Jiménez, Y. (2023).</p>
         </div><br>
@@ -489,10 +489,10 @@ const contenidosUnidad = [
             En la figura 1.3 encontrarás algunas de las principales funciones de las áreas contable y financiera.
         </blockquote>
         <div class="imagenDefaultContainer">
-            <p class="titleImageMine">Figura X: la contabilidad y las finanzas</p>
+            <p class="titleImageMine">Figura 1.3: La contabilidad y las finanzas</p>
             <div class="imageZoomedContainer">
-                <img class="materialboxed shadow2 border1 imageZoomed"
-                    data-caption="Esta es la descripción de la imagen" src="img/1.2-figura-2.png">
+                <img class="materialboxed shadow2 border3 imageZoomed"
+                    data-caption="Contabilidad y finanzas" src="img/1.2-figura-2.png">
             </div>
             <p class="noteImageMine clgreyl1 border1">Hernández, J., Rodríguez, E. & Jiménez, Y. (2023).</p>
         </div>
@@ -547,7 +547,14 @@ const contenidosUnidad = [
             La <i class="keyWord">empresa es un sistema abierto porque tiene elementos interrelacionados entre sí y con el entorno;</i> es decir no existe en forma aislada, sino que interactúa con su entorno existiendo un impacto bidireccional. <i class="keyWord">El entorno se conforma por el micro y macro ambiente.</i>
         </p>
 
-        <img class="materialboxed shadow2 border1 imageZoomed" src="img/entornos.png" /><br>
+        <div class="imagenDefaultContainer">
+            <p class="titleImageMine">Figura 1.4 Macroentorno y microentorno</p>
+            <div class="imageZoomedContainer">
+                <img class="materialboxed shadow2 border3 imageZoomed"
+                    data-caption="Aspectos del macroentorno y microentorno" src="img/entornos.png">
+            </div>
+            <p class="noteImageMine clgreyl1 border1">Hernández, J., Rodríguez, E. & Jiménez, Y. (2023).</p>
+        </div>
 
         <div class="shadow2 border1 clgreyl1">
             <div class="textoTitulo titleContainer cl1 white-text border1Sup">Microentorno</div>
@@ -791,30 +798,49 @@ const contenidosUnidad = [
     <p style="margin:15px 15px;" class="clbktx textoDinamicoIdentificador textoReadingH2">
         BBVA, (s.f). Glosario.<br>
         <a target="_blank" href="https://www.bbva.es/finanzas-vistazo/ef/empresas/objeto-social-de-una-empresa.html">https://www.bbva.es/finanzas-vistazo/ef/empresas/objeto-social-de-una-empresa.html</a><br><br>
+        
         Código Civil. Recuperado de<br>
         <a  target="_blank" href="http://www.diputados.gob.mx/LeyesBiblio/pdf/2_270320.pdf">http://www.diputados.gob.mx/LeyesBiblio/pdf/2_270320.pdf</a><br><br>
+        
         De Pina, R. y de Pina Vara, R. (2005). <i>Diccionario de Derecho.</i> Porrúa.<br><br>
+        
         Diario Oficial de la Federación del 30 de diciembre de 2016. Recuperado de<br>
         <a  target="_blank" href="http://www.dof.gob.mx/nota_detalle.php?codigo=5468221&fecha=30/12/2016">http://www.dof.gob.mx/nota_detalle.php?codigo=5468221&fecha=30/12/2016</a><br><br>
+        
         García, V. (2014). <i>Introducción a las finanzas.</i> Grupo Editorial Patria.<br><br>
+        
         Gitman, L. y Zutter, C. (2012). <i>Principios de administración financiera.</i> Pearson Educación.<br><br>
+        
         González, J. (2009). <i>Manual de fórmulas financieras.</i> Alfaomega.<br><br>
+        
         Graue, A. (2009). <i>Fundamentos de Economía.</i> Pearson.<br><br>
+        
         Haime, L. (2008). <i>Planeación financiera en la empresa moderna.</i> ISEF.<br><br>
+        
         Kotler, P. y Armstrong, G. (2013). <i>Fundamentos de marketing.</i> PEARSON.<br>
         <a target="_blank" href="https://frrq.cvg.utn.edu.ar/pluginfile.php/14584/mod_resource/content/1/Fundamentos%20del%20Marketing-Kotler.pdf">https://frrq.cvg.utn.edu.ar/pluginfile.php/14584/mod_resource/content/1/Fundamentos%20del%20Marketing-Kotler.pdf</a><br><br>
+        
         Ley General de Sociedades Cooperativas. Recuperado de<br>
         <a  target="_blank" href="http://www.diputados.gob.mx/LeyesBiblio/pdf/143_190118.pdf">http://www.diputados.gob.mx/LeyesBiblio/pdf/143_190118.pdf</a><br><br>
+        
         Ley General de Sociedades Mercantiles. Recuperado de<br>
         <a target="_blank" href="http://www.diputados.gob.mx/LeyesBiblio/pdf/144_140618.pdf">http://www.diputados.gob.mx/LeyesBiblio/pdf/144_140618.pdf</a><br><br>
+        
         Martínez, R. (2007). <i>Diccionario jurídico moderno.</i> Tomo 1 (A-F). IURE editores.<br><br>
+        
         Münch, L. y García, J. (2017). <i>Fundamentos de administración.</i> Trillas.<br><br>
+        
         Münch, L. (2018). Plan de negocio. Trillas.<br><br>
+        
         Nacional Financiera, S.N.C. Qué tipo de SOCIEDAD MERCANTIL me conviene según mi actividad. Recuperado de<br>
         <a  target="_blank" href="https://docplayer.es/461307-Que-tipo-de-nacional-financiera-s-n-c-sociedad-mercantil-me-conviene-segun-mi-actividad.html">https://docplayer.es/461307-Que-tipo-de-nacional-financiera-s-n-c-sociedad-mercantil-me-conviene-segun-mi-actividad.html</a><br><br>
+        
         Pfeffer, J. (1997). <i>Nuevos rumbos en la teoría de la organización.</i> Oxford University Press.<br><br>
+        
         Quintana, E. (2001). <i>Diccionario de derecho mercantil.</i> Porrúa.<br><br>
+        
         Rodríguez, A., Díaz, F., Fuertes, F., Martín, M., Montalbán, M., Sánchez, E. y Zarco, V. (2014). <i>Psicología de las organizaciones.</i> UOC.<br><br>
+        
         Servicio de Administración Tributaria [SAT]. Recuperado de<br>
         <a target="_blank" href="https://www.sat.gob.mx/personas">https://www.sat.gob.mx/personas</a>
     </p>
