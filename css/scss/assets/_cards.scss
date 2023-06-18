@@ -5,6 +5,7 @@
 	padding: 20px 30px;
 }
 
+
 @media (min-width: 768px) {
 	.cardDesign{
         padding: 20px !important;
@@ -165,4 +166,35 @@
         width: calc(100% - 50px);
     }
     
+}
+
+
+/*container de cards*/
+.cardDesign_container{
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-template-rows: auto;
+	gap: 20px;
+
+	@media (max-width: 1200px) {
+		&{
+			display: grid;
+			grid-template-columns: 1fr;
+			grid-template-rows: auto;
+			gap: 10px;
+		}
+	}
+}
+
+//card desgin para cuando es una card principal
+
+.titleContainer{
+	padding: 10px 15px;
+	margin: 0;
+}
+
+.cardMainContainerTitle{
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-rows: auto;
 }

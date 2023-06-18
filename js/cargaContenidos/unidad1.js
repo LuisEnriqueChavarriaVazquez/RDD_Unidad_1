@@ -174,27 +174,30 @@ const contenidosUnidad = [
 
 
 </div>`,
-  `<div class="cardDesign clw shadow2 border1">
-        <p class="textoTitulo clbktx">Introducción</p>
-        <!--Card con un ejemplo-->
-        <p class="clbktx textoDinamicoIdentificador textoReadingH2">
-            <i class="keyWord">Las empresas son la base del sistema económico</i>, debido a que se encargan de <i class="keyWord">la producción, comercialización y distribución de bienes</i> que satisfacen las múltiples necesidades la sociedad. Más allá de su infraestructura, tamaño y giro <i class="keyWord">toda empresa debe constituirse de acuerdo con la legislación vigente</i> que le otorga una personalidad jurídica propia e independiente de sus dueños; para su funcionamiento <i class="keyWord">requiere de recursos financieros, tecnológicos y humanos</i> los cuales deben ser administrados eficientemente para cumplir con sus objetivos.
-        
-        <br><br>Las empresas <i class="keyWord">juegan un papel fundamental en cualquier economía;</i> sin embargo, son afectadas por diferentes <i class="keyWord">factores presentes en el micro y macroentorno</i> que las obligan a tomar decisiones con el propósito de permanecer vigentes en el mercado. Por otro lado, <i class="keyWord">una buena o mala administración de los recursos se verá reflejada en las finanzas,</i> que se encargan de la distribución y el uso que se le da al dinero.
-        
-        <br><br>Este recurso didáctico digital (RDD) <i class="keyWord">se construyó con la intención de apoyarte en tu proceso de aprendizaje,</i> que en esta unidad temática, está dirigido a reconocer el papel de las finanzas a partir del contexto empresarial.
-        </p>
-
-        <div class="defaultImage">
-            <div class="defaultImageContent" id="intro"></div>
+  `
+  <div class="shadow4 border1">
+        <div class="textoTitulo titleContainer white-text nav-superiorUnit1 border1Sup">Introducción</div>
+        <div class="cardDesign clw border1Inf">
+            <!--Card con un ejemplo-->
+            <p class="clbktx textoDinamicoIdentificador textoReadingH2">
+              <i class="keyWord">Las empresas son la base del sistema económico</i>, debido a que se encargan de <i class="keyWord">la producción, comercialización y distribución de bienes</i> que satisfacen las múltiples necesidades la sociedad. Más allá de su infraestructura, tamaño y giro <i class="keyWord">toda empresa debe constituirse de acuerdo con la legislación vigente</i> que le otorga una personalidad jurídica propia e independiente de sus dueños; para su funcionamiento <i class="keyWord">requiere de recursos financieros, tecnológicos y humanos</i> los cuales deben ser administrados eficientemente para cumplir con sus objetivos.
+              
+              <br><br>Las empresas <i class="keyWord">juegan un papel fundamental en cualquier economía;</i> sin embargo, son afectadas por diferentes <i class="keyWord">factores presentes en el micro y macroentorno</i> que las obligan a tomar decisiones con el propósito de permanecer vigentes en el mercado. Por otro lado, <i class="keyWord">una buena o mala administración de los recursos se verá reflejada en las finanzas,</i> que se encargan de la distribución y el uso que se le da al dinero.
+              
+              <br><br>Este recurso didáctico digital (RDD) <i class="keyWord">se construyó con la intención de apoyarte en tu proceso de aprendizaje,</i> que en esta unidad temática, está dirigido a reconocer el papel de las finanzas a partir del contexto empresarial.
+            </p>
+            
+            <div class="defaultImage">
+                <div class="defaultImageContent" id="intro"></div>
+            </div>
+            <span class="referenciaIcono clgreyl1 border1 clbktx">Retomado de Pixeltrue proveniente de &nbsp; 
+                <a href="https://icons8.com/illustrations/illustration/pixeltrue-vision">Ouch!</a>
+            </span> 
         </div>
-        <span class="referenciaIcono clgreyl1 border1 clbktx">Retomado de Pixeltrue proveniente de &nbsp; 
-        <a href="https://icons8.com/illustrations/illustration/pixeltrue-vision">Ouch!</a>
-        </span>
-
 </div>`,
-  `<div class="cardDesign clw shadow2 border1">
-        <p class="textoTitulo clbktx">1.1 La empresa</p>
+  `<div class="shadow4 border1">
+    <div class="textoTitulo titleContainer white-text nav-superiorUnit1 border1Sup">1.1 La empresa</div>
+    <div class="cardDesign clw border1Inf">
         <p class="clbktx textoDinamicoIdentificador textoReadingH2">
         Independientemente del lugar en donde te encuentres en este momento, <i class="keyWord">mira a tu alrededor y notarás la existencia de una gran cantidad de satisfactores (bienes).</i> Estos son <i class="keyWord">producidos y/o distribuidos por diferentes empresas.</i><br><br>
         Algunas definiciones de empresa son:<br>
@@ -210,7 +213,7 @@ const contenidosUnidad = [
         <span class="referenciaIcono clgreyl1 border1 clbktx">Retomado de Pixeltrue proveniente de &nbsp; 
         <a href="https://icons8.com/illustrations/illustration/pixeltrue-plan">Ouch!</a>
         </span>
-        
+    </div>
 </div>`,
   `<div class="cardDesign clw shadow2 border1">
         <p class="textoTitulo clbktx">1.1.1 Constitución jurídica</p>
@@ -218,7 +221,7 @@ const contenidosUnidad = [
             <i class="keyWord">En México de acuerdo con el Servicio de Administración Tributaria (SAT)</i> para fines fiscales existen las siguientes figuras: <i class="keyWord">personas físicas y personas morales.</i><br>
         </p>
 
-        <div class="cardDesign clgreyl2 border1">
+        <div class="shadow2 cardDesign clgreyl2 border1">
             <p class="textoTitulo clbktx">Persona física</p>
             <p class="clbktx textoDinamicoIdentificador textoReadingH2">
                 <i class="keyWord">"Individuo que realiza cualquier actividad económica (vendedor, comerciante, empleado, profesionista, etc.),</i> el cual tiene derechos y obligaciones (SAT, s.f). En el siguiente link conoce las actividades que como persona física se pueden realizar":
@@ -238,7 +241,7 @@ const contenidosUnidad = [
             </a>
         </div>
         <br>
-        <div class="cardDesign clgreyl2 border1">
+        <div class="shadow2 cardDesign clgreyl2 border1">
             <p class="textoTitulo clbktx">Persona moral</p>
             <p class="clbktx textoDinamicoIdentificador textoReadingH2">
                 <i class="keyWord">"Es el conjunto de personas físicas, que se unen para la realización de un fin colectivo,</i> son entes creados por el derecho, no tienen una realidad material o corporal (no se pueden tocar como tal como en el caso de una persona física), sin embargo, la ley les otorga capacidad jurídica para tener derechos y obligaciones" (SAT, s.f).
@@ -317,14 +320,14 @@ const contenidosUnidad = [
         <p class="clbktx textoDinamicoIdentificador textoReadingH2">
         A partir de este momento, por ser el tema central de este recurso didáctico digital, <i class="keyWord">solo nos enfocaremos en el área financiera la cual se lleva a cabo mediante dos actividades importantes: Tesorería y Contraloría.</i>
         </p><br>
-        <div class="cardDesign clgreyl2 border1">
+        <div class="shadow2 cardDesign clgreyl2 border1">
             <p class="textoTitulo clbktx">Tesorería:</p>
             <p class="clbktx textoDinamicoIdentificador textoReadingH2">
                 Se enfoca en el <i class="keyWord">manejo de los recursos financieros.</i>
             </p>
         </div>
         <br>
-        <div class="cardDesign clgreyl2 border1">
+        <div class="shadow2 cardDesign clgreyl2 border1">
             <p class="textoTitulo clbktx">Contraloría:</p>
             <p class="clbktx textoDinamicoIdentificador textoReadingH2">
                 La <i class="keyWord">contraloría es la responsable de la actividad contable, la planeación, los presupuestos y la auditoría interna,</i> mismas que se describen a continuación:
@@ -355,21 +358,21 @@ const contenidosUnidad = [
         </div>
         <p class="noteImageMine clgreyl1 border1">Hernández, J., Rodríguez, E. & Jiménez, Y. (2023).</p>
     </div><br>
-    <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+    <p class="clbktx textoDinamicoIdentificador textoReadingH2">
         <i class="keyWord">Siguiendo a Gitman (2012) las finanzas son el arte y la ciencia de administrar el dinero.</i> Al respecto, el autor enfatiza que las finanzas afectan las decisiones tanto de los individuos como de las empresas, ya que ambos en algún momento se enfrentan a la decisión de cuánto dinero gastar, cuánto ahorrar y cómo invertir los ahorros.<br><br>
     Específicamente en la empresa las finanzas se enfocan en:<br>
     </p>
-    <ol class=" clbktx textoDinamicoIdentificador textoReadingH2" style="list-style:square;">
+    <ol class="clbktx textoDinamicoIdentificador textoReadingH2" style="list-style:square;">
         <li>Cómo incrementar el dinero de los inversionistas</li>
         <li>Cómo invertir el dinero para maximizar las utilidades</li>
         <li>De qué modo conviene reinvertir las ganancias de la empresa o distribuirlas entre los inversionistas</li>
     </ol><br><br>
-    <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+    <p class="clbktx textoDinamicoIdentificador textoReadingH2">
         <i class="keyWord">Para lograr lo anterior se requiere del financiamiento y de la inversión,</i> ambas son consideradas como las funciones principales de las finanzas. En este sentido, se entiende por <i class="keyWord">financiamiento la obtención de recursos provenientes de una o varias fuentes de financiamiento;</i> en tanto que la inversión se refiere propiamente a la utilización que se hace de dichos recursos. Por ejemplo, en el caso de una organización podría invertir en infraestructura <i class="keyWord">(instalaciones, bodegas, maquinaria, equipo, entre otros)</i> a este tipo de inversión se le conoce como inversión fija; y también podría invertir en el proceso operativo del negocio.<br><br>
     Hablar de finanzas implica hablar de contabilidad. <i class="keyWord">La contabilidad se encarga principalmente del registro de las operaciones de la entidad, de la elaboración de los estados financieros, de la elaboración de reportes con información financiera y de calcular y pagar impuestos;</i> por lo que constituye el principal sistema de información cuantitativa de la organización.<br><br>
     La contabilidad forma parte del área financiera y la función financiera se lleva a cabo mediante dos actividades importantes:<br>
     </p>
-    <div class="cardDesign clgreyl2 border1">
+    <div class="shadow2 cardDesign clgreyl2 border1">
         <p class="textoTitulo clbktx">Tesorería:</p>
         <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
         Básicamente <i class="keyWord">se enfoca al manejo de los recursos financieros,</i> entre sus principales actividades se encuentran:
@@ -381,7 +384,7 @@ const contenidosUnidad = [
             </ol>
         </p>
     </div><br>
-    <div class="cardDesign clgreyl2 border1">
+    <div class="shadow2 cardDesign clgreyl2 border1">
         <p class="textoTitulo clbktx">Contraloría:</p>
         <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
         Área <i class="keyWord">encargada de coordinar y dirigir las siguientes actividades:</i>
@@ -416,30 +419,32 @@ const contenidosUnidad = [
     <p class="textoTitulo clbktx">
         1.3 Las finanzas empresariales y su relación con otras disciplinas (Ética, Economía, Derecho, Matemáticas, etc.)
     </p><br>
-    <div class="cardDesign clgreyl2 border1">
-        <p class="textoTitulo clbktx">Ética</p>
-        <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-        La <i class="keyWord">ética trata sobre lo que se considera un comportamiento humano correcto;</i> es decir, con la práctica de valores. Todo lo relacionado con las <i class="keyWord">finanzas y el manejo del dinero debe ser honesto, claro, transparente y digno de confianza.</i>
-        </p>
-    </div><br>
-    <div class="cardDesign clgreyl2 border1">
-        <p class="textoTitulo clbktx">Economía</p>
-        <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-            La <i class="keyWord">economía es la ciencia que se centra en la satisfacción de las necesidades humanas,</i> así como en la <i class="keyWord">generación y administración de la riqueza por lo que tiene una relación estrecha con las finanzas.</i>
-        </p>
-    </div><br>
-    <div class="cardDesign clgreyl2 border1">
-        <p class="textoTitulo clbktx">Derecho</p>
-        <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-            El <i class="keyWord">Derecho a través de diferentes leyes regula las actividades financieras y de no acatarse y/o cumplirse dichas leyes hay sanciones en materia legal.</i>
-        </p>
-    </div><br>
-    <div class="cardDesign clgreyl2 border1">
-        <p class="textoTitulo clbktx">Matemáticas</p>
-        <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-            Las matemáticas están tan estrechamente ligadas con las finanzas que incluso ha surgido <i class="keyWord">el término matemáticas financieras en las que se utilizan la aritmética y el álgebra en temas como valor presente, valor futuro, costo de capital y tasas de interés,</i> por mencionar algunos.
-        </p>
-    </div><br>
+    <section class="cardDesign_container">
+        <div class="cardDesign shadow2 clgreyl2 border1">
+            <p class="textoTitulo clbktx">Ética</p>
+            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+            La <i class="keyWord">ética trata sobre lo que se considera un comportamiento humano correcto;</i> es decir, con la práctica de valores. Todo lo relacionado con las <i class="keyWord">finanzas y el manejo del dinero debe ser honesto, claro, transparente y digno de confianza.</i>
+            </p>
+        </div>
+        <div class="cardDesign shadow2 clgreyl2 border1">
+            <p class="textoTitulo clbktx">Economía</p>
+            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+                La <i class="keyWord">economía es la ciencia que se centra en la satisfacción de las necesidades humanas,</i> así como en la <i class="keyWord">generación y administración de la riqueza por lo que tiene una relación estrecha con las finanzas.</i>
+            </p>
+        </div>
+        <div class="cardDesign shadow2 clgreyl2 border1">
+            <p class="textoTitulo clbktx">Derecho</p>
+            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+                El <i class="keyWord">Derecho a través de diferentes leyes regula las actividades financieras y de no acatarse y/o cumplirse dichas leyes hay sanciones en materia legal.</i>
+            </p>
+        </div>
+        <div class="cardDesign shadow2 clgreyl2 border1">
+            <p class="textoTitulo clbktx">Matemáticas</p>
+            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+                Las matemáticas están tan estrechamente ligadas con las finanzas que incluso ha surgido <i class="keyWord">el término matemáticas financieras en las que se utilizan la aritmética y el álgebra en temas como valor presente, valor futuro, costo de capital y tasas de interés,</i> por mencionar algunos.
+            </p>
+        </div>
+    </section>
 </div>`,
   `<div class="cardDesign clw shadow2 border1">
     <p class="textoTitulo clbktx">
@@ -449,90 +454,94 @@ const contenidosUnidad = [
         La <i class="keyWord">empresa es un sistema abierto porque tiene elementos interrelacionados entre sí y con el entorno;</i> es decir no existe en forma aislada, sino que interactúa con su entorno existiendo un impacto bidireccional. <i class="keyWord">El entorno se conforma por el micro y macro ambiente.</i>
     </p>
     <img class="materialboxed shadow2 border1 imageZoomed" src="img/entornos.png" /><br>
-    <div class="cardDesign clgreyl2 border1">
-        <p class="textoTitulo clbktx">Microentorno</p>
-        <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-        Representado por elementos que <i class="keyWord">tienen relación directa con la empresa e influyen en ella,</i> como por ejemplo: <i class="keyWord">proveedores, clientes, competidores, entidades financieras, comunidad y alcaldías o municipios.</i>
-        </p>
-    </div><br>
-    <div class="cardDesign clgreyl2 border1">
-        <p class="textoTitulo clbktx">Proveedores</p>
-        <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-        Son las entidades que <i class="keyWord">venden bienes o prestan servicios a la empresa.</i> Por ejemplo: <i class="keyWord">materia prima, equipo de cómputo, mobiliario y equipo de oficina, servicios de internet, servicios de mantenimiento, etc.</i>
-        </p>
-    </div><br>
-    <div class="cardDesign clgreyl2 border1">
-        <p class="textoTitulo clbktx">Clientes</p>
-        <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-            Son quienes <i class="keyWord">compran bienes o adquieren servicios de la empresa.</i>
-        </p>
-    </div><br>
-    <div class="cardDesign clgreyl2 border1">
-        <p class="textoTitulo clbktx">Competidores</p>
-        <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-            <i class="keyWord">Ofrecen el mismo producto o productos sustitutos</i> (cubren la misma necesidad, aunque no son idénticos).
-        </p>
-    </div><br>
-    <div class="cardDesign clgreyl2 border1">
-        <p class="textoTitulo clbktx">Entidades financieras</p>
-        <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-        Las <i class="keyWord">entidades financieras más comunes son los bancos, estos son una fuente de financiamiento importante, prestan dinero y a cambio cobran una tasa de interés.</i>
-        </p>
-    </div><br>
-    <div class="cardDesign clgreyl2 border1">
-        <p class="textoTitulo clbktx">Comunidad</p>
-        <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-            La <i class="keyWord">comunidad en la que se inserta la empresa tiene ciertas características,</i> tales como: <i class="keyWord">ideología, costumbres, inquietud por el medio ambiente y en general un estilo de vida.</i> Dichos aspectos definitivamente influyen en la empresa.
-        </p>
-    </div><br>
-    <div class="cardDesign clgreyl2 border1">
-        <p class="textoTitulo clbktx">Alcaldías o municipios</p>
-        <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-            Las empresas <i class="keyWord">al realizar algunos trámites y permisos tienen relación con las alcaldías o municipios.</i> Por ejemplo: trámite de uso de suelo y permisos de apertura, por mencionar algunos.
-        </p>
-    </div><br>
-    <div class="cardDesign clgreyl2 border1">
-        <p class="textoTitulo clbktx">Macroentorno</p>
-        <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-            Conformado por todos aquellos factores que tienen una gran influencia en la empresa, como por ejemplo: <i class="keyWord">económicos, tecnológicos, político-legales, demográficos, socio culturales y medioambientales.</i>
-        </p>
-    </div><br>
-    <div class="cardDesign clgreyl2 border1">
-        <p class="textoTitulo clbktx">Económicos</p>
-        <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-            <i class="keyWord">La inflación, las tasas de interés, y el tipo de cambio,</i> entre otros, son factores que <i class="keyWord">inciden en los costos y por tanto en el precio y en el resultado de la empresa.</i>
-        </p>
-    </div><br>
-    <div class="cardDesign clgreyl2 border1">
-        <p class="textoTitulo clbktx">Tecnológicos</p>
-        <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-            Las <i class="keyWord">nuevas tecnologías no solo facilitan y/o automatizan el trabajo, también abren nuevas oportunidades de negocio.</i>
-        </p>
-    </div><br>
-    <div class="cardDesign clgreyl2 border1">
-        <p class="textoTitulo clbktx">Político-legales</p>
-        <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-            <i class="keyWord">Las iniciativas, la legislación y en general las decisiones del gobierno afectan a las empresas.</i> Por ejemplo: en materia laboral, impuestos e inversión extranjera, por mencionar algunos.
-        </p>
-    </div><br>
-    <div class="cardDesign clgreyl2 border1">
-        <p class="textoTitulo clbktx">Demográficos</p>
-        <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-            La <i class="keyWord">información sobre la población,</i> como por ejemplo: <i class="keyWord">edad, cantidad de hombres y de mujeres, nivel de ingresos, nivel socioeconómico,</i> entre otros, son datos en los que las empresas <i class="keyWord">podrían apoyarse para identificar ¿qué vender? ¿a quién vender? y ¿dónde se localizan los clientes?,</i> entre otras interrogantes.
-        </p>
-    </div><br>
-    <div class="cardDesign clgreyl2 border1">
-        <p class="textoTitulo clbktx">Socio culturales</p>
-        <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-            Corresponde a los <i class="keyWord">estilos de vida, costumbres, hábitos alimenticios, religión y demás aspectos que condicionan el comportamiento de las personas.</i>
-        </p>
-    </div><br>
-    <div class="cardDesign clgreyl2 border1">
-        <p class="textoTitulo clbktx">Medioambientales</p>
-        <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-            Hoy día existe una <i class="keyWord">preocupación mundial por minimizar el impacto medio ambiental, lo que supone un esfuerzo y un costo para las empresas.</i> Existen leyes que regulan aspectos ambientales y quienes no las cumplan son acreedores a sanciones.
-        </p>
-    </div><br>
+
+    <section class="cardDesign_container">
+        <div class="cardDesign shadow2 clgreyl2 border1">
+            <p class="textoTitulo clbktx">Microentorno</p>
+            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+            Representado por elementos que <i class="keyWord">tienen relación directa con la empresa e influyen en ella,</i> como por ejemplo: <i class="keyWord">proveedores, clientes, competidores, entidades financieras, comunidad y alcaldías o municipios.</i>
+            </p>
+        </div>
+        <div class="cardDesign shadow2 clgreyl2 border1">
+            <p class="textoTitulo clbktx">Proveedores</p>
+            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+            Son las entidades que <i class="keyWord">venden bienes o prestan servicios a la empresa.</i> Por ejemplo: <i class="keyWord">materia prima, equipo de cómputo, mobiliario y equipo de oficina, servicios de internet, servicios de mantenimiento, etc.</i>
+            </p>
+        </div>
+        <div class="cardDesign shadow2 clgreyl2 border1">
+            <p class="textoTitulo clbktx">Clientes</p>
+            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+                Son quienes <i class="keyWord">compran bienes o adquieren servicios de la empresa.</i>
+            </p>
+        </div>
+        <div class="cardDesign shadow2 clgreyl2 border1">
+            <p class="textoTitulo clbktx">Competidores</p>
+            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+                <i class="keyWord">Ofrecen el mismo producto o productos sustitutos</i> (cubren la misma necesidad, aunque no son idénticos).
+            </p>
+        </div>
+        <div class="cardDesign shadow2 clgreyl2 border1">
+            <p class="textoTitulo clbktx">Entidades financieras</p>
+            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+            Las <i class="keyWord">entidades financieras más comunes son los bancos, estos son una fuente de financiamiento importante, prestan dinero y a cambio cobran una tasa de interés.</i>
+            </p>
+        </div>
+        <div class="cardDesign shadow2 clgreyl2 border1">
+            <p class="textoTitulo clbktx">Comunidad</p>
+            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+                La <i class="keyWord">comunidad en la que se inserta la empresa tiene ciertas características,</i> tales como: <i class="keyWord">ideología, costumbres, inquietud por el medio ambiente y en general un estilo de vida.</i> Dichos aspectos definitivamente influyen en la empresa.
+            </p>
+        </div>
+        <div class="cardDesign shadow2 clgreyl2 border1">
+            <p class="textoTitulo clbktx">Alcaldías o municipios</p>
+            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+                Las empresas <i class="keyWord">al realizar algunos trámites y permisos tienen relación con las alcaldías o municipios.</i> Por ejemplo: trámite de uso de suelo y permisos de apertura, por mencionar algunos.
+            </p>
+        </div>
+        <div class="cardDesign shadow2 clgreyl2 border1">
+            <p class="textoTitulo clbktx">Macroentorno</p>
+            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+                Conformado por todos aquellos factores que tienen una gran influencia en la empresa, como por ejemplo: <i class="keyWord">económicos, tecnológicos, político-legales, demográficos, socio culturales y medioambientales.</i>
+            </p>
+        </div>
+        <div class="cardDesign shadow2 clgreyl2 border1">
+            <p class="textoTitulo clbktx">Económicos</p>
+            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+                <i class="keyWord">La inflación, las tasas de interés, y el tipo de cambio,</i> entre otros, son factores que <i class="keyWord">inciden en los costos y por tanto en el precio y en el resultado de la empresa.</i>
+            </p>
+        </div>
+        <div class="cardDesign shadow2 clgreyl2 border1">
+            <p class="textoTitulo clbktx">Tecnológicos</p>
+            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+                Las <i class="keyWord">nuevas tecnologías no solo facilitan y/o automatizan el trabajo, también abren nuevas oportunidades de negocio.</i>
+            </p>
+        </div>
+        <div class="cardDesign shadow2 clgreyl2 border1">
+            <p class="textoTitulo clbktx">Político-legales</p>
+            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+                <i class="keyWord">Las iniciativas, la legislación y en general las decisiones del gobierno afectan a las empresas.</i> Por ejemplo: en materia laboral, impuestos e inversión extranjera, por mencionar algunos.
+            </p>
+        </div>
+        <div class="cardDesign shadow2 clgreyl2 border1">
+            <p class="textoTitulo clbktx">Demográficos</p>
+            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+                La <i class="keyWord">información sobre la población,</i> como por ejemplo: <i class="keyWord">edad, cantidad de hombres y de mujeres, nivel de ingresos, nivel socioeconómico,</i> entre otros, son datos en los que las empresas <i class="keyWord">podrían apoyarse para identificar ¿qué vender? ¿a quién vender? y ¿dónde se localizan los clientes?,</i> entre otras interrogantes.
+            </p>
+        </div>
+        <div class="cardDesign shadow2 clgreyl2 border1">
+            <p class="textoTitulo clbktx">Socio culturales</p>
+            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+                Corresponde a los <i class="keyWord">estilos de vida, costumbres, hábitos alimenticios, religión y demás aspectos que condicionan el comportamiento de las personas.</i>
+            </p>
+        </div>
+        <div class="cardDesign shadow2 clgreyl2 border1">
+            <p class="textoTitulo clbktx">Medioambientales</p>
+            <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+                Hoy día existe una <i class="keyWord">preocupación mundial por minimizar el impacto medio ambiental, lo que supone un esfuerzo y un costo para las empresas.</i> Existen leyes que regulan aspectos ambientales y quienes no las cumplan son acreedores a sanciones.
+            </p>
+        </div>
+    </section>
+
     <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
         Es momento de que realices la siguiente actividad de aprendizaje:
     </p><br>
