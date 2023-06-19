@@ -5,7 +5,7 @@ const contenidosUnidad = [
     <ul id="tabs-swipe-demo" class="tabs clgreyl2 shadow4">
         <li class="tab clgreyl2" id="a6tutorialButton"><a class="clbktx" href="#test-swipe-1">Bienvenida</a></li>
         <li class="tab clgreyl2" id="a8tutorialButton"><a class="clbktx" href="#test-swipe-3">Metodología</a>
-        <li class="tab clgreyl2" id="a7tutorialButton"><a class="clbktx" href="#test-swipe-2">Unidad decompetencia</a></li>
+        <li class="tab clgreyl2" id="a7tutorialButton"><a class="clbktx" href="#test-swipe-2">Unidad de competencia</a></li>
         </li>
         <li class="tab clgreyl2" id="a9tutorialButton"><a class="clbktx" href="#test-swipe-4">Evaluación de los aprendizajes</a></li>
         <li class="tab clgreyl2" id="a11tutorialButton"><a class="clbktx" href="#test-swipe-5">Requerimientos</a>
@@ -161,15 +161,23 @@ const contenidosUnidad = [
         <div class="cardDesign clw border1Inf">
             <p class="clbktx textoDinamicoIdentificador textoReadingH2">
                 Para acceder y hacer uso de este recurso se requiere:
-
-            <p class="clbktx textoDinamicoIdentificador textoReadingH2" style="margin: 2px;">⚫ <i class="keyWord">Conexión a internet</i></p>
-            <p class="clbktx textoDinamicoIdentificador textoReadingH2" style="margin: 2px;">⚫ Navegador de internet:</p>
-            <p class="clbktx textoDinamicoIdentificador textoReadingH2" style="margin: 2px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ <i class="keyWord">Microsoft Edge</i> (version 85 o superior)</p>
-            <p class="clbktx textoDinamicoIdentificador textoReadingH2" style="margin: 2px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ <i class="keyWord">Google Chrome</i> (version 85 o superior)</p>
-            <p class="clbktx textoDinamicoIdentificador textoReadingH2" style="margin: 2px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ <i class="keyWord">Mozilla Firefox</i> (version 80 o superior)</p>
-            <p class="clbktx textoDinamicoIdentificador textoReadingH2" style="margin: 2px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ <i class="keyWord">Vivaldi</i> (version 3.3 o superior)</p>
-            <p class="clbktx textoDinamicoIdentificador textoReadingH2" style="margin: 2px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛ <i class="keyWord">Opera 70 o superior</i></p>
             </p>
+                <ul class="browser-default clbktx textoDinamicoIdentificador textoReadingH2">
+                    <li>Conexión a internet</li>
+                    <li>
+                        Navegador de internet:
+                        <ul class="browser-default">
+                            <li>Microsoft Edge (version 85 o superior)</li>
+                            <li>Google Chrome (version 85 o superior)</li>
+                            <li>Mozilla Firefox (version 80 o superior)</li>
+                            <li>Vivaldi (version 3.3 o superior)</li>
+                            <li>Opera 70 o superior</li>
+                        </ul>
+                    </li>
+
+                </ul>
+
+            
             
             <div class="defaultImage">
                 <div class="defaultImageContent" id="requerimientos"></div>

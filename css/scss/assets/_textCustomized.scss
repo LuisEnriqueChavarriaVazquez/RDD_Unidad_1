@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
 /*Textos*/
 .textoStandar {
   font-family: "Roboto", sans-serif;
@@ -16,7 +19,7 @@
 
 /*Textos tabla*/
 .textoStandarTable {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 1.3rem;
   font-weight: 400;
   margin: 0 0 10px 0;
@@ -77,7 +80,7 @@
 }
 
 .textoTitulo {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 1.8rem;
   font-weight: 800;
   margin: 0 0 6px 0;

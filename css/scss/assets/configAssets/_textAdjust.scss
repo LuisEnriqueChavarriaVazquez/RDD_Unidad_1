@@ -1,4 +1,5 @@
 /*Card que contiene los ajustes de los textos*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 .cardFontAdjustFather {
     display: grid;
@@ -174,6 +175,7 @@
   .textoReadingH2, .textoDinamicoIdentificador {
     width: 100%;
     font-size: 22px;
+    font-family: 'Montserrat', sans-serif;
     text-align: justify;
     display: inline-block;
     transition: all .1 ease-in-out;
