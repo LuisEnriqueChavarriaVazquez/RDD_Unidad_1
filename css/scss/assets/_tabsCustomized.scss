@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200&display=swap');
-
 /*Diseño del tamaño de los tabs*/
 
 .mainContent {
@@ -29,7 +27,7 @@
         height: 50px;
         display: grid;
         grid-auto-flow: column;
-        font-family: 'Titillium Web', sans-serif;
+        font-family: 'Roboto', sans-serif;
 
         @media (max-width: 1000px) {
             &{

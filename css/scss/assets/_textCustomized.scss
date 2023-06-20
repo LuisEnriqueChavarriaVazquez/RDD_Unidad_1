@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
 
 /*Textos*/
 .textoStandar {
@@ -19,7 +19,7 @@
 
 /*Textos tabla*/
 .textoStandarTable {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
   font-size: 1.3rem;
   font-weight: 400;
   margin: 0 0 10px 0;
@@ -80,7 +80,7 @@
 }
 
 .textoTitulo {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
   font-size: 1.8rem;
   font-weight: 800;
   margin: 0 0 6px 0;
@@ -248,6 +248,8 @@
 
 blockquote{
   margin: 0 0 20px 0 !important;
-  border-left: 5px solid #be8899;
-  font-weight: 510 !important;
+  border-left: 5px solid #d894ab;
+  font-weight: 500 !important;
+  border-radius: 0 10px 10px 0;
+  padding: 20px;
 }

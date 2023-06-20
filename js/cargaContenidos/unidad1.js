@@ -68,7 +68,7 @@ const contenidosUnidad = [
                 Adicionalmente, están disponibles en el momento en el que los quieras consultar, con lo que <i class="keyWord">se pretende
                 facilitar el aprendizaje autónomo.</i>
             
-                <blockquote class="clbktx textoDinamicoIdentificador textoReadingH2">
+                <blockquote class="clgreyl1 clgreytx textoDinamicoIdentificador textoReadingH2">
                     Este RDD se construyó como <i class="keyWord">apoyo educativo a las clases presenciales y no presenciales</i>; cuenta con menú en
                     el que podrás seleccionar alguno de los siguientes botones de navegación: <i class="keyWord">inicio, contenidos, material de apoyo, actividad de aprendizaje, cierre de la unidad temática, evaluación, referencias, contacto, glosario, manual de usuario.</i>
                     ¿Qué encontrarás al hacer clic en cada uno de los botones antes mencionados?
@@ -199,7 +199,7 @@ const contenidosUnidad = [
               <i class="keyWord">Las empresas son la base del sistema económico</i>, debido a que se encargan de <i class="keyWord">la producción, comercialización y distribución de bienes</i> que satisfacen las múltiples necesidades la sociedad. Más allá de su infraestructura, tamaño y giro <i class="keyWord">toda empresa debe constituirse de acuerdo con la legislación vigente</i> que le otorga una personalidad jurídica propia e independiente de sus dueños; para su funcionamiento <i class="keyWord">requiere de recursos financieros, tecnológicos y humanos</i> los cuales deben ser administrados eficientemente para cumplir con sus objetivos.
             </p>
               
-            <blockquote class="clbktx textoDinamicoIdentificador textoReadingH2"> 
+            <blockquote class="clgreyl1 clgreytx textoDinamicoIdentificador textoReadingH2"> 
                 Las empresas <i class="keyWord">juegan un papel fundamental en cualquier economía;</i> sin embargo, son afectadas por diferentes <i class="keyWord">factores presentes en el micro y macroentorno</i> que las obligan a tomar decisiones con el propósito de permanecer vigentes en el mercado. Por otro lado, <i class="keyWord">una buena o mala administración de los recursos se verá reflejada en las finanzas,</i> que se encargan de la distribución y el uso que se le da al dinero.
             </blockquote>
             
@@ -222,7 +222,7 @@ const contenidosUnidad = [
         Independientemente del lugar en donde te encuentres en este momento, <i class="keyWord">mira a tu alrededor y notarás la existencia de una gran cantidad de satisfactores (bienes).</i> Estos son <i class="keyWord">producidos y/o distribuidos por diferentes empresas.</i>
         </p>
 
-        <blockquote class="clbktx textoDinamicoIdentificador textoReadingH2"> 
+        <blockquote class="clgreyl1 clgreytx textoDinamicoIdentificador textoReadingH2"> 
             Algunas definiciones de empresa son:
         </blockquote>
 
@@ -259,7 +259,7 @@ const contenidosUnidad = [
                     <i class="keyWord">"Individuo que realiza cualquier actividad económica (vendedor, comerciante, empleado, profesionista, etc.),</i> el cual tiene derechos y obligaciones (SAT, s.f).
                 </p>
 
-                <blockquote class="clbktx textoDinamicoIdentificador textoReadingH2">
+                <blockquote class="clgreyl1 clgreytx textoDinamicoIdentificador textoReadingH2">
                     En el siguiente link conoce las actividades que como persona física se pueden realizar":
                 </blockquote>
 
@@ -285,7 +285,7 @@ const contenidosUnidad = [
                     <br>
                 </p>
 
-                <blockquote class="clbktx textoDinamicoIdentificador textoReadingH2">
+                <blockquote class="clgreyl1 clgreytx textoDinamicoIdentificador textoReadingH2">
                     Cabe señalar que la <i class="keyWord">persona moral es una agrupación de personas que pueden constituirse jurídicamente como sociedades o asociaciones,</i> las más usuales se pueden visualizar en la tabla 1.1
                 </blockquote>
 
@@ -366,7 +366,7 @@ const contenidosUnidad = [
             Para explicar en qué consiste <i class="keyWord">la estructura organizacional usaremos la siguiente analogía:</i> el ser <i class="keyWord">humano tiene un sistema óseo que le permite tener movimiento,</i> <i class="keyWord">un sistema respiratorio que le proporciona el oxígeno para vivir;</i> <i class="keyWord">un sistema digestivo que le suministra nutrientes;</i> <i class="keyWord">un sistema circulatorio que transporta la sangre y distribuye nutrientes;</i> <i class="keyWord">un sistema excretor que lo limpia de impurezas;</i> <i class="keyWord">un cerebro que rige el funcionamiento general del organismo; entre otros,</i> del mismo modo las organizaciones requieren de una estructura para su funcionamiento.
         </p>
         
-        <blockquote class="clbktx textoDinamicoIdentificador textoReadingH2">
+        <blockquote class="clgreyl1 clgreytx textoDinamicoIdentificador textoReadingH2">
             Así como no hay dos personas iguales, <i class="keyWord">tampoco hay dos estructuras organizacionales iguales.</i> La estructura organizacional se diseña en función de las necesidades de cada organización considerando aspectos como el tamaño, el giro y el tipo de organización. <i class="keyWord">Por lo que es un hecho que entre más grande sea la empresa su organización será más robusta.</i>
         </blockquote>
         
@@ -403,7 +403,7 @@ const contenidosUnidad = [
                 </p>
             </div>
         </div><br>
-        <blockquote class="clbktx textoDinamicoIdentificador textoReadingH2">
+        <blockquote class="clgreyl1 clgreytx textoDinamicoIdentificador textoReadingH2">
             <i class="keyWord">La organización delimita las actividades y la toma de decisiones en cada una de las áreas.</i> Cabe destacar que todas las organizaciones, independientemente de su tamaño y giro cuentan con un área financiera. Las demás áreas de la empresa <i class="keyWord">(capital humano, ventas, manufactura, marketing y sistemas, etc.)</i> están en constante comunicación con el área financiera, por ejemplo, para justificar sus requerimientos de recursos humanos y negociar diferentes presupuestos operativos, entre otros.
         </blockquote>
     </div>
@@ -414,7 +414,7 @@ const contenidosUnidad = [
         <p class="clbktx textoDinamicoIdentificador textoReadingH2">
             <b class="clgreyl3 subTitleCard">¿Qué son las finanzas?</b>
         </p>
-        <blockquote class="clbktx textoDinamicoIdentificador textoReadingH2">
+        <blockquote class="clgreyl1 clgreytx textoDinamicoIdentificador textoReadingH2">
             Finanzas es un término que seguramente has escuchado con mucha frecuencia y de hecho en tu vida diaria, de algún modo, realizas actividades relacionadas con dicha disciplina. <i class="keyWord">Hay tantas definiciones del término finanzas como autores al respecto, en la figura 1.4 se rescatan algunas de ellas.</i>
         </blockquote>
 
@@ -426,7 +426,7 @@ const contenidosUnidad = [
             </div>
             <p class="noteImageMine clgreyl1 border1">Hernández, J., Rodríguez, E. & Jiménez, Y. (2023).</p>
         </div><br>
-        <blockquote class="clbktx textoDinamicoIdentificador textoReadingH2">
+        <blockquote class="clgreyl1 clgreytx textoDinamicoIdentificador textoReadingH2">
             <i class="keyWord">Siguiendo a Gitman (2012) las finanzas son el arte y la ciencia de administrar el dinero.</i> Al respecto, el autor enfatiza que las finanzas afectan las decisiones tanto de los individuos como de las empresas, ya que ambos en algún momento se enfrentan a la decisión de cuánto dinero gastar, cuánto ahorrar y cómo invertir los ahorros.
         </blockquote>
         <p class="clbktx textoDinamicoIdentificador textoReadingH2">
@@ -455,7 +455,7 @@ const contenidosUnidad = [
             Hablar de finanzas implica hablar de contabilidad. <i class="keyWord">La contabilidad se encarga principalmente del registro de las operaciones de la entidad, de la elaboración de los estados financieros, de la elaboración de reportes con información financiera y de calcular y pagar impuestos;</i> por lo que constituye el principal sistema de información cuantitativa de la organización.<br>
         </p>
         
-        <blockquote class="clbktx textoDinamicoIdentificador textoReadingH2">
+        <blockquote class="clgreyl1 clgreytx textoDinamicoIdentificador textoReadingH2">
             La contabilidad forma parte del área financiera y la función financiera se lleva a cabo mediante dos actividades importantes:
         </blockquote>
 
@@ -493,7 +493,7 @@ const contenidosUnidad = [
             Para que la función financiera se lleve a cabo en forma adecuada requiere de <i class="keyWord">información verídica y confiable proporcionada por el área contable.</i>
         </p>
         
-        <blockquote class="clbktx textoDinamicoIdentificador textoReadingH2">
+        <blockquote class="clgreyl1 clgreytx textoDinamicoIdentificador textoReadingH2">
             En la figura 1.3 encontrarás algunas de las principales funciones de las áreas contable y financiera.
         </blockquote>
         <div class="imagenDefaultContainer">
@@ -686,7 +686,7 @@ const contenidosUnidad = [
         </section>
 
         <br>
-        <blockquote class="clbktx textoDinamicoIdentificador textoReadingH2">
+        <blockquote class="clgreyl1 clgreytx textoDinamicoIdentificador textoReadingH2">
             Es momento de que realices la siguiente actividad de aprendizaje:
         </blockquote>
 
@@ -785,7 +785,7 @@ const contenidosUnidad = [
             ¡Felicidades! Has concluido esta unidad temática. Ahora tienes más elementos que te ayudarán a reconocer la relevancia que tienen las finanzas en todas las organizaciones y en específico en las empresas, independientemente de su constitución, tamaño y giro.
         </p>
 
-        <blockquote class="clbktx textoDinamicoIdentificador textoReadingH2">
+        <blockquote class="clgreyl1 clgreytx textoDinamicoIdentificador textoReadingH2">
             Recuerda que las empresas son indispensables en nuestras vidas y que constituyen la columna vertebral de la economía. En este sentido, la productividad, la rentabilidad y la competitividad se han convertido en tres de las principales pretensiones de muchas empresas. Para lograr dichas pretensiones se requiere, entre otros aspectos, de la toma de decisiones basadas en información financiera verídica, confiable y oportuna que se verá reflejada en los estados financieros.
         </blockquote>
 
