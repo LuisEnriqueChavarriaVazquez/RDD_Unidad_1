@@ -63,15 +63,12 @@ const contenidosUnidad = [
         <div class="textoTitulo titleContainer white-text cl2 border1Sup">Metodología</div>
         <div class="cardDesign clw border1Inf">
             <p class="clbktx textoDinamicoIdentificador textoReadingH2">
-                <i class="keyWord">El uso de este RDD de la unidad 1: la empresa y su entorno</i>, te permitirá <i class="keyWord">abordar los contenidos</i> en la
-                secuencia en la <i class="keyWord">que aparecen en el programa de estudios</i> y sobre todo a tu propio ritmo de aprendizaje.
-                Adicionalmente, están disponibles en el momento en el que los quieras consultar, con lo que <i class="keyWord">se pretende
-                facilitar el aprendizaje autónomo.</i>
+                <i class="keyWord">El uso de este RDD de la unidad 1: la empresa y su entorno </i>, te permitirá <i class="keyWord">estudiar los contenidos</i> en la secuencia indicada en el programa de estudios de <i class="keyWord">la Unidad de aprendizaje Finanzas empresariales</i>. Para abordar dicha unidad temática se requieren seis horas de teoría y dos horas de <i class="keyWord">aprendizaje autónomo</i>. 
+                Este RDD se construyó como <i class="keyWord">apoyo educativo a las clases presenciales y no presenciales</i>; está disponible en el momento en el que lo quieras consultar adaptándose a tu propio ritmo de aprendizaje con lo que se pretende facilitar el aprendizaje autónomo.
+                
             
                 <blockquote class="clgreyl1 clgreytx textoDinamicoIdentificador textoReadingH2">
-                    Este RDD se construyó como <i class="keyWord">apoyo educativo a las clases presenciales y no presenciales</i>; cuenta con menú en
-                    el que podrás seleccionar alguno de los siguientes botones de navegación: <i class="keyWord">inicio, contenidos, material de apoyo, actividad de aprendizaje, cierre de la unidad temática, evaluación, referencias, contacto, glosario, manual de usuario.</i>
-                    ¿Qué encontrarás al hacer clic en cada uno de los botones antes mencionados?
+                    El menú de navegación está conformado por: <i class="keyWord">contenidos, lectura, actividad de aprendizaje, glosario y referencias</i>. ¿Qué encontrarás al hacer clic en cada uno de los botones antes mencionados?
                 </blockquote>
 
                 <div class="cardDesign clgreyl1 border1 shadow2">
@@ -256,11 +253,11 @@ const contenidosUnidad = [
             <div class="textoTitulo titleContainer clbktx clgreyl2 border1Sup">Persona física</div>
             <div class="cardDesign clgreyl1 border1Inf">
                 <p class="clbktx textoDinamicoIdentificador textoReadingH2">
-                    <i class="keyWord">"Individuo que realiza cualquier actividad económica (vendedor, comerciante, empleado, profesionista, etc.),</i> el cual tiene derechos y obligaciones (SAT, s.f).
+                    <i class="keyWord">"Individuo que realiza cualquier actividad económica (vendedor, comerciante, empleado, profesionista, etc.),</i> el cual tiene derechos y obligaciones" (SAT, s.f).
                 </p>
 
                 <blockquote class="clgreyl1 clgreytx textoDinamicoIdentificador textoReadingH2">
-                    En el siguiente link conoce las actividades que como persona física se pueden realizar":
+                    En el siguiente link conoce las actividades que como persona física se pueden realizar:
                 </blockquote>
 
                 <a href="https://www.sat.gob.mx/personas" target="_blank">
@@ -382,7 +379,7 @@ const contenidosUnidad = [
         A partir de este momento, por ser el tema central de este recurso didáctico digital, <i class="keyWord">solo nos enfocaremos en el área financiera la cual se lleva a cabo mediante dos actividades importantes: Tesorería y Contraloría.</i>
         </p><br>
         <div class="shadow2 border1 clgreyl1">
-            <div class="textoTitulo titleContainer clbktx clgreyl2 border1Sup">Tesorería:</div>
+            <div class="textoTitulo titleContainer clbktx clgreyl2 border1Sup">Tesorería</div>
             <div class="cardDesign clgreyl1 border1Inf">
                 <p class="clbktx textoDinamicoIdentificador textoReadingH2">
                     Se enfoca en el <i class="keyWord">manejo de los recursos financieros.</i>
@@ -391,14 +388,14 @@ const contenidosUnidad = [
         </div>
         <br>
         <div class="shadow2 border1 clgreyl1">
-            <div class="textoTitulo titleContainer clbktx clgreyl2 border1Sup">Contraloría:</div>
+            <div class="textoTitulo titleContainer clbktx clgreyl2 border1Sup">Contraloría</div>
             <div class="cardDesign clgreyl1 border1Inf">
                 <p class="clbktx textoDinamicoIdentificador textoReadingH2">
                     La <i class="keyWord">contraloría es la responsable de la actividad contable, la planeación, los presupuestos y la auditoría interna,</i> mismas que se describen a continuación:
                     <ol class="clbktx textoDinamicoIdentificador textoReadingH2" style="list-style: square;">
                         <li><i class="keyWord">Contabilidad:</i> se encarga del <i class="keyWord">registro, en tiempo y forma, de todas las operaciones realizadas</i> en la organización.</li>
                         <li><i class="keyWord">Presupuestos:</i> <i class="keyWord">planifica, coordina y evalúa todas las actividades en términos financieros, analiza y compara los gastos del presupuesto</i> anterior con el presupuesto vigente, a fin de determinar acciones para el ajuste del presupuesto de la organización.</li>
-                        <li><i class="keyWord">Auditoría:</i> se encarga de <i class="keyWord">revisar, examinar y evaluar los reoltados de la gestión de una dependencia o entidad.</i></li>
+                        <li><i class="keyWord">Auditoría:</i> se encarga de <i class="keyWord">revisar, examinar y evaluar los resultados de la gestión de una dependencia o entidad.</i></li>
                     </ol>
                 </p>
             </div>
