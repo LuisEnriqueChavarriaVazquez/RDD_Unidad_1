@@ -800,9 +800,11 @@ const contenidosUnidad = [
     <p class="textoTitulo clbktx">
     Referencias
     </p>
-    <p style="margin:15px 15px;" class="clbktx textoDinamicoIdentificador textoReadingH2">
+    <p style="margin:15px 15px;" class="book-reference clbktx textoDinamicoIdentificador textoReadingH2"
+        data-image-url="img/referencias/glossary.png" >
         BBVA, (s.f). Glosario.<br>
-        <a target="_blank" href="https://www.bbva.es/finanzas-vistazo/ef/empresas/objeto-social-de-una-empresa.html">https://www.bbva.es/finanzas-vistazo/ef/empresas/objeto-social-de-una-empresa.html</a><br><br>
+        <a target="_blank"
+            href="https://www.bbva.es/finanzas-vistazo/ef/empresas/objeto-social-de-una-empresa.html">https://www.bbva.es/finanzas-vistazo/ef/empresas/objeto-social-de-una-empresa.html</a><br><br>
         
         Código Civil. Recuperado de<br>
         <a  target="_blank" href="http://www.diputados.gob.mx/LeyesBiblio/pdf/2_270320.pdf">http://www.diputados.gob.mx/LeyesBiblio/pdf/2_270320.pdf</a><br><br>
@@ -848,6 +850,7 @@ const contenidosUnidad = [
         
         Servicio de Administración Tributaria [SAT]. Recuperado de<br>
         <a target="_blank" href="https://www.sat.gob.mx/personas">https://www.sat.gob.mx/personas</a>
+
     </p>
 
     <div class="defaultImage">
