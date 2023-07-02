@@ -2,17 +2,21 @@
 
   .book-reference {
     position: relative;
-    left: 95px;
+    left: 230px;
   }
   
   .book-reference .book-cover {
-    display: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
     position: absolute;
     top: 0;
-    left:-90px;
-    width: 80px;
+    left:-230px;
+    width: 200px;
     height: auto;
     padding: 5px;
+    border-radius: 5px;
     background-color: white;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
   }

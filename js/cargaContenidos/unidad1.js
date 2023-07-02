@@ -795,72 +795,7 @@ const contenidosUnidad = [
     </div>
 </div>
 `,
-  `
-<div class="cardDesign clw shadow2 border1">
-    <p class="textoTitulo clbktx">
-    Referencias
-    </p>
-    <p style="margin:15px 15px;" class="book-reference clbktx textoDinamicoIdentificador textoReadingH2"
-        data-image-url="img/referencias/glossary.png" >
-        BBVA, (s.f). Glosario.<br>
-        <a target="_blank"
-            href="https://www.bbva.es/finanzas-vistazo/ef/empresas/objeto-social-de-una-empresa.html">https://www.bbva.es/finanzas-vistazo/ef/empresas/objeto-social-de-una-empresa.html</a><br><br>
-        
-        Código Civil. Recuperado de<br>
-        <a  target="_blank" href="http://www.diputados.gob.mx/LeyesBiblio/pdf/2_270320.pdf">http://www.diputados.gob.mx/LeyesBiblio/pdf/2_270320.pdf</a><br><br>
-        
-        De Pina, R. y de Pina Vara, R. (2005). <i>Diccionario de Derecho.</i> Porrúa.<br><br>
-        
-        Diario Oficial de la Federación del 30 de diciembre de 2016. Recuperado de<br>
-        <a  target="_blank" href="http://www.dof.gob.mx/nota_detalle.php?codigo=5468221&fecha=30/12/2016">http://www.dof.gob.mx/nota_detalle.php?codigo=5468221&fecha=30/12/2016</a><br><br>
-        
-        García, V. (2014). <i>Introducción a las finanzas.</i> Grupo Editorial Patria.<br><br>
-        
-        Gitman, L. y Zutter, C. (2012). <i>Principios de administración financiera.</i> Pearson Educación.<br><br>
-        
-        González, J. (2009). <i>Manual de fórmulas financieras.</i> Alfaomega.<br><br>
-        
-        Graue, A. (2009). <i>Fundamentos de Economía.</i> Pearson.<br><br>
-        
-        Haime, L. (2008). <i>Planeación financiera en la empresa moderna.</i> ISEF.<br><br>
-        
-        Kotler, P. y Armstrong, G. (2013). <i>Fundamentos de marketing.</i> PEARSON.<br>
-        <a target="_blank" href="https://frrq.cvg.utn.edu.ar/pluginfile.php/14584/mod_resource/content/1/Fundamentos%20del%20Marketing-Kotler.pdf">https://frrq.cvg.utn.edu.ar/pluginfile.php/14584/mod_resource/content/1/Fundamentos%20del%20Marketing-Kotler.pdf</a><br><br>
-        
-        Ley General de Sociedades Cooperativas. Recuperado de<br>
-        <a  target="_blank" href="http://www.diputados.gob.mx/LeyesBiblio/pdf/143_190118.pdf">http://www.diputados.gob.mx/LeyesBiblio/pdf/143_190118.pdf</a><br><br>
-        
-        Ley General de Sociedades Mercantiles. Recuperado de<br>
-        <a target="_blank" href="http://www.diputados.gob.mx/LeyesBiblio/pdf/144_140618.pdf">http://www.diputados.gob.mx/LeyesBiblio/pdf/144_140618.pdf</a><br><br>
-        
-        Martínez, R. (2007). <i>Diccionario jurídico moderno.</i> Tomo 1 (A-F). IURE editores.<br><br>
-        
-        Münch, L. y García, J. (2017). <i>Fundamentos de administración.</i> Trillas.<br><br>
-        
-        Münch, L. (2018). Plan de negocio. Trillas.<br><br>
-        
-        Nacional Financiera, S.N.C. Qué tipo de SOCIEDAD MERCANTIL me conviene según mi actividad. Recuperado de<br>
-        <a  target="_blank" href="https://docplayer.es/461307-Que-tipo-de-nacional-financiera-s-n-c-sociedad-mercantil-me-conviene-segun-mi-actividad.html">https://docplayer.es/461307-Que-tipo-de-nacional-financiera-s-n-c-sociedad-mercantil-me-conviene-segun-mi-actividad.html</a><br><br>
-        
-        Pfeffer, J. (1997). <i>Nuevos rumbos en la teoría de la organización.</i> Oxford University Press.<br><br>
-        
-        Quintana, E. (2001). <i>Diccionario de derecho mercantil.</i> Porrúa.<br><br>
-        
-        Rodríguez, A., Díaz, F., Fuertes, F., Martín, M., Montalbán, M., Sánchez, E. y Zarco, V. (2014). <i>Psicología de las organizaciones.</i> UOC.<br><br>
-        
-        Servicio de Administración Tributaria [SAT]. Recuperado de<br>
-        <a target="_blank" href="https://www.sat.gob.mx/personas">https://www.sat.gob.mx/personas</a>
-
-    </p>
-
-    <div class="defaultImage">
-        <div class="defaultImageContent" id="fuentes"></div>
-    </div>
-    <span class="referenciaIcono clgreyl1 border1 clbktx">Retomado de Pixeltrue proveniente de &nbsp; 
-    <a href="https://icons8.com/illustrations/illustration/pixeltrue-newsletter">Ouch!</a>
-    </span>
-
-</div>`,
+  `11 (referencias)`,
   `12
 `,
 ];
