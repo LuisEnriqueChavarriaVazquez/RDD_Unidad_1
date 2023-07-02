@@ -1,5 +1,4 @@
   /* Para mostrar la portada de los libros */
-
   .book-reference {
     position: relative;
     left: 230px;
@@ -13,7 +12,7 @@
     position: absolute;
     top: 0;
     left:-230px;
-    width: 200px;
+    width: 210px;
     height: auto;
     padding: 5px;
     border-radius: 5px;
@@ -23,4 +22,26 @@
   
   .book-reference:hover .book-cover {
     display: block;
+  }
+
+  @media (max-width: 1500px) {
+    .book-reference {
+      left: 120px;
+    }
+    
+    .book-reference .book-cover {
+      left:-120px;
+      width: 110px;
+    }
+  }
+
+  @media (max-width: 600px) {
+    .book-reference {
+      left: 0;
+      width: 100%;
+    }
+    
+    .book-reference .book-cover {
+      display: none;
+    }
   }
