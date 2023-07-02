@@ -42,6 +42,9 @@
     }
     
     .book-reference .book-cover {
-      display: none;
+      left: 0px;
+      top: 0px;
+      width: 150px;
+      z-index: 1000;
     }
   }
