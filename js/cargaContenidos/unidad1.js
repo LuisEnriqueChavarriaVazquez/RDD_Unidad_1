@@ -3,7 +3,7 @@ const contenidosUnidad = [
 <!--Menu para los contenidos en tiempo real-->
 <div class="mainTabsContent" id="tabsContentID">
     <ul id="tabs-swipe-demo" class="tabs clgreyl2 shadow4">
-        <li class="tab clgreyl2" id="a6tutorialButton"><a class="clbktx" href="#test-swipe-1">Bienvenida</a></li>
+        <li class="tab clgreyl2" id="a6tutorialButton"><a class="clbktx active" href="#test-swipe-1">Bienvenida</a></li>
         <li class="tab clgreyl2" id="a8tutorialButton"><a class="clbktx" href="#test-swipe-3">Metodología</a>
         <li class="tab clgreyl2" id="a7tutorialButton"><a class="clbktx" href="#test-swipe-2">Unidad de competencia</a></li>
         </li>

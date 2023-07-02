@@ -13,6 +13,10 @@ let buttonContentForImageMobile = document.getElementsByClassName("mobileOptions
 buttonContentForImage.addEventListener('click', () => {
     setTimeout(() => {
         $('.materialboxed').materialbox();
+
+        //Reactivamos los tabs y ajustamos tamaño cuando se actualiza el contenido
+        $('.tabs').tabs();
+        ajustarTamanoTabs();
     }, 10);
 });
 
@@ -21,6 +25,10 @@ for(var i = 0; i <= buttonContentForImageMobile.length; i++){
     buttonContentForImageMobile[i].addEventListener('click', () => {
         setTimeout(() => {
             $('.materialboxed').materialbox();
+
+            //Reactivamos los tabs y ajustamos tamaño cuando se actualiza el contenido
+            $('.tabs').tabs();
+            ajustarTamanoTabs();
         }, 10);
     });
 }
