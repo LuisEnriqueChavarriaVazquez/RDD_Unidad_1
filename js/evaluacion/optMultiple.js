@@ -1,29 +1,24 @@
 function pregunta(numero) {
     //Respuestas para las preguntas
-    let respuestasId = [0, "pregunta1_opt3"
-        , "pregunta2_opt1", "pregunta3_opt3"
-        , "pregunta4_opt1", "pregunta5_opt2"
-        , "pregunta6_opt2", "pregunta7_opt3"
-        , "pregunta8_opt2", "pregunta9_opt2"
-        , "pregunta10_opt1", "pregunta11_opt1"
-        , "pregunta12_opt1", "pregunta13_opt2"
-        , "pregunta14_opt3", "pregunta15_opt3"
-        , "pregunta16_opt3", "pregunta17_opt2"
-        , "pregunta18_opt1", "pregunta19_opt2"
-        , "pregunta20_opt3"];
+    let respuestasId = [0, "pregunta1_opt2"
+        , "pregunta2_opt3", "pregunta3_opt1"
+        , "pregunta4_opt3", "pregunta5_opt2"
+        , "pregunta6_opt2", "pregunta7_opt1"
+        , "pregunta8_opt1", "pregunta9_opt3"
+        , "pregunta10_opt3",];
 
     //Explicaciones de las preguntas
-    let respuestasExplicacion = [0, "Valor del dinero en el tiempo"
-        , "Valor presente", "Valor del dinero en el tiempo"
-        , "Flujos de efectivo", "Anualidad"
-        , "Interés compuesto", "Principal"
-        , "$121,665", "Capitalizarla trimestralmente"
-        , "Es falso", "Ordinarias, vencidas o diferidas"
-        , "Programa de amortización", "Periodo de Recuperación de la inversión"
-        , "Tasa Interna de Rendimiento (TIR)", "índice de rentabilidad  (IR)"
-        , "Relación beneficio-costo", "Hay utilidad"
-        , "25,454", "TIR mayor que TMAR"
-        , "VAN o VPN"];
+    let respuestasExplicacion = [0, ["Recuerda que en la Sociedad Cooperativa cada socio goza de un voto sin importar el monto de su aportación; sin embargo, en la Sociedad Anónima cada acción tiene derecho a un voto, pero cada socio puede tener más de una acción.","En efecto, en la Asociación Civil, en la Sociedad Civil y en la Sociedad Cooperativa cada socio goza de un voto, sin importar el monto de su aportación.","Recuerda que en la Asociación civil cada socio goza de un voto sin importar el monto de su aportación; sin embargo, en la Sociedad de Responsabilidad Limitada por cada mil pesos o el múltiplo de esta cantidad, que se hubiere determinado, se tiene derecho a un voto."]
+        , ["Recuerda que en la Sociedad Civil la toma de decisiones no está en función del capital aportado; en cambio, en la Sociedad de Responsabilidad Limitada la toma de decisiones sí está en función del capital aportado.","Recuerda que tanto en la Asociación Civil como en la Sociedad Civil la toma de decisiones no está en función del capital aportado.","Tu respuesta es correcta, en la Sociedad de Responsabilidad Limitada (S. de R.L) y en la Sociedad Anónima (S.A) la toma de decisiones está en función del capital aportado."]
+        , ["Tu respuesta es correcta, en efecto las sociedades que no tributan son la Asociación Civil siempre y cuando su finalidad no sea económica y la Sociedad Cooperativa cuando es de consumo.","Las Asociaciones Civiles que tienen una finalidad económica sí tributan. De igual manera las Sociedades Cooperativas que no sean de consumo también pagan impuestos.","Recuerda que tanto la Sociedad Anónima (S.A) como las Sociedad por Acciones Simplificada (S.A.S) sí tributan, es decir están obligadas a pagar impuestos."]
+        , ["Para constituir una Asociación Civil se requiere solicitar acta constitutiva ante notario público.","Para constituir una Sociedad Civil se requiere solicitar acta constitutiva ante notario público.","En efecto, para constituir una S.A.S no se requiere solicitar acta constitutiva, dicha sociedad se constituye bajo los estatutos de la Secretaría de Economía mediante el sistema electrónico de constitución."]
+        , ["Las reformas en el esquema laboral se incluyen dentro de los factores político-legales y estos pertenecen al macroentorno o macroambiente.","Tu respuesta es correcta, las reformas en materia laboral se incluyen dentro de los factores político-legales y estos pertenecen al macroentorno o macroambiente.",""]
+        , ["Recuerda que una persona moral es el conjunto de personas físicas, que se unen para la realización de un fin colectivo, a quien la ley otorga capacidad jurídica para tener derechos y obligaciones.","Tu respuesta es correcta, de acuerdo con el S.A.T una persona física es el individuo que realiza cualquier actividad económica (vendedor, comerciante, empleado, profesionista, etc.), el cual tiene derechos y obligaciones.",""]
+        , ["Tu respuesta es correcta, a la obtención de recursos mediante diferentes fuentes se le conoce como financiamiento.","Recuerda que las actividades de inversión están dirigidas a incrementar el capital de los accionistas e inversionistas y las de financiamiento a la obtención de recursos mediante diferentes fuentes.","Actividades empresariales es un término que podría abarcar múltiples actividades; la obtención de recursos mediante diferentes fuentes se refiere específicamente a actividades de financiamiento."]
+        , ["Tu respuesta es correcta, la compra de maquinaria y equipo, la compra o ampliación de una planta productiva y las mejoras en el proceso productivo, entre otras, son consideradas actividades de inversión.","Recuerda que las actividades de financiamiento están encaminadas a la obtención de recursos provenientes de una o varias fuentes; en cambio las actividades de inversión van dirigidas a incrementar el capital de los accionistas e inversionistas.",""]
+        , ["Los factores político-legales, económicos y medio ambientales son factores del macroambiente o macroentorno.","Los factores demográficos, tecnológicos y socio-culturales son parte del macroambiente o macroentorno.","Tu respuesta es correcta, los proveedores, clientes, comunidad y alcaldías o municipios son factores del microambeinte o microentorno."]
+        , ["La planeación y el control son dos de las fases del proceso administrativo; en cambio, la inversión y el financiamiento son dos de las funciones o actividades principales de las finanzas.","La planeación y la organización son dos de las fases del proceso administrativo; en cambio; la inversión y el financiamiento son dos de las funciones o actividades principales de las finanzas.","Tu respuesta es correcta, la inversión y el financiamiento son dos de las funciones o actividades principales de las finanzas."]
+        , ];
 
     let respuestaCorrectaId = respuestasId[numero]
     let contenedor = document.getElementById("pregunta" + String(numero))
@@ -37,17 +32,30 @@ function pregunta(numero) {
     let contenedorPrincipalOPTMULTIPLE = document.getElementById(`pregunta${numero}`);
     contenedorPrincipalOPTMULTIPLE.setAttribute('resultadoFinal',`${respuestaAlumnoContent.value}`)
 
+    //Para la asignacion de la retroalimentación correspondiente
+    const regex=/pregunta(\d+)_opt(\d+)/;
+    var matches = respuestaAlumnoId.match(regex)
+
+    console.log(respuestaAlumnoId)
+    if (matches){
+        var num_pregunta=matches[1];
+        var num_retro=matches[2]-1;
+        console.log(respuestasExplicacion[num_pregunta])
+        console.log(respuestasExplicacion[num_pregunta][num_retro])
+    }else{
+        console.log("Formato incorrecto")
+    }
+
     //Evaluacion de las preguntas
-    //console.log(respuestaAlumnoId)
     if (respuestaCorrectaId == respuestaAlumnoId) {
-        retroalimentacion.innerHTML = `<span class="estadoPreguntaAzar">Correcto</span>` + ", la respuesta es: " + `&nbsp;<span class="respuestaCorrectaPreguntaAzar">${respuestasExplicacion[numero]}</span>`;
+        retroalimentacion.innerHTML = `<span class="estadoPreguntaAzar">Correcto: </span>` + `&nbsp;<span class="respuestaCorrectaPreguntaAzar">${respuestasExplicacion[num_pregunta][num_retro]}</span>`;
         retroalimentacion.classList.add('mensajeCorrecta');
 
         //IMPORTANTE... Estas variables estan en el archivo de puntajeActual.js
         puntajeTotal++;
         preguntasContestadasTotal++;
     } else {
-        retroalimentacion.innerHTML = `<span class="estadoPreguntaAzar">Incorrecto</span>` +", la respuesta es: " + `&nbsp;<span class="respuestaCorrectaPreguntaAzar">${respuestasExplicacion[numero]}</span>`;
+        retroalimentacion.innerHTML = `<span class="estadoPreguntaAzar">Incorrecto: </span>`  + `&nbsp;<span class="respuestaCorrectaPreguntaAzar">${respuestasExplicacion[num_pregunta][num_retro]}</span>`;
         retroalimentacion.classList.add('mensajeIncorrecta');
 
         //IMPORTANTE... Estas variables estan en el archivo de puntajeActual.js
