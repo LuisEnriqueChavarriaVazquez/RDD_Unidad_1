@@ -74,20 +74,20 @@ function collectAnswers(definicion, concepto, numeroPregunta, idPregunta){
 let questionsDragAndDrop = [
   [
     {
-        concepto: "Concepto 1.1",
-        definicion: "Lorem ipsum dolorignissimos. Minus molestias idofficia ipsum corrupti impedit.",
+        concepto: "Tesorería",
+        definicion: "Área de la empresa que se enfoca en el manejo de los recursos financieros",
     },
     {
-        concepto: "Concepto 1.2",
-        definicion: "Ullam dignissimos. Minus molestias idofficia ipsum corrupti impedit. ullam dignissimos. Minus molestias.",
+        concepto: "Contraloría",
+        definicion: "Área de la empresa responsable de la actividad contable, la planeación, presupuestos, auditoría interna, entre otras",
     },
     {
-        concepto: "Concepto 1.3",
-        definicion: "Illum quos perspiciatis, voluptatum veritatis error nihil laboriosam earum voluptatem aliquid, facilis consequatur.",
+        concepto: "Finanzas",
+        definicion: "Área de una empresa que tiene como funciones obtener y dirigir la asignación eficiente de fondos dentro de la organización",
     },
     {
-        concepto: "Concepto 1.4",
-        definicion: "Ameconsectetur aliquam dignissimos porro explicabo.",
+      concepto: "Proveedores",
+      definicion: "De acuerdo con las NIF es el nombre que reciben las entidades que venden a las empresas bienes (materia prima, equipo de cómputo, mobiliario y equipo de oficina) o prestan servicios (de internet, de mantenimiento y de servicios de facturación electrónica, entre otros)",
     },
     {
       id: "0"
@@ -95,88 +95,27 @@ let questionsDragAndDrop = [
   ],
   [
     {
-        concepto: "Concepto 2.1",
-        definicion: "Lorem ipsum dolor sit amet consect offcorrupti impedit.",
+      concepto: "Concepto 2.1",
+      definicion: "Lorem ipsum dolor sit amet consect offcorrupti impedit.",
     },
     {
-        concepto: "Concepto 2.2",
-        definicion: "Ullam dignissimos. Minus molestias idoffi Minus molestias.",
+      concepto: "Concepto 2.2",
+      definicion: "Ullam dignissimos. Minus molestias idoffi Minus molestias.",
     },
     {
-        concepto: "Concepto 2.3",
-        definicion: "Illum quos perspiciatis, voluptatum vertem aliquid, facilis consequatur.",
+      concepto: "Concepto 2.3",
+      definicion: "Ullam dignissimos. Minus molestias idoffi Minus molestias.",
     },
     {
-        concepto: "Concepto 2.4",
-        definicion: "Ameconsectetur aliquam dignissimos porro explicabo.",
+      concepto: "Concepto 2.4",
+      definicion: "Ullam dignissimos. Minus molestias idoffi Minus molestias.",
     },
+
     {
       id: "1"
     }
   ],
-  [
-    {
-        concepto: "Concepto 3.1",
-        definicion: "Lorem ipsum dolor sit amet consect sdm,dsmsdm sd,msd,msd, offcorrupti impedit.",
-    },
-    {
-        concepto: "Concepto 3.2",
-        definicion: "Ullam dignissimos. Minus molestias idoffi Minus molestias.",
-    },
-    {
-        concepto: "Concepto 3.3",
-        definicion: "Illum quos perspiciatis, voluptatum vertem aliquid, facilis consequatur.",
-    },
-    {
-        concepto: "Concepto 3.4",
-        definicion: "Ameconsectetur aliquam dignissimos porro explicabo.",
-    },
-    {
-      id: "2"
-    }
-  ],
-  [
-    {
-        concepto: "Concepto 4.1",
-        definicion: "Lorem ipsum dolor sit amet consect offcorrupti impedit.",
-    },
-    {
-        concepto: "Concepto 4.2",
-        definicion: "Ullam dignissimos. Minus molestias idoffi Minus molestias.",
-    },
-    {
-        concepto: "Concepto 4.3",
-        definicion: "Illum quos perspiciatis, voluptatum vertem aliquid, facilis consequatur.",
-    },
-    {
-        concepto: "Concepto 4.4",
-        definicion: "Ameconsectetur aliquam dignissimos porro explicabo.",
-    },
-    {
-      id: "3"
-    }
-  ],
-  [
-    {
-        concepto: "Concepto 5.1",
-        definicion: "Lorem ipsum dolor sit amet consect offcorrupti impedit.",
-    },
-    {
-        concepto: "Concepto 5.2",
-        definicion: "Ullam dignissimos. Minus molestias idoffi Minus molestias.",
-    },
-    {
-        concepto: "Concepto 5.3",
-        definicion: "Illum quos perspiciatis, voluptatum vertem aliquid, facilis consequatur.",
-    },
-    {
-        concepto: "Concepto 5.4",
-        definicion: "Ameconsectetur aliquam dignissimos porro explicabo.",
-    },
-    {
-      id: "4"
-    }
-  ]
+
 ];
 
 //Mezclamos el array de opciones

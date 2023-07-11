@@ -1,38 +1,22 @@
 let questionsTF = [
     {
-        enunciado: "Enunciado de pregunta True/False 0",
+        enunciado: "Toda empresa es una organización",
         respuesta: "V",
     },
     {
-        enunciado: "Enunciado de pregunta True/False 1",
+        enunciado: "Toda organización es una empresa",
         respuesta: "F",
     },
     {
-        enunciado: "Enunciado de pregunta True/False 2",
-        respuesta: "V",
-    },
-    {
-        enunciado: "Enunciado de pregunta True/False 3",
+        enunciado: "Las personas morales tienen una realidad material o corporal como las personas físicas",
         respuesta: "F",
     },
     {
-        enunciado: "Enunciado de pregunta True/False 4",
-        respuesta: "V",
-    },
-    {
-        enunciado: "Enunciado de pregunta True/False 5",
+        enunciado: "Las empresas no necesitan constituirse de acuerdo con la legislación vigente",
         respuesta: "F",
     },
     {
-        enunciado: "Enunciado de pregunta True/False 6",
-        respuesta: "V",
-    },
-    {
-        enunciado: "Enunciado de pregunta True/False 7",
-        respuesta: "F",
-    },
-    {
-        enunciado: "Enunciado de pregunta True/False 8",
+        enunciado: "Las finanzas están relacionadas con el conjunto de actividades encaminadas al uso y administración del dinero",
         respuesta: "V",
     },
 ];

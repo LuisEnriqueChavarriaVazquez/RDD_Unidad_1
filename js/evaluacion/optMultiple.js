@@ -93,85 +93,45 @@ const preguntas_aleatorias_indices = [0]
 const preguntas = [
     0,
     {
-        "enunciado": "Técnica que parte de la premisa de que el dinero actual tiene un valor mayor que el que se recibirá en una fecha futura",
-        "opciones": ['Valor presente', 'Valor futuro', 'Valor del dinero en el tiempo'],
+        "enunciado": "Sociedades en las que cada socio goza de un voto, sin importar el monto de su aportación",
+        "opciones": ['Sociedad Cooperativa y Sociedad Anónima', 'Asociación Civil, Sociedad Civil y Sociedad Cooperativa', 'Sociedad de Responsabilidad Limitada y Asociación Civil'],
     },
     {
-        "enunciado": "Técnica que utiliza una tasa de descuento",
-        "opciones": ['Valor presente', 'Valor futuro', 'Valor del dinero en el tiempo'],
+        "enunciado": "Sociedades en las que el rumbo de la empresa (toma de decisiones) será definido en función del capital aportado",
+        "opciones": ['Sociedad Civil (S.C) y Sociedad de Responsabilidad Limitada (S. de R.L)', 'Asociación Civil (A.C) y Sociedad Civil (S.C)', 'Sociedad de Responsabilidad Limitada (S. de R.L) y Sociedad Anónima (S.A)'],
     },
     {
-        "enunciado": "Utiliza la capitalización para encontrar el valor de cada flujo de efectivo al final de la vida de la inversión",
-        "opciones": ['Valor presente', 'Valor futuro', 'Valor del dinero en el tiempo'],
+        "enunciado": "Son sociedades que no tributan",
+        "opciones": ['Asociación Civil (A.C) sin finalidad económica y Sociedad Cooperativa de consumo', 'Todas las asociaciones civiles y las sociedades cooperativas', 'La Sociedad Anónima (S.A)  y la Sociedad por Acciones Simplificada (S.A.S)'],
     },
     {
-        "enunciado": "El valor presente y el valor futuro se determinan a partir de:",
-        "opciones": ['Flujos de efectivo','Ingresos', 'Egresos'],
+        "enunciado": "Sociedad que no requiere solicitar acta constitutiva ante un fedatario público y se constituye bajo los estatutos de la Secretaría de Economía mediante el sistema electrónico de constitución",
+        "opciones": ['Asociación Civil (A.C)','Sociedad Civil', 'Sociedad por Acciones Simplificada (S.A.S)'],
     },
     {
-        "enunciado": "Se denomina así a los importes iguales que se repiten durante un periodo determinado de tiempo",
-        "opciones": ['Cantidad única', 'Anualidad', 'Principal o capital'],
+        "enunciado": "En 2021 hubo una reforma, en el esquema laboral, que prohíbe la subcontratación de personal (outsourcing). Dicha reforma, se considera un factor del:",
+        "opciones": ['Microentorno o microambiente', 'Macroentorno o macroambiente', 'Macroentorno o microambiente'],
     },
     {
-        "enunciado": "Interés que se gana en un depósito dado y que se vuelve parte del principal al final de un periodo específico",
-        "opciones": ['Interés simple', 'Interés compuesto', 'Interés intermedio'],
+        "enunciado": "De acuerdo con el SAT es el Individuo con capacidad para contraer obligaciones y ejercer derechos; puede prestar servicios, realizar actividades comerciales, arrendar bienes inmuebles y trabajar por salarios",
+        "opciones": ['Persona moral', 'Persona física', 'Empleador y empleado'],
     },
     {
-        "enunciado": "Nombre técnico que recibe la cantidad de dinero sobre la que se pagan intereses",
-        "opciones": ['Depósito', 'Inversión', 'Principal'],
+        "enunciado": "Corresponde a la obtención de recursos mediante diferentes fuentes; por ejemplo: compras a crédito, préstamos de la banca de primer piso, préstamos de la banca se segundo piso, préstamo de los socios, crowdfunding, entre otras",
+        "opciones": ['Actividades de financiamiento', 'Actividades de inversión', 'Actividades empresariales'],
     },
     {
-        "enunciado": "Supongamos que el día de hoy realizas un depósito de $100,000 en una cuenta bancaria que te dará un interés anual del 4%. Al cabo de 5 años ¿Cuánto dinero recibirás aproximadamente?",
-        "opciones": ['$150,000', '$121,665', '$122,000'],
+        "enunciado": "La compra de maquinaria y equipo, la compra o ampliación de una planta productiva y las mejoras en el proceso productivo, son consideradas:",
+        "opciones": ['Actividades de inversión', 'Actividades de financiamiento ', 'Actividades empresariales'],
     },
     {
-        "enunciado": "En el supuesto de que tengas una inversión ¿Cuál de las siguientes opciones te conviene más?",
-        "opciones": ['Capitalizarla anualmente', 'Capitalizarla trimestralmente', 'Capitalizarla semestralmente'],
+        "enunciado": "Son considerados elementos del microambiente o microentorno",
+        "opciones": ['Factores político-legales, económicos, medio ambientales', 'Demográficos, tecnológicos y socio-culturales', 'Proveedores, clientes, comunidad, alcaldías o municipios'],
     },
     {
-        "enunciado": "Entre más largo sea el período de capitalización de una inversión se ganan más rendimientos",
-        "opciones": ['Es falso', 'Es verdadero', 'Depende de la tasa de interés'],
+        "enunciado": "Son consideradas como las dos funciones o actividades principales de las finanzas",
+        "opciones": ['Planeación y control', 'Planeación y organización', 'Inversión y financiamiento'],
     },
-    {
-        "enunciado": "Este tipo de anualidades son las más comunes en finanzas",
-        "opciones": ['Ordinarias, vencidas o diferidas', 'Anticipadas', 'Amortizables'],
-    },
-    {
-        "enunciado": "Muestra en forma precisa cómo será pagado un préstamo, determina el pago requerido en cada fecha y especifica qué cantidad se está pagando de intereses y qué cantidad se paga a principal",
-        "opciones": ['Programa de amortización','Programa de anualidades', 'Cálculo de anualidades'],
-    },
-    {
-        "enunciado": "Método que también se puede calcular sin tomar en cuenta el valor del dinero en el tiempo",
-        "opciones": ['Tasa Interna de Rendimiento ', 'Periodo de Recuperación de la inversión', 'Valor Presente Neto (VPN)'],
-    },
-    {
-        "enunciado": "Es una tasa de descuento que hace posible igualar el valor presente de los ingresos con el valor presente de los egresos",
-        "opciones": ['Valor Presente Neto (VPN)', 'Periodo de recuperación', 'Tasa Interna de Rendimiento (TIR)'],
-    },
-    {
-        "enunciado": "Se obtiene dividiendo el valor presente de los flujos netos de efectivo entre la inversión inicial del proyecto",
-        "opciones": ['Tasa Promedio de Rentabilidad (TPR)', 'Relación Ventas sobre Utilidad (RVU)', 'Índice de Rentabilidad  (IR)'],
-    },
-    {
-        "enunciado": "Se obtiene dividiendo el valor presente de los beneficios (ingresos) entre el valor presente de los costos",
-        "opciones": ['Relación ventas sobre utilidad (RVU)', 'Rentabilidad sobre la inversión inicial (RSI)', 'Relación beneficio-costo'],
-    },
-    {
-        "enunciado": "Si la suma de ingresos actualizados es de $748,710 y la suma de egresos actualizados es de $722,604 ¿Cuál es la relación beneficio-costo?",
-        "opciones": ['Hay equilibrio operativo', 'Hay utilidad', 'Hay pérdida'],
-    },
-    {
-        "enunciado": "Por una inversión al cabo de un año recibirás 28,000 pesos; considerando una tasa de descuento del 10% ¿Cuánto dinero tendrás que invertir?",
-        "opciones": ['25,454','25,250', '24,330'],
-    },
-    {
-        "enunciado": "Condición en la que se podría aceptar un proyecto de inversión",
-        "opciones": ['TIR=TMAR','TIR mayor que TMAR','TIR menor que TMAR'],
-    },
-    {
-        "enunciado": "Se puede definir como el valor monetario que resulta de restar la suma de los flujos descontados (flujos de efectivo del proyecto a valor presente) a la inversión inicial",
-        "opciones": ['TMAR','TIR','VAN o VPN']
-    }
 ];
 
 function preguntas_aleatorias() {
