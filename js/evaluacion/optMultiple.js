@@ -36,12 +36,9 @@ function pregunta(numero) {
     const regex=/pregunta(\d+)_opt(\d+)/;
     var matches = respuestaAlumnoId.match(regex)
 
-    console.log(respuestaAlumnoId)
     if (matches){
         var num_pregunta=matches[1];
         var num_retro=matches[2]-1;
-        console.log(respuestasExplicacion[num_pregunta])
-        console.log(respuestasExplicacion[num_pregunta][num_retro])
     }else{
         console.log("Formato incorrecto")
     }
