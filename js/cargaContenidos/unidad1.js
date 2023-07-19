@@ -63,31 +63,40 @@ const contenidosUnidad = [
         <div class="textoTitulo titleContainer white-text cl2 border1Sup">Metodología</div>
         <div class="cardDesign clw border1Inf">
             <p class="clbktx textoDinamicoIdentificador textoReadingH2">
-                <i class="keyWord">El uso de este RDD de la unidad 1: la empresa y su entorno </i>, te permitirá <i class="keyWord">estudiar los contenidos</i> en la secuencia indicada en el programa de estudios de <i class="keyWord">la Unidad de aprendizaje Finanzas empresariales</i>. Para abordar dicha unidad temática se requieren seis horas de teoría y dos horas de <i class="keyWord">aprendizaje autónomo</i>. 
-                Este RDD se construyó como <i class="keyWord">apoyo educativo a las clases presenciales y no presenciales</i>; está disponible en el momento en el que lo quieras consultar adaptándose a tu propio ritmo de aprendizaje con lo que se pretende facilitar el aprendizaje autónomo.
+                <i class="keyWord">El uso de este RDD de la unidad 1: la empresa y su entorno</i>, te permitirá <i class="keyWord">estudiar los contenidos</i> en la secuencia indicada en el programa de estudios de <i class="keyWord">la Unidad de aprendizaje Finanzas empresariales</i>. Para abordar dicha unidad temática se requieren seis horas de teoría y dos horas de <i class="keyWord">aprendizaje autónomo</i>. 
+                Este RDD se construyó como <i class="keyWord">apoyo educativo a las clases presenciales y no presenciales</i>; está disponible en el momento en el que lo requieras consultar, adaptándose a tu propio ritmo de aprendizaje con lo que se pretende facilitar el aprendizaje autónomo.
                 
             
                 <blockquote class="clgreyl1 clgreytx textoDinamicoIdentificador textoReadingH2">
-                    El menú de navegación está conformado por: <i class="keyWord">contenidos, lectura, actividad de aprendizaje, glosario y referencias</i>. ¿Qué encontrarás al hacer clic en cada uno de los botones antes mencionados?
+                    El menú de navegación está conformado por: <i class="keyWord">inicio, manual de usuario, contenidos, glosario, material de apoyo, actividades de aprendizaje, evaluación, cierre de la unidad temática, referencias y contacto</i>. ¿Qué encontrarás al hacer clic en cada uno de los botones antes mencionados?
                 </blockquote>
 
                 <div class="cardDesign clgreyl1 border1 shadow2">
+                    <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b class="clgreyl3 subTitleCard">⚫ Inicio.</b> Aquí encontrarás el encuadre del curso conformado por la bienvenida, la metodología de trabajo, la unidad de competencia que desarrollarás, la evaluación de los aprendizajes y los requerimientos para acceder y hacer uso de este recurso didáctico digital (RDD).</p>
+                    
+                    <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b class="clgreyl3 subTitleCard">⚫ Manual de usuario.</b> Al dar clic en este botón podrás visualizar o bien descargar el manual de usuario que te guiará en el uso de este recurso didáctico digital.</p>
+
                     <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b class="clgreyl3 subTitleCard">⚫ Contenidos.</b> En este apartado encontrarás los fundamentos teóricos y algunas figuras alusivas al tema tratado.</p>
-                        
+                    
+                    <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b class="clgreyl3 subTitleCard">⚫ Glosario.</b> Esta parte del menú encontrarás el significado de algunos términos debidamente referenciados que
+                        te facilitarán la comprensión del tema.</p>
+
                     <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b class="clgreyl3 subTitleCard">⚫ Material de apoyo.</b> En esta sección podrás leer y descargar una lectura, en la que encontrarás información relevante y
                         de interés sobre las organizaciones y en particular sobre la empresa.</p>
                     
-                    <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b class="clgreyl3 subTitleCard">⚫ Actividad de aprendizaje.</b> En esta parte podrás visualizar y descargar la actividad de aprendizaje que se
-                        realizará en el aula (en el horario de clases); se desarrollará en forma individual o en equipo, se subirá a
-                        la plataforma indicada por el profesor(a) y tendrá valor para la evaluación.</p>
-                        
-                    <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b class="clgreyl3 subTitleCard">⚫ Glosario.</b> Esta parte del menú encontrarás el significado de algunos términos debidamente referenciados que
-                        te facilitarán la comprensión del tema.</p>
+                    <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b class="clgreyl3 subTitleCard">⚫ Actividades de aprendizaje.</b> En esta parte podrás visualizar y descargar las actividades de aprendizaje que se
+                        realizarán en el aula (en el horario de clases); se desarrollarán en forma individual o en equipo, se subirán a
+                        la plataforma indicada por el profesor(a) y tendrán valor para la evaluación.</p>
+                    
+                    <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b class="clgreyl3 subTitleCard">⚫ Evaluación.</b> En este apartado encontrarás reactivos de tres tipos (opción múltiple, falso y verdadero y de arrastrar conceptos); al comprobar tus respuestas podrás visualizar la retroalimentación respectiva. Una vez terminada la evaluación podrás descargar tus resultados en formato PDF, mismo que enviarás a tu profesor(a) por el medio que te indique.</p>
+                    
+                    <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b class="clgreyl3 subTitleCard">⚫ Cierre de la unidad temática.</b> Aquí podrás leer un texto en el que se indica que has concluido con el estudio de los contenidos de la unidad temática 1, enfatizando la importancia que tienen las empresas en nuestra vida cotidiana y finalmente, se hace mención de los temas que abordarás en la unidad temática 2.</p>
                     
                     <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b class="clgreyl3 subTitleCard">⚫ Referencias.</b> En esta opción del menú están enlistadas las fuentes de consulta que se utilizaron para el
-                        desarrollo de la unidad temática.</p>
+                        desarrollo de esta unidad temática.</p>
+                    
+                    <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b class="clgreyl3 subTitleCard">⚫ Contacto.</b> En este último apartado encontrarás los datos de contacto y una breve semblanza  de los coautores de este RDD.</p>
 
-                    <p class="clbktx textoDinamicoIdentificador textoReadingH2"><b class="clgreyl3 subTitleCard">⚫ Evaluación.</b> En este apartado podrá poner a prueba sus conocimientos y descargar sus resultados en formato PDF.</p>
                 </div>
             </p>
 
@@ -108,36 +117,42 @@ const contenidosUnidad = [
         <div class="textoTitulo titleContainer white-text cl2 border1Sup">Evaluación de los aprendizajes</div>
         <div class="cardDesign clw border1Inf">
             <p class="clbktx textoDinamicoIdentificador textoReadingH2">
-                La evaluación de los aprendizajes se llevará a cabo como se muestra en la siguiente tabla:
+                La evaluación de los aprendizajes de esta unidad temática se llevará a cabo como se muestra a continuación:
             </p>
 
             <div class="cardDesign clgreyl2 border1">
                 <table class="striped highlight responsive-table clw border1 shadow2">
-                <thead>
-                    <tr>
-                        <th class="clbktx textoStandarTable">Actividad de aprendizaje</th>
-                        <th class="clbktx textoStandarTable">Evidencia de aprendizaje</th>
-                        <th class="clbktx textoStandarTable">Valor en la evaluación</th>
-                    </tr>
-                </thead>
-        
-                <tbody>
-                    <tr>
-                    <td class="cellCenter textoStandarTable">Actividad 1. La empresa, sus finanzas y su relación con el entorno. </td>
-                    <td class="textoStandarTable">
-                        Reporte que incluya:
-                        <ul class="browser-default">
-                            <li><i class="keyWord">La descripción de la empresa</i>, <i class="keyWord">su constitución jurídica</i> y <i class="keyWord">cómo se clasifica</i> (con base en los criterios de clasificación vistos en clase).</li>
-                            <li><i class="keyWord">La estructura organizacional (organigrama)</i> resaltando y explicando en forma escrita <i class="keyWord">cómo está conformada el área financiera y su relación</i> con las demás áreas de la empresa.</li>
-                            <li><i class="keyWord">Los factores del micro y macroentorno</i> que actualmente están impactando a la empresa o que la impactarán en un futuro <i class="keyWord">(identifícalos y haz una lista).</i></li>
-                            <li><i class="keyWord">La argumentación de cada factor</i> incluido en la lista anterior.</li>
-                            <li>Una <i class="keyWord">conclusión sobre el impacto que tienen los factores del micro y macroentorno</i> en la empresa y en sus finanzas.</li>
-                        </ul>
-
-                    </td>
-                    <td class="cellCenter textoStandarTable">10 puntos</td>
-                    </tr>
-                </tbody>
+                    <thead>
+                        <tr>
+                            <th class="clbktx textoStandarTable">Unidad</th>
+                            <th class="clbktx textoStandarTable">Actividad de aprendizaje</th>
+                            <th class="clbktx textoStandarTable">Evidencia de aprendizaje</th>
+                            <th class="clbktx textoStandarTable">Valor en la evaluación</th>
+                        </tr>
+                    </thead>
+            
+                    <tbody>
+                        <tr>
+                            <td class="cellCenter textoStandarTable" rowspan="4">Unidad 1</td>
+                            <td class="cellCenter textoStandarTable">Actividad 1.1  La empresa y su constitución jurídica</td>
+                            <td class="textoStandarTable">Cuestionario en formato Tangram</td>
+                            <td class="cellCenter textoStandarTable">10 puntos</td>
+                        </tr>
+                        <tr>
+                            <td class="cellCenter textoStandarTable">Actividad 1.2  Las finanzas y su importancia</td>
+                            <td class="textoStandarTable">Infografía</td>
+                            <td class="cellCenter textoStandarTable">10 puntos</td>
+                        </tr>
+                        <tr>
+                            <td class="cellCenter textoStandarTable">Actividad 1.3  La empresa, sus finanzas y su relación con el entorno</td>
+                            <td class="textoStandarTable">Reporte</td>
+                            <td class="cellCenter textoStandarTable">10 puntos</td>
+                        </tr>
+                        <tr>
+                            <td class="cellCenter textoStandarTable" colspan="2">Total</td>
+                            <td class="cellCenter textoStandarTable">30 puntos</td>
+                        </tr>
+                    </tbody>
                 </table>
             </div>
 
@@ -351,6 +366,23 @@ const contenidosUnidad = [
                 </div>
             </div>
         </a>
+        <br>
+        <p class="clbktx textoDinamicoIdentificador textoReadingH2">
+            Una vez que has estudiado los contenidos y leído la lectura anterior, realiza la siguiente actividad de aprendizaje.
+        </p>
+        <br>
+        <a href="" target="_blank">
+            <div class="linkToResourceContainer clw clbktx border1 shadow2">
+                <div class="linkToResourceContainer_title clbktx">Actividad 1.1 La empresa y su constitución jurídica</div>
+                
+                <div class="linkToResourceContainer_icon clgreyl2 clbktx">
+                    <span class="material-icons">
+                        link
+                    </span>
+                </div>
+            </div>
+        </a>
+
 
     </div>
     </div>
@@ -494,7 +526,7 @@ const contenidosUnidad = [
             En la figura 1.3 encontrarás algunas de las principales funciones de las áreas contable y financiera.
         </blockquote>
         <div class="imagenDefaultContainer">
-            <p class="titleImageMine">Figura 1.3: La contabilidad y las finanzas</p>
+            <p class="titleImageMine">Figura 1.3 La contabilidad y las finanzas</p>
             <div class="imageZoomedContainer">
                 <img class="materialboxed shadow2 border3 imageZoomed"
                     data-caption="Contabilidad y finanzas" src="img/1.2-figura-2.png">
@@ -502,8 +534,20 @@ const contenidosUnidad = [
             <p class="noteImageMine clgreyl1 border1">Hernández, J., Rodríguez, E. & Jiménez, Y. (2023).</p>
         </div>
         <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
-        Como se puede apreciar en la figura 1.3 la función contable debe considerarse como un insumo necesario para la función financiera.
-        </p>
+            Como se puede apreciar en la figura 1.3 la función contable debe considerarse como un insumo necesario para la función financiera.<br><br>
+            Después de haber leído el tema, ya cuentas con los conocimientos necesarios para desarrollar la siguiente actividad de aprendizaje:
+        </p><br>
+        <a href="" target="_blank">
+            <div class="linkToResourceContainer clw clbktx border1 shadow2">
+                <div class="linkToResourceContainer_title clbktx">Actividad 1.2 Las finanzas y su importancia</div>
+                
+                <div class="linkToResourceContainer_icon clgreyl2 clbktx">
+                    <span class="material-icons">
+                        link
+                    </span>
+                </div>
+            </div>
+        </a>
     </div>
 </div>`,
   `<div class="shadow4 border1 clw">
@@ -684,12 +728,12 @@ const contenidosUnidad = [
 
         <br>
         <blockquote class="clgreyl1 clgreytx textoDinamicoIdentificador textoReadingH2">
-            Es momento de que realices la siguiente actividad de aprendizaje:
+            Es momento de aplicar lo que has aprendido en esta unidad temática, realiza la siguiente actividad de aprendizaje:
         </blockquote>
 
         <a href="https://drive.google.com/file/d/1mhsrMh21yNE5tgNHkpgEZ_lwDyC7s3uU/view?usp=share_link" target="_blank">
             <div class="linkToResourceContainer clw clbktx border1 shadow2">
-                <div class="linkToResourceContainer_title clbktx">Actividad</div>
+                <div class="linkToResourceContainer_title clbktx">Actividad 1.3 La empresa, sus finanzas y su relación con el entorno</div>
                 
                 <div class="linkToResourceContainer_icon clgreyl2 clbktx">
                     <span class="material-icons">
@@ -783,7 +827,7 @@ const contenidosUnidad = [
         </p>
 
         <blockquote class="clgreyl1 clgreytx textoDinamicoIdentificador textoReadingH2">
-            Recuerda que las empresas son indispensables en nuestras vidas y que constituyen la columna vertebral de la economía. En este sentido, la productividad, la rentabilidad y la competitividad se han convertido en tres de las principales pretensiones de muchas empresas. Para lograr dichas pretensiones se requiere, entre otros aspectos, de la toma de decisiones basadas en información financiera verídica, confiable y oportuna que se verá reflejada en los estados financieros.
+            Recuerda que las empresas son indispensables en nuestras vidas y que constituyen la columna vertebral de la economía. En este sentido, la productividad, la rentabilidad y la competitividad se han convertido en tres de las principales pretensiones de muchas empresas. Para lograr dichas pretensiones se requiere, entre otros aspectos, de la toma de decisiones basadas en información financiera verídica, confiable y oportuna que se verá reflejada en los estados financieros, tema que estudiarás en la unidad temática 2.
         </blockquote>
 
         <div class="defaultImage">
