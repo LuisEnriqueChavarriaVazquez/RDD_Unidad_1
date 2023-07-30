@@ -93,7 +93,7 @@ let questionsDragAndDrop = [
       id: "0"
     }
   ],
-  [
+  [ //Conceptos parafraseados
     {
       concepto: "Ética",
       definicion: "Trata sobre lo que se considera un comportamiento humano correcto, basado en la práctica de valores. En el ámbito financiero, implica que todas las acciones relacionadas con el manejo del dinero deben ser honestas, claras, transparentes y dignas de confianza.",

@@ -33,7 +33,43 @@ let questionsTF = [
         respuesta: "V",
         V: "Tu respuesta es correcta, las finanzas son el conjunto de actividades encaminadas al uso y administración del dinero.",
         F: "Recuerda que las finanzas son el conjunto de actividades encaminadas al uso y administración del dinero. ",
+    }, //Preguntas parafraseadas
+    {
+        id:6,
+        enunciado: "La ética se refiere a un comportamiento humano correcto basado en la práctica de valores",
+        respuesta: "V",
+        V: "Tu respuesta es correcta, la ética busca un comportamiento humano correcto fundamentado en valores. Es esencial reflexionar sobre la influencia de los valores en nuestra conducta para una convivencia ética.",
+        F: "Recuerda que la ética se refiere a un comportamiento humano correcto basado en la práctica de valores. Es importante entender cómo los valores éticos guían nuestras acciones y decisiones en la vida.",
     },
+    {
+        id:7,
+        enunciado: "El código civil regula la sociedad en comandita por acciones",
+        respuesta: "F",
+        V: "Recuerda que el código civil no regula la sociedad en comandita por acciones. Este tipo de sociedad está regulado por el código de comercio. Es importante diferenciar entre las normativas que rigen diferentes tipos de sociedades.",
+        F: "Tu respuesta es correcta, el código civil no regula la sociedad en comandita por acciones. Esta figura jurídica está regulada por el código de comercio.",
+    },
+    {
+        id:8,
+        enunciado: "La Ley General de Sociedades Mercantiles (L.G.S.M) regula la sociedad cooperativa",
+        respuesta: "V",
+        V: "Tu respuesta es correcta, la Ley General de Sociedades Mercantiles (L.G.S.M) no regula la sociedad cooperativa. Esta figura se rige por la Ley General de Sociedades Cooperativas (L.G.S.C).",
+        F: "Recuerda que la Ley General de Sociedades Mercantiles (L.G.S.M) no regula la sociedad cooperativa. La sociedad cooperativa está regulada por la Ley General de Sociedades Cooperativas (L.G.S.C).",
+    },
+    {
+        id:9,
+        enunciado: "La sociedad en nombre colectivo ha caído en desuso",
+        respuesta: "V",
+        V: "Tu respuesta es correcta, la sociedad en nombre colectivo no ha caído en desuso por completo. Aunque su uso es menos frecuente en la actualidad, todavía se utiliza en ciertos casos particulares.",
+        F: "Recuerda que la sociedad en nombre colectivo no ha caído en desuso. Aunque su uso es menos común en comparación con otras formas de sociedad, todavía se emplea en algunos contextos específicos.",
+    },
+    {
+        id:10,
+        enunciado: "Las personas físicas y personas morales son las únicas figuras reconocidas por el Servicio de Administración Tributaria (SAT) en México",
+        respuesta: "V",
+        V: "Tu respuesta es correcta, el Servicio de Administración Tributaria (SAT) en México no solo reconoce a las personas físicas y personas morales, sino también a otros contribuyentes, como las personas físicas con actividades empresariales y profesionales, entre otras.",
+        F: "Recuerda que el Servicio de Administración Tributaria (SAT) en México también reconoce otras figuras, como las personas físicas con actividades empresariales y profesionales, entre otras. Existen diversas formas de contribuyentes.",
+    },
+
 ];
 
 //Sirve para revisar las preguntas una vez que han sido contestadas
