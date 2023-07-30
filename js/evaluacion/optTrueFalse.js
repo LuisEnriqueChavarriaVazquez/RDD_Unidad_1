@@ -153,7 +153,7 @@ function printQuestionsTrueFalse(){
 
     let suffledquestionsTF = shuffle(questionsTF);
 
-    for(var i = 0; i < 5; i++){
+    for(var i = 0; i < 8; i++){
         containerTrueFalse.innerHTML +=  `
             <section class="randomizeDOMClass lazy">
                 <form class="cardPregunta clgreyl2 border1 shadow2">
