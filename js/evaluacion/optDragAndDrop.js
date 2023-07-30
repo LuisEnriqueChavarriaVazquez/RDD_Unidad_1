@@ -95,24 +95,68 @@ let questionsDragAndDrop = [
   ],
   [
     {
-      concepto: "Concepto 2.1",
-      definicion: "Lorem ipsum dolor sit amet consect offcorrupti impedit.",
+      concepto: "Ética",
+      definicion: "Trata sobre lo que se considera un comportamiento humano correcto, basado en la práctica de valores. En el ámbito financiero, implica que todas las acciones relacionadas con el manejo del dinero deben ser honestas, claras, transparentes y dignas de confianza.",
     },
     {
-      concepto: "Concepto 2.2",
-      definicion: "Ullam dignissimos. Minus molestias idoffi Minus molestias.",
+      concepto: "Economía",
+      definicion: "Ciencia que se enfoca en satisfacer las necesidades humanas y en generar y administrar la riqueza. Está estrechamente relacionada con las finanzas, ya que estas últimas son parte integral de la economía.",
     },
     {
-      concepto: "Concepto 2.3",
-      definicion: "Ullam dignissimos. Minus molestias idoffi Minus molestias.",
+      concepto: "Derecho",
+      definicion: "Conjunto de leyes que regulan las actividades financieras. En caso de no acatar o cumplir con estas leyes, existen sanciones legales.",
     },
     {
-      concepto: "Concepto 2.4",
-      definicion: "Ullam dignissimos. Minus molestias idoffi Minus molestias.",
+      concepto: "Clientes",
+      definicion: "Personas que compran bienes o adquieren servicios de la empresa.",
     },
 
     {
       id: "1"
+    }
+  ],
+  [
+    {
+      concepto: "Proveedores",
+      definicion: "Entidades que venden bienes o prestan servicios a la empresa, como materia prima, equipo de cómputo, mobiliario, servicios de internet, etc.",
+    },
+    {
+      concepto: "Competidores",
+      definicion: "Empresas que ofrecen el mismo producto o productos sustitutos, cubriendo la misma necesidad aunque no sean idénticos.",
+    },
+    {
+      concepto: "Entidades financieras",
+      definicion: "Instituciones, como los bancos, que son fuentes de financiamiento para la empresa, prestando dinero y cobrando una tasa de interés a cambio.",
+    },
+    {
+      concepto: "Comunidad",
+      definicion: "Conjunto de personas que conforman el entorno social de la empresa, con características como ideología, costumbres, inquietudes por el medio ambiente y estilo de vida.",
+    },
+
+    {
+      id: "2"
+    }
+  ],
+  [
+    {
+      concepto: "Tesorería",
+      definicion: "Área de la empresa que se enfoca en el manejo de los recursos financieros",
+    },
+    {
+      concepto: "Contraloría",
+      definicion: "Área de la empresa responsable de la actividad contable, la planeación, presupuestos, auditoría interna, entre otras",
+    },
+    {
+      concepto: "Entidades financieras",
+      definicion: "Instituciones, como los bancos, que son fuentes de financiamiento para la empresa, prestando dinero y cobrando una tasa de interés a cambio.",
+    },
+    {
+      concepto: "Comunidad",
+      definicion: "Conjunto de personas que conforman el entorno social de la empresa, con características como ideología, costumbres, inquietudes por el medio ambiente y estilo de vida.",
+    },
+
+    {
+      id: "3"
     }
   ],
 
