@@ -259,7 +259,7 @@ function crearPdf(){
              
                  ///////////////////////////////////////////////
                  //Preguntas
-                 doc.setFontSize(11);
+                 doc.setFontSize(8);
                  doc.setTextColor(0,0,0);
                  doc.setFontType("bold");
  
@@ -267,11 +267,14 @@ function crearPdf(){
                  var splitText = doc.splitTextToSize(textLong, 175);
                  doc.text(20, posicionEnunciado, splitText);
  
-                 doc.setFontSize(10);
+                 doc.setFontSize(8);
                  doc.setTextColor(0, 0, 0);
                  doc.setFontType("normal");
-                 doc.text(20, posicionRespuesta, 'Su respuesta: ' + `${resultadoFinal[index].getAttribute('resultadoFinal')}`);
-                 doc.text(20, posicionRespuestaCorrecta, 'Retroalimentación = ' + `${respuestaCorrectaFinal[index].textContent}`);
+                 doc.text(20, posicionRespuesta-5, 'Su respuesta: ' + `${resultadoFinal[index].getAttribute('resultadoFinal')}`);
+
+                 doc.setFontSize(7);
+                 var splitText = doc.splitTextToSize(`${respuestaCorrectaFinal[index].textContent}`, 166);
+                 doc.text(20, posicionRespuestaCorrecta-5, splitText);
  
                  doc.setFontSize(20);
                  doc.setTextColor(0, 0, 0);
