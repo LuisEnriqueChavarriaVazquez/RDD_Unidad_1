@@ -29,10 +29,10 @@ function inyectFooter(){
             </section>
         </div>
         <div class="footerContainerTwo">
-        <a class='btn waves-effect waves-light border1 clgreyl4 black-text' style="z-index: 0;" href='manual.html'>Manual<i
+        <!--<a class='btn waves-effect waves-light border1 clgreyl4 black-text' style="z-index: 0;" href='manual.html'>Manual<i
             class="material-icons right">help</i></a>
         <a class='btn waves-effect waves-light border1 clgreyl4 black-text' style="z-index: 0;" href='contacto.html'>Contacto<i
-            class="material-icons right">alternate_email</i></a>
+            class="material-icons right">alternate_email</i></a>-->
         </div>
     </footer>
     `;

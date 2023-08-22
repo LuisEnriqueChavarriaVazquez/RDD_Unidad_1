@@ -271,7 +271,7 @@ const contenidosUnidad = [
                     <i class="keyWord">"Individuo que realiza cualquier actividad económica (vendedor, comerciante, empleado, profesionista, etc.),</i> el cual tiene derechos y obligaciones" (SAT, s.f).
                 </p>
 
-                <blockquote class="clgreyl1 clgreytx textoDinamicoIdentificador textoReadingH2">
+                <!--<blockquote class="clgreyl1 clgreytx textoDinamicoIdentificador textoReadingH2">
                     En el siguiente link conoce las actividades que como persona física se pueden realizar:
                 </blockquote>
 
@@ -285,7 +285,7 @@ const contenidosUnidad = [
                             </span>
                         </div>
                     </div>
-                </a>
+                </a>-->
             </div>
         </div>
         <br>
@@ -350,7 +350,7 @@ const contenidosUnidad = [
             </div>
         </div><br>
         <br>
-        <p class="clbktx textoDinamicoIdentificador textoReadingH2">
+        <!--<p class="clbktx textoDinamicoIdentificador textoReadingH2">
             <i class="keyWord">Es importante señalar que algunas de las sociedades antes mencionadas han caído en desuso,</i> tal es el caso de la sociedad en nombre colectivo, la sociedad en comandita simple y la sociedad en comandita por acciones.<br><br>
             En la siguiente lectura encontrarás más información sobre las empresas y su constitución jurídica.    
         </p>
@@ -381,7 +381,7 @@ const contenidosUnidad = [
                     </span>
                 </div>
             </div>
-        </a>
+        </a>-->
 
 
     </div>
@@ -533,7 +533,7 @@ const contenidosUnidad = [
             </div>
             <p class="noteImageMine clgreyl1 border1">Hernández, J., Rodríguez, E. & Jiménez, Y. (2023).</p>
         </div>
-        <p class=" clbktx textoDinamicoIdentificador textoReadingH2">
+        <!--<p class=" clbktx textoDinamicoIdentificador textoReadingH2">
             Como se puede apreciar en la figura 1.3 la función contable debe considerarse como un insumo necesario para la función financiera.<br><br>
             Después de haber leído el tema, ya cuentas con los conocimientos necesarios para desarrollar la siguiente actividad de aprendizaje:
         </p><br>
@@ -547,7 +547,7 @@ const contenidosUnidad = [
                     </span>
                 </div>
             </div>
-        </a>
+        </a>-->
     </div>
 </div>`,
   `<div class="shadow4 border1 clw">
@@ -727,7 +727,7 @@ const contenidosUnidad = [
         </section>
 
         <br>
-        <blockquote class="clgreyl1 clgreytx textoDinamicoIdentificador textoReadingH2">
+        <!--<blockquote class="clgreyl1 clgreytx textoDinamicoIdentificador textoReadingH2">
             Es momento de aplicar lo que has aprendido en esta unidad temática, realiza la siguiente actividad de aprendizaje:
         </blockquote>
 
@@ -741,13 +741,13 @@ const contenidosUnidad = [
                     </span>
                 </div>
             </div>
-        </a>
+        </a>-->
     </div>
 </div>`,
-  `<section class="containerActividadAprendizajeFather">
+  `<!--<section class="containerActividadAprendizajeFather">
     <div class="textoTitulo clbktx">Material de apoyo</div>
     <section class="gridActividadesAprendizaje">
-        <!--Tarjeta 1-->
+        
         <div class="actividadesAprendizaje border1 clgreyl2 shadow2 tarjetaActividades">
             <p class="cardTitleActividad tituloActividadAprendizaje clbktx">Material de apoyo 1</p>
             <p class="truncate descActividadAprendizaje clbktx">Descripción del material de apoyo número 1 de ejemplo
@@ -758,7 +758,6 @@ const contenidosUnidad = [
             </div>
         </div>
 
-        <!--Tarjeta 2-->
         <div class="actividadesAprendizaje border1 clgreyl2 shadow2 tarjetaActividades">
             <p class="cardTitleActividad tituloActividadAprendizaje clbktx">Material de apoyo 2</p>
             <p class="truncate descActividadAprendizaje clbktx">Descripción del material de apoyo número 1 de ejemplo
@@ -769,7 +768,6 @@ const contenidosUnidad = [
             </div>
         </div>
 
-        <!--Tarjeta 3-->
         <div class="actividadesAprendizaje border1 clgreyl2 shadow2 tarjetaActividades">
             <p class="cardTitleActividad tituloActividadAprendizaje clbktx">Material de apoyo 3</p>
             <p class="truncate descActividadAprendizaje clbktx">Descripción del material de apoyo número 1 de ejemplo
@@ -780,13 +778,13 @@ const contenidosUnidad = [
             </div>
         </div>
     </section>
-</section>
+</section>-->
 `,
   `<!--Tarjeta con las actividades-->
-<section class="containerActividadAprendizajeFather">
+<!--<section class="containerActividadAprendizajeFather">
     <div class="textoTitulo clbktx">Actividades de aprendizaje</div>
     <section class="gridActividadesAprendizaje">
-        <!--Tarjeta 1-->
+
         <div class="actividadesAprendizaje border1 clgreyl2 shadow2 tarjetaActividades">
             <p class="cardTitleActividad tituloActividadAprendizaje clbktx">Actividad 1</p>
             <p class="truncate descActividadAprendizaje clbktx">Descripción de las actividad número 1 de ejemplo</p>
@@ -796,7 +794,6 @@ const contenidosUnidad = [
             </div>
         </div>
 
-        <!--Tarjeta 2-->
         <div class="actividadesAprendizaje border1 clgreyl2 shadow2 tarjetaActividades">
             <p class="cardTitleActividad tituloActividadAprendizaje clbktx">Actividad 2</p>
             <p class="truncate descActividadAprendizaje clbktx">Descripción de las actividad número 1 de ejemplo</p>
@@ -806,7 +803,6 @@ const contenidosUnidad = [
             </div>
         </div>
 
-        <!--Tarjeta 3-->
         <div class="actividadesAprendizaje border1 clgreyl2 shadow2 tarjetaActividades">
             <p class="cardTitleActividad tituloActividadAprendizaje clbktx">Actividad 3</p>
             <p class="truncate descActividadAprendizaje clbktx">Descripción de las actividad número 1 de ejemplo</p>
@@ -817,9 +813,9 @@ const contenidosUnidad = [
         </div>
 
     </section>
-</section>
+</section>-->
 `,
-  `<div class="shadow4 border1 clw">
+  `<!--<div class="shadow4 border1 clw">
     <div class="textoTitulo titleContainer white-text cl2 border1Sup">Cierre de la unidad temática</div>
     <div class="cardDesign clw border1Inf">
         <p class="clbktx textoDinamicoIdentificador textoReadingH2">
@@ -837,11 +833,12 @@ const contenidosUnidad = [
         <a href="https://icons8.com/illustrations/illustration/pixeltrue-success">Ouch!</a>
         </span>
     </div>
-</div>
+</div>-->
 `,
   `11 (referencias)`,
-  `12
-`,
+  `12`,
+  `13`,
+  `14`,
 ];
 
 console.log("contenidosUnidad: ", contenidosUnidad.length);
