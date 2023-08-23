@@ -4,7 +4,7 @@ const contenidosUnidad = [
 <div class="mainTabsContent" id="tabsContentID">
     <ul id="tabs-swipe-demo" class="tabs clgreyl2 shadow4">
         <li class="tab clgreyl2" id="a6tutorialButton"><a class="clbktx active" href="#test-swipe-1">Bienvenida</a></li>
-        <li class="tab clgreyl2" id="a8tutorialButton"><a class="clbktx" href="#test-swipe-3">Metodología</a>
+        <!--<li class="tab clgreyl2" id="a8tutorialButton"><a class="clbktx" href="#test-swipe-3">Metodología</a>-->
         <li class="tab clgreyl2" id="a7tutorialButton"><a class="clbktx" href="#test-swipe-2">Unidad de competencia</a></li>
         </li>
         <li class="tab clgreyl2" id="a9tutorialButton"><a class="clbktx" href="#test-swipe-4">Evaluación de los aprendizajes</a></li>
@@ -57,7 +57,7 @@ const contenidosUnidad = [
     </div>
 
 </div>
-<div id="test-swipe-3" class="tabsContentContainerInfo">
+<!--<div id="test-swipe-3" class="tabsContentContainerInfo">
 
     <div class="shadow4 border1 clw">
         <div class="textoTitulo titleContainer white-text cl2 border1Sup">Metodología</div>
@@ -110,7 +110,7 @@ const contenidosUnidad = [
 
     </div>
 
-</div>
+</div>-->
 <div id="test-swipe-4" class="tabsContentContainerInfo">
 
     <div class="shadow4 border1 clw">
